@@ -1,23 +1,29 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-15 13:35 UTC*
+*Atnaujinta: 2026-10-15 14:26 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Praktinės idėjos – kaip sodinti aukštyn augančius pomidorus ir „frigo“ braškes – suteikia patarimus miesto sodininkams. [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3062136/praktiskos-idejos-darzui-kaip-sodinti-aukstyn-augancius-pomidorus-ir-frigo-braskes)  
-- Lietuvoje planuojama pradėti elektroninių kovos priemonių ir dronų komponentų gamybą, siekiant stiprinti gynybos industriją. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3083368/lietuvoje-planuojama-pradeti-elektronines-kovos-priemoniu-ir-dronu-komponentu-gamyba)  
-- Dainininkas Merūnas po dešimties metų pristatė naują kūrinį su orkestru, džiaugdamas muzikos gerbėjus. [šaltinis](https://www.lrt.lt/naujienos/muzika/680/3083353/merunas-pristato-kurini-su-orkestru-prie-tokio-skambesio-grizo-po-desimties-metu)  
-- Buvusio Molėtų ligoninės direktoriaus Vaidoto Grigo byla bus iš naujo nagrinėjama, kad būtų išsiaiškintos galimos procedūrų klaidos. [šaltinis](https://www.lrt.lt/naujienos/sveikata/682/3083357/buvusio-moletu-ligonines-direktoriaus-vaidoto-grigo-byla-bus-nagrinejama-is-naujo)  
-- Naujininkuose dalis namo gyventojų vis dar šąla dėl vėluojančių renovacijos darbų ir ieško skubaus sprendimo. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3083290/naujininkuose-dalis-namo-gyventoju-del-veluojanciu-renovacijos-darbu-vis-dar-sala)  
-- Pradėta paviršinių nuotekų tinklo rekonstrukcija P. Vileišio gatvėje Vilniuje, siekiant pagerinti miesto kanalizacijos sistemą. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3083355/sostines-p-vileisio-gatveje-pradedama-pavirsiniu-nuoteku-tinklo-rekonstrukcija)  
-- Apklausų duomenimis, Lietuvos jaunimas tikisi uždirbti ne mažiau kaip 1500 € per mėnesį po mokesčių, kas rodo didelius atlyginimų lūkesčius. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083236/survey-lithuanian-youth-expect-at-least-eur1-500-a-month-after-taxes)
+- Nauja Saukos skulptūra ir virtualūs nuotykiai pateikiamos kaip penkios rekomendacijos savaitgaliui. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3080080/nauja-saukos-skulptura-ir-virtualus-nuotykiai-5-rekomendacijos-savaitgaliui)  
+- „Banginio kritimo“ aktoriai atskleidė netikėtą pamoką ir atrankos akimirkas filmų užkulisiuose. [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3080217/atranka-palapineje-ir-netiketa-pamoka-banginio-kritimo-aktoriai-apie-filmo-uzkulisius)  
+- Vilniaus teniso akademijos auklėtinis pakviestas į prestižinį tarptautinį turnyrą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3083325/vilniaus-teniso-akademijos-aukletinis-pakviestas-i-prestizini-turnyra)  
+- „Amber Grid“ pranešė, kad 2023 m. dujų suvartojimas Lietuvoje išaugo 17 %. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3083392/amber-grid-duju-suvartojimas-lietuvoje-siemet-augo-17-proc)  
+- BNS Sprintas apžvelgė PSDF ir „Sodros“ biudžetų pokyčius bei (ne)įsipareigojimus aukštosioms mokykloms. [šaltinis](https://www.15min.lt/naujiena/aktualu/bns-sprintas/bns-sprintas-ketvirtadienio-ivykiai-trumpai-1766-2785888?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
+- Lietuvos ir Ukrainos įmonės planuoja bendrą dronų komponentų gamyklą, siekdamos sustiprinti gynybos pramonę. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083396/lithuanian-and-ukrainian-companies-plan-joint-drone-components-factory)  
+- Apklausos rodo, kad Lietuvos jaunimas tikisi ne mažiau kaip 1500 € atlyginimo po mokesčių. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083236/survey-lithuanian-youth-expect-at-least-eur1-500-a-month-after-taxes)
 
 ## 🌍 Pasaulyje
 
-- Rusija kaltina Ukrainą dėl naftos perdirbimo įmonės atakos po to, kai Zelenskis paskelbė, kad smūgiai sugrįš. [šaltinis](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)  
-- Pakistane dviukų mokyklos stogas žlugo, žuvo mažiausiai 33 mokiniai ir mokytojas. [šaltinis](https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss)  
-- Turkijoje, Stambulyje, sunkiausios per pastaruosius 84 metus krituliai sukėlė dvių žmonių mirtį. [šaltinis](https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss)  
-- Dronų ataka uždegė naftotankerį prie Rumunijos pakrantės, o tuo pat metu du kiti laivai užsidegė Juodosios jūros vandenyse, palikdami bendrą apie septynių–aštuonių įgulos narių trūkumą. [šaltinis BBC](https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss) [šaltinis DW](https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-world-4025-rdf)  
-- JAV Baltasis namas gina naująjį spaudos sekretorių, ginant jo teisinį išsilavinimą. [šaltinis](https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss)  
-- Brazilijos Kongresas priėmė įstatymą, trumpinantį darbo savaitę, kas svarbu tiek šalies darbo rinkai, tiek pasaulio klimatui. [šaltinis BBC](https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss) [šaltinis DW](https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-world-4025-rdf)  
-- Kinija ir Šiaurės Korėja atvėrė naują sienos tiltelį po 12‑metų delsos, stiprindamos tarpusavio ryšius. [šaltinis Al Jazeera](https://www.aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties?traffic_source=rss) [šaltinis DW](https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-world-4025-rdf)
+- Rusija kaltina Ukrainą dėl naftos perdirbimo įrenginio atakų ir prieštaravimo JAV sudarytai susitarimui, po to kai Zelenskis paskelbė, kad smūgiai bus atnaujinti. [BBC](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss) [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss)  
+
+- Pakistane griuvo mokyklos stogas, po ko žuvo bent 33 mokiniai ir mokytojas. [BBC](https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss)  
+
+- Stambule krinta stipriausios per 84 metus krituliai, kurių metu žuvo du žmonės. [BBC](https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss)  
+
+- Dronų ataka prie Rumunijos pakrantės uždegė naftotankerį, kurio 8 įgula nariai dingo, o šalia įdegusios kitos dvi laivų dalys traukia 7 narius. [BBC](https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss) [DW](https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-world-4025-rdf)  
+
+- Baltasis namas gynė naująją spaudos sekretorę dėl jos teisinių kvalifikacijų. [BBC](https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss)  
+
+- Brazilijos kongresas priėmė įstatymą dėl trumpesnės darbo savaitės, tai laikoma Lulos pergalė. [BBC](https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss)  
+
+- ES viršūnės susitikime planuojama diskutuoti apie Kiniją, Ukrainą ir blokų biudžetą. [DW](https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf)
