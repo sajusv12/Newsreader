@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-15 02:22 UTC*
+*Atnaujinta: 2026-10-15 03:21 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- ES rinkoje auga elektronikos prietaisų kiekis, tačiau jų atliekų perdirbimas vis dar atsilieka. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3082484/es-rinkoje-daugeja-elektronikos-prietaisu-taciau-ju-atlieku-perdirbimas-atsilieka)  
-- „Virtus“ klubo jaunių komanda ketvirtą kartą pralaimėjo Eurolygoje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3082387/itemptoje-akistatoje-virtus-klubas-paryzieciams-israse-ketvirta-nesekme-eurolygoje)  
-- Kaune veikiantis restoranas leido lankytojams patiems pasirinkti PVM tarifą – 9 ar 21 procentą. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3082431/9-ar-21-proc-kauno-restoranas-klientams-leidzia-patiems-pasirinkti-pvm-tarifa)  
-- Mirė žinomas žurnalistas ir dokumentinių filmų kūrėjas Ferdinandas Kauzonas. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/mire-zinomas-zurnalistas-dokumentiniu-filmu-kurejas-ferdinandas-kauzonas-56-2784136?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-- Lietuvos vyriausybė tyliau siekia atkurti santykius su Kinija ir tikisi proveržio gruodį. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082401/lithuania-works-on-mending-ties-with-china-less-publicly-expects-breakthrough-in-december)  
-- Lietuva įvedė nacionalinį turto užšaldymą Rusijos verslininkams Usmanovui ir Fridmanui. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082338/lithuania-imposes-national-asset-freezes-on-russian-businessmen-usmanov-and-fridman)  
-- Vidaus ministras prašo pratęsti karinę apsaugą Lietuvos Kaliningrado sienai. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082220/interior-minister-asks-to-extend-military-protection-of-lithuania-s-kaliningrad-border)
+- „Axios“ pranešime nurodoma, kad Jungtinių Valstijų Vakarų rūmai neigia savo dalyvavimą ribojant „Starlink“ ryšio paslaugas Ukrainoje [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3082392/karas-ukrainoje-axios-baltieji-rumai-neigia-prisideje-prie-starlink-apribojimu).  
+- Prezidentas Gitanas Nausėda Europos Vadovų taryboje aptars ES finansavimą, gynybą ir migracijos klausimus [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3083005/nauseda-europos-vadovu-taryboje-aptars-es-finansavima-gynyba-migracija).  
+- Lietuva tyliai dirba su Kinija siekdama atkurti diplomatinį ryšį ir tikisi šį procesą užbaigti gruodžio mėnesį [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082401/lithuania-works-on-mending-ties-with-china-less-publicly-expects-breakthrough-in-december).  
+- Lietuvos vyriausybė uždraudė nacionalinius rusiškų verslininkų Alisherio Usmanovo ir Michaio Fridmano turtus šalyse, taikydama sankcijas [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082338/lithuania-imposes-national-asset-freezes-on-russian-businessmen-usmanov-and-fridman).  
+- Vidaus reikalų ministras prašo pratęsti karinės apsaugos priemonės prie Lietuvos‑Kaliningrado sienos galiojimą [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082220/interior-minister-asks-to-extend-military-protection-of-lithuania-s-kaliningrad-border).  
+- Lietuvos ministras pasiūlė drausti užsieniečiams studentams savarankišką darbą šalyje [šaltinis](https://www.lrt.lt/en/news-in-english/19/3081146/lithuanian-minister-proposes-to-ban-self-employment-for-foreign-students).  
+- Lietuva siekia pripažinti Rusijos karinės žvalgybos agentūrą (GRU) teroristų organizacija [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082129/lithuania-seeks-to-designate-russia-s-military-intelligence-agency-as-terrorist-group).
 
 ## 🌍 Pasaulyje
 
-- Elonas Muskas teigė, kad JAV vyriausybė galėjo slopinti Ukrainos bepiločių greitį. [šaltinis](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)  
-- Albanijoje studentų protestai prieš vyriausybę sukėlė gaisrą Švietimo ministerijoje ir užpuolė vyriausybės pastatus. [šaltinis](https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss)  
-- Popiežius pradėjo vaikščioti ir sveiksta po operacijos, kaip tikėtasi. [šaltinis](https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss)  
-- JAV infliacija pakilo labiau nei prognozuota, o vartotojų kainos sparčiai kyla. [šaltinis](https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss)  
-- Vokietijoje pradėtas teismo procesas prieš ukrainietį, kurio kaltinimu – Nord Stream dujų vamzdynų sprogdinimas. [šaltinis](https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss)  
-- Australijoje pirmą kartą „Michelin“ žvaigždutės paskirstytos 11 restoranų vienoje valstijoje. [šaltinis](https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss)  
-- Stambulas patyrė didžiausius nuo 1985 metų lietaus potvynių potvynius, sukeldamas chaoso situaciją. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss)
+- Elonas Muskas teigia, kad JAV vyriausybė gali būti atsakinga už Ukrainos bepiločių greičio sulėtėjimą. [šaltinis](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)  
+- Albanijoje studentų protestai sukėlė atakas prieš vyriausybės pastatus ir uždegimą Švietimo ministerijoje. [šaltinis](https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss) & [šaltinis](https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-world-4025-rdf)  
+- Popiežius Pranciškus pradėjo vaikščioti ir sveiksta pagal gydytojų prognozes po operacijos. [šaltinis](https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss)  
+- JAV infliacija išaugo daugiau nei tikėtasi, dar labiau pakeldama vartotojų kainas. [šaltinis](https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss)  
+- Vokietija pradėjo teismą prieš Ukrainos pilietį, kaltinant jį dėl Nord Stream dujų vamzdynų sprogdinimo. [šaltinis](https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss)  
+- Australijoje pirmą kartą paskelbta 11 restoranų, kurie visų pirma gavo „Michelin“ žvaigždes vienoje valstijoje. [šaltinis](https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss)  
+- Kenijoje aptikta naujų ebolos atvejų, kas išbando šalies pasirengimą epidemijos valdymui už Niujorko miesto ribų. [šaltinis](https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss)
