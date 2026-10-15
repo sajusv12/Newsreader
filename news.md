@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-15 11:22 UTC*
+*Atnaujinta: 2026-10-15 12:26 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Normantas, spindintis pasirodymu, padėjo Bilbao klubui laimėti antrąją rungtynių pergalę Eurolygoje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3082372/spindejes-normantas-atvede-bilbao-kluba-i-antraja-pergale-cempionu-lygoje)  
-- „Anadolu Efes“ pralaimėjo Jokubaičio atstovaujamam „Bayern“ prieš artėjančią „Žalgirio“ kovą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3082382/pries-kova-su-zalgiriu-anadolu-efes-pralaimejimas-jokubaicio-atstovaujamam-bayern)  
-- Lietuva neketina eiti draudimų keliu dėl Maskvos patriarchato cerkvių, kurios kelia nerimą Europoje. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3082426/maskvos-patriarchato-cerkves-kelia-nerima-europoje-lietuva-draudimu-keliu-eiti-neketina)  
-- Popiežius Pranciškus neįprastai atvirai kalbėjo apie savo sveikatą, tiesiogiai atsakydamas į spaudos klausimus. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3082479/vatikanui-neiprastas-atvirumas-popiezius-apie-savo-sveikata-prabilo-pats)  
-- Lietuvos prekybos sąjunga viešai prieštarauja prezidento planui apriboti migrantų darbo leidimus. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083131/lithuanian-trade-unions-oppose-president-s-plan-to-limit-migrant-workers-permits)  
-- Lietuvos premjeras ragina pagreitinti gynybos įsigijimus, nes šių metų išlaidos vėluoja nuo numatyto biudžeto. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083083/lithuanian-pm-urges-faster-defence-procurement-as-spending-lags-behind-budget)  
-- Vilnius tapo pagrindine filmavimo vieta TV serialui „Mergaitė su drakono tatuiruote“. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082090/vilnius-hosts-filming-of-the-girl-with-the-dragon-tattoo-tv-series)
+Po grįžimo į viešumą princas Harry ir Meghan Markle pirmą kartą pasirodė kartu, pritraukdami didžiulį dėmesį. [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3083250/po-grizimo-viesumoje-pirma-karta-kartu-pasirode-princas-harry-ir-meghan-markle)  
+Reginų Vildžiūno naujausio filmo pasaulinė premjera vyko Varšuvoje, kurioje dalyvavo visa filmo kūrybos komanda. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3083246/naujausio-vildziuno-filmo-pasaulineje-premjeroje-varsuvoje-visa-filmo-seima)  
+„Žalgirio“ dvikova su „Anadolu Efes“ 43‑ąją kartą iš eilės vyko Sausakimša arena, išlaikydama rekordinį lankomumą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3083249/zalgirio-dvikovoje-su-anadolu-efes-sausakimsa-arena-43-ia-karta-is-eiles)  
+Lietuvoje planuojama sukurti vieną programėlę, kurioje būtų saugomi asmens dokumentai – pasas, vairuotojo pažymėjimas ir diplomai. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3070157/pasas-vairuotojo-pazymejimas-diplomai-vienoje-programeleje-kada-tai-turesime-lietuvoje)  
+Seimas svarstys įstatymą, kuriuo būtų įpareigotas LRT skirti daugiau laiko programų su subtitrais transliavimui. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/seimas-imsis-siulymo-ipareigoti-lrt-daugiau-laiko-rodyti-laidas-su-subtitrais-56-2785770?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
+Apklausos duomenimis, Lietuvos jaunimas tikisi po mokesčių gauti ne mažiau kaip 1 500 eurų per mėnesį. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083236/survey-lithuanian-youth-expect-at-least-eur1-500-a-month-after-taxes)  
+Lietuvos ministras Pirmininkas ragina pagreitinti gynybos įsigijimus, nes šiuo metu išlaidos nesiekia biudžeto planų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083083/lithuanian-pm-urges-faster-defence-procurement-as-spending-lags-behind-budget)
 
 ## 🌍 Pasaulyje
 
-- Ukrainos prezidentas Zelenskis paskelbė, kad šalis vėl pradės smūgius į Rusijos naftos perdirbimo gamyklas, o Rusija teigia, kad atakos jau vyksta. [BBC](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss) [Al Jazeera](https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss)  
-- Stambulyje po 84 metų sunkiausio lietaus žuvo du žmonės. [BBC](https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss)  
-- Dronų ataka uždegė naftotankerį prie Rumunijos pakrantės, aštuonerių įgulos narių likimas nežinomas. [BBC](https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss)  
-- Brazilijos Kongresas priėmė įstatymą, mažinantį darbo savaitės trukmę, laimėdamas prezidento Luiz Inácio Lula da Silva iniciatyvą. [BBC](https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss)  
-- Jemene kova sustiprėjo, o šalių jėgos intensyvina karinius veiksmus įvairiose fronto zonose. [Al Jazeera](https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss)  
-- FIFA svarsto keisti taisykles po to, kai Baloguno raudonos kortelės incidentas sukėlė kritikos bangą per Pasaulio čempionatą. [Al Jazeera](https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss)  
-- Azijos futbolo čempionatas Saudo Arabijoje gali būti atidėtas metams dėl Houthi grupės atakų. [Al Jazeera](https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss)
+- Rusija kaltina Ukrainą, kad atakavo naftos perdirbimo gamyklą, po to kai Zelenskis pranešė, kad smūgiai bus atnaujinti. [šaltinis](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)  
+- Stipriausios per 84 metus lietaus kritimo metu Stambulyje žuvo du žmonės. [šaltinis](https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss)  
+- Dronų ataka prie Rumunijos pakrantės uždego naftinį tankerį, dingo aštuoni įgulos nariai, o likę penki laivo įgulos nariai liko dingę. [šaltinis](https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss)  
+- Brazilijos kongresas patvirtino trumpesnę darbo savaitę, o šis sprendimas sulaukė plataus palaikymo prezidento Lulos vadovaujamoje šalyje. [šaltinis](https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss)  
+- Europos Sąjungos viršūnės susitikime buvo aptariami Kinija, Ukraina ir biudžetas, siekiant sustiprinti bloką. [šaltinis](https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf)  
+- Šiaurės Korėja ir Kinija atidarė pasienio tiltą po 12 metų delsimo, kas gali skatinti prekybos ir transporto srautų augimą. [šaltinis](https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-world-4025-rdf)  
+- FIFA svarsto pakeisti taisykles po Baloguno raudonos kortelės incidento Pasaulio čempionate, siekdama išvengti panašių ginčų ateityje. [šaltinis](https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss)
