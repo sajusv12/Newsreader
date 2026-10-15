@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-15 07:34 UTC*
+*Atnaujinta: 2026-10-15 08:24 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Finansų ministras tapo socialdemokratų ir demokratų ginčų katalizatoriumi, teigė analitikas Kasčiūnas. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3083117/kasciunas-finansu-ministras-yra-socialdemokratu-ir-demokratu-gincu-katalizatorius)  
-- Vilniuje viešojo transporto eismas sustojo, kai troleibusas užstrigo kontaktiniame tinkle. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3083115/vilniuje-sutriko-viesojo-transporto-eismas-uz-kontaktinio-tinklo-uzstrigo-troleibusas)  
-- Pinigų plovimo prevencijos kompetencijų centro vadovė Eglė Lukošienė traukiasi iš pareigų. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3083112/traukiasi-pinigu-plovimo-prevencijos-kompetenciju-centro-vadove-egle-lukosiene)  
-- Žalgirio jaunimo futbolo komanda antrą kartą įveikė Islandiją ir įžengė į kitą UEFA Jaunimo lygos etapą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3083101/antra-karta-islandus-iveike-zalgirieciai-zenge-i-kita-uefa-jaunimo-lygos-etapa)  
-- Lietuvos premjeras ragina spartinti gynybos įrangos pirkimus, nes biudžeto išlaidos vėluoja. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083083/lithuanian-pm-urges-faster-defence-procurement-as-spending-lags-behind-budget)  
-- Lietuva tyliai dirba su Kinija, tikisi, kad 2024 m. gruodį bus pasiektas santykių atstatymo proveržis. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082401/lithuania-works-on-mending-ties-with-china-less-publicly-expects-breakthrough-in-december)  
-- Lietuvos valstybė užšaldė nacionalų Rusijos verslininkų Usmanovo ir Fridmano turtą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082338/lithuania-imposes-national-asset-freezes-on-russian-businessmen-usmanov-and-fridman)
+- Ministras finansų M. Sinkevičius ragina politinius partnerius vienytis rengiant kitų metų valstybės biudžetą, kad būtų išvengta neaiškumų ir užtikrintas finansinis stabilumas. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3083143/m-sinkevicius-ragina-partnerius-vienytis-rengiant-kitu-metu-valstybes-biudzeta)  
+- Nuo šiol nebereikės sutuoktinio sutikimo norint prekiauti vertybiniais popieriais, kas palengvins finansų rinkų operacijas ir sumažins biurokratiją. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3083100/nebereikes-sutuoktinio-sutikimo-norint-prekiauti-vertybiniais-popieriais)  
+- Lietuvos mokslininkų tyrimas parodė, kad dirbtinis intelektas gali anksti įspėti apie gliukozės lygio svyravimus, potencialiai padedant diabetu sergantiems pacientams. [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3076472/naujas-lietuvos-mokslininku-tyrimas-ar-di-gali-ispeti-apie-glikozes-pokycius-is-anksto)  
+- Romualdas Zemeckis pabrėžia, kad nors traktoriai jau tampa išmanūs, valstybės sprendimai dažnai nepakankamai atspindi šias technologines galimybes. [šaltinis](https://www.lrt.lt/naujienos/pozicija/679/3083125/romualdas-zemeckis-traktorius-jau-ismanus-o-valstybes-sprendimai)  
+- Lietuvos profsąjungos protestuoja prieš prezidento planą apriboti migrantių darbuotojų leidimus, teigdamos, kad tai kenkia darbo rinkai. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083131/lithuanian-trade-unions-oppose-president-s-plan-to-limit-migrant-workers-permits)  
+- Premjeras ragina spartinti gynybos įrangos pirkimus, nes esamos išlaidos atsilieka nuo biudžeto numatytų sumų ir gali susilpninti šalies saugumą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083083/lithuanian-pm-urges-faster-defence-procurement-as-spending-lags-behind-budget)  
+- Lietuva tyliai bando atstatyti santykius su Kinija, tikėdamasi, kad gruodžio mėnesį pasieks proveržį šioje srityje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082401/lithuania-works-on-mending-ties-with-china-less-publicly-expects-breakthrough-in-december)
 
 ## 🌍 Pasaulyje
 
-- Elono Musko teigimu, JAV vyriausybė galėjo būti įsitraukusi į Ukrainos bepiločių greičio sumažinimą. [šaltinis](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)  
-- Albanijoje studentų protestai išplitė iki vyriausybės pastatų užpuolimo ir net sukėlė gaisrą Švietimo ministerijoje. [šaltinis](https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss)  
-- Išėję išeitiniai JAV generolai paragino Pentagoną nutraukti „barbarišką“ gyvosios vykdymo transliaciją. [šaltinis](https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss)  
-- Baltasis rūmai gina naująją spaudos sekretorę, nepaisant klausimų dėl jos teisinės kvalifikacijos. [šaltinis](https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss)  
-- Indonezijos miestus apgaubė ryškus oranžinis rūkas, kurį gyventojai dalijasi vaizdo įrašu. [šaltinis](https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss)  
-- Kasimiro regione kilo stiprus pasipriešinimas pasiūlymui suvienodinti penktadienio pamaldas visose mečetėse. [šaltinis](https://www.aljazeera.com/news/2026/10/15/backlash-in-kashmir-over-proposal-for-uniform-friday-sermons-across-mosques?traffic_source=rss)  
-- G20 finansų ministrų ir centrinio bankų vadovų susitikimas vyko šalia padarinių po Irano karo. [šaltinis](https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss)
+- Elonas Muskas teigia, kad JAV vyriausybė galėjo sumažinti Ukrainos belaidžių dronų greitį. [šaltinis](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)  
+- Albanijoje studentai protestavo prieš vyriausybę, įskaitant užsiveržimą į vyriausybės pastatus ir gaisrą Švietimo ministerijoje. [šaltinis](https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-world-4025-rdf)  
+- Pensinę JAV generolus ragina Pentagoną nutraukti „barbarų“ mirties bausmės transliaciją gyvai. [šaltinis](https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss)  
+- Baltojo rūmų atstovai gynyboje naują spaudos sekretorę, kurios teisiniai įgūdžiai kelia klausimų. [šaltinis](https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss)  
+- Indonezijos miestus užklupo oranžinė rūkas, kurio šaltinis – miškų gaisrai ir tarša. [šaltinis](https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss)  
+- Hormuzo sąsiaure plūdo konteineriai ir kiti nuosėdos, keliančios grėsmes tarptautiniam jūrų transportui. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss)  
+- Rusijos branduolinė povandeninė laivų eskadra šiaurės vandenyne paleido raketas, parodydama galios demonstraciją. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-clip-russia-nuclear-submarines?traffic_source=rss)
