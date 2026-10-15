@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-15 05:21 UTC*
+*Atnaujinta: 2026-10-15 06:26 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- VSAT pranešė, kad Lietuvos pasienyje su Baltarusija nebuvo fiksuota neteisėtų migrantų. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3083038/vsat-lietuvos-pasienyje-su-baltarusija-neteisetu-migrantu-nefiksuota)  
-- Premjeras teigė, jog dar per anksti neigiamai susifokusuoti į finansų ministrą Valdą Valių, o po biudžeto pateikimo bus aišku, ar jis išliks šioje pozicijoje. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3083032/premjeras-apie-kritika-valiui-dar-per-anksti-neigiamai-susifokusuoti-i-finansu-ministra)  
-- Laura Labuckienė po „Kibirkšties“ šou išreiškė nuomonę, kad Eurolygoje galėtų būti taip pat lengva kaip Lietuvos lygoje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3083029/labuckiene-po-kibirksties-sou-galvos-kad-eurolygoje-taip-lengva-kaip-lietuvos-lygoje)  
-- Teisme nagrinėjamas milijoninis Ukrainos investuotojos ieškinys prieš „FishNet“ ir susijusias įmones. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3083028/teisme-milijoninis-ukrainos-investuotojos-ieskinys-fishnet-ir-susijusioms-imonems)  
-- Klaipėdos rajone iš seifo dingo pinigai ir deimantinis žiedas, Kaune pavogti šildymo katilai, o kituose miestuose įvyko automobilio vagystės ir smurtiniai incidentai. [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/klaipedos-rajone-is-seifo-dingo-pinigai-ir-ziedas-su-deimantais-kaune-pavogti-sildymo-katilai-59-2785164?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-- Vilnius tapo filmavimo vieta „Mergaitės su drakono tatuiruote“ (The Girl With The Dragon Tattoo) TV serijai, pritraukusios tarptautinį dėmesį. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082090/vilnius-hosts-filming-of-the-girl-with-the-dragon-tattoo-tv-series)  
-- Lietuva užšaldo nacionalų Rusų verslininkų Usmanovo ir Fridmano turtą, siekdama stiprinti saugumo priemones. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082338/lithuania-imposes-national-asset-freezes-on-russian-businessmen-usmanov-and-fridman)
+- Klaipėdoje ir Kaune pavogti du automobiliai. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3083066/klaipedoje-ir-kaune-pavogti-du-automobiliai)  
+- Europos Sąjungos lyderiai susirinko Briuselyje įtemptoms biudžeto deryboms, tačiau neaišku, ar pasieks konkrečių rezultatų. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3082388/es-lyderiu-susitikimas-daug-temu-daug-aistru-bet-rezultatu-nebus)  
+- Mokslininkai nustatė, kad Mėnulis kadaise turėjo stiprų magnetinį lauką, kuris išnyko maždaug prieš 2,5 mln. metų. [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3076475/kadaise-menulis-taip-pat-turejo-magnetini-lauka-kokio-stiprumo-jis-buvo-ir-kada-isnyko)  
+- Gitenis Umbrasas laimėjo Lietuvos menininkų asociacijos premiją už savo kūrybą. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3083057/lietuvos-meno-kureju-asociacijos-premijos-laureatas-gitenis-umbrasas)  
+- Ministras Šimėnas Šinkevičius (premjeras) teigia, kad KAM paaiškinimus dėl gynybos lėšų supranta, bet aparatui būtina dirbti sparčiau. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3083052/sinkevicius-kam-paaiskinimus-del-gynybos-lesu-suprantu-bet-aparatas-turi-dirbti-sparciau)  
+- Vidaus ministras prašo pratęsti karišką apsaugą Lietuvos Kaliningrado sienoje, siekiant sustiprinti šalies saugumą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082220/interior-minister-asks-to-extend-military-protection-of-lithuania-s-kaliningrad-border)  
+- Lietuva uždraudė rusų verslininkų Alijaus Usmanovo ir Dmitrijaus Fridmano nacionalinius turtus, stiprindama sankcijas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082338/lithuania-imposes-national-asset-freezes-on-russian-businessmen-usmanov-and-fridman)
 
 ## 🌍 Pasaulyje
 
-- Elonas Muskas teigė, kad JAV vyriausybė galbūt lėtina Ukrainos belaidžių dronų greitį. [šaltinis](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)  
-- Albanijoje studentai protestavo prieš švietimo politiką, užpuolė vyriausybės pastatus ir sukėlė gaisrą Švietimo ministerijos pastate. [šaltinis](https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss)  
-- Pensijono buvę generolai ragina gynybą nutraukti „barbarinį“ gyvų žmonių egzekucijos transliavimą. [šaltinis](https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss)  
-- Baltasis rūmai gina naująją spaudos sekretorę, kurios teisinių kvalifikacijų patikimumas kelia klausimų. [šaltinis](https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss)  
-- Indonezijoje oranžinis rūkas, sukeltas miškų gaisrų, apgaubė miestus, sukeldamas sveikatos ir eismo sutrikimus. [šaltinis](https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss)  
-- Brazilijoje stiprus lietus sukėlė didžiulį eismo susidūrimą tunelio dalyje, kurio metu įvyko masinė avarija. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss)  
-- Izraelis nuo 2023 m. sulaikė daugiau nei 2000 palestiniečių vaikų, kas sukelia rimtą žmogaus teisių pažeidimų susirūpinimą. [šaltinis](https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss)
+- Elono Musko teigimu, JAV vyriausybė galėjo būti užuot lėtėjusi Ukrainos bepiločių greitį. [šaltinis](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)  
+- Pensijonų generolai ragina Pentagoną nutraukti „barbarišką“ gyvo transliacijos vykdymą. [šaltinis](https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss)  
+- Baltasis rūmai gina naująją spaudos sekretorę, nepaisant klausimų dėl jos teisinio išsilavinimo. [šaltinis](https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss)  
+- Albanijoje studentų protestai sukėlė gaisrą Švietimo ministerijoje ir ataką prieš vyriausybės pastatus. [šaltinis](https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-world-4025-rdf)  
+- „X“ platforma suspendavo 13 000 paskyrų, kaltindama jas už svetimos įtakos prieš JAV tarpusikraščių laikotarpį. [šaltinis](https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss)  
+- Indonezijos miestus užklupo oranžinė rūkas, o gyventojai dalijasi vaizdais, rodančiais, kad „niekur neįmanoma pabėgti“. [šaltinis](https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss)  
+- G20 finansų ministrai ir centriniai bankininkai susirinko aptarti Iranų karo padarinių pasaulio ekonomikai. [šaltinis](https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss)
