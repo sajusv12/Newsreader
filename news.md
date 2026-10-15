@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-14 23:20 UTC*
+*Atnaujinta: 2026-10-15 00:22 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- ES rinkoje sparčiai auga elektronikos prietaisų skaičius, tačiau jų atliekų perdirbimas vis dar atsilieka nuo poreikio. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3082484/es-rinkoje-daugeja-elektronikos-prietaisu-taciau-ju-atlieku-perdirbimas-atsilieka)  
-- Čempionų lygoje „Real“ Madrid įspūdingai sugrįžo į Romą, o PSG pralaimėjo „Manchester City“ komandai. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3082395/cempionu-lygoje-ispulingas-real-sugrizimas-romoje-ir-psg-palauztas-man-city-klubas)  
-- Per pastaruosius du metus Mont Blancas pakilo beveik dviem metrais, kas rodo greitą kalnų šerkšno augimą. [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3082483/per-dvejus-metus-monblanas-tapo-beveik-dviem-metrais-aukstesnis)  
-- Kaune veikiantis restoranas „9 ar 21 proc.“ leidžia lankytojams patiems pasirinkti, ar mokėti 9 % ar 21 % PVM tarifą. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3082431/9-ar-21-proc-kauno-restoranas-klientams-leidzia-patiems-pasirinkti-pvm-tarifa)  
-- Populiarus animacinis personažas Mikė Pūkuotukas švenčia 100‑ąjį gimtadienį, o jo istorija tapo pasauline kultūros ikona. [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3082451/mike-pukuotukas-svencia-100-aji-gimtadieni-kaip-gime-viso-pasaulio-pamiltas-personazas)  
-- Lietuvos vyriausybė tyliai siekia pagerinti santykius su Kinija ir tikisi svarbių pokyčių iki gruodžio mėnesio. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082401/lithuania-works-on-mending-ties-with-china-less-publicly-expects-breakthrough-in-december)  
-- Lietuva įvedė nacionalinius turto užšaldymo apribojimus rusų verslininkams Usmanovui ir Fridmanui, siekdama apriboti Rusijos įtaką. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082338/lithuania-imposes-national-asset-freezes-on-russian-businessmen-usmanov-and-fridman)
+- ES rinkoje sparčiai auga elektronikos prietaisų skaičius, tačiau jų atliekų perdirbimas vis dar atsilieka, sukeldamas rimtų aplinkos problemų. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3082484/es-rinkoje-daugeja-elektronikos-prietaisu-taciau-ju-atlieku-perdirbimas-atsilieka)  
+- „Real“ sugrįžo į Romą įspūdingu pasirodymu ir „Man City“ pralaimėjo PSG Čempionų lygoje, o „Virtus“ Eurolygoje patyrė ketvirtą nesėkmę prieš „Parižietiškus“ komandą. [šaltinis 1](https://www.lrt.lt/naujienos/sportas/10/3082395/cempionu-lygoje-ispulingas-real-sugrizimas-romoje-ir-psg-palauztas-man-city-klubas) [šaltinis 2](https://www.lrt.lt/naujienos/sportas/10/3082387/itemptoje-akistatoje-virtus-klubas-paryzieciams-israse-ketvirta-nesekme-eurolygoje)  
+- Mokslininkai nustatė, kad per pastaruosius du metus Mont Blanc kalnas pakilo beveik dviem metrais dėl geologinių procesų. [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3082483/per-dvejus-metus-monblanas-tapo-beveik-dviem-metrais-aukstesnis)  
+- Kaune veikiantis restoranas leido lankytojams patiems pasirinkti PVM tarifą – 9 % arba 21 %, kas sukėlė diskusijas apie mokesčių politiką. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3082431/9-ar-21-proc-kauno-restoranas-klientams-leidzia-patiems-pasirinkti-pvm-tarifa)  
+- „Mikė Pūkuotukas“ švenčia 100‑ąjį gimtadienį, primindamas, kaip šis personažas tapo viso pasaulio kultūros ikona. [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3082451/mike-pukuotukas-svencia-100-aji-gimtadieni-kaip-gime-viso-pasaulio-pamiltas-personazas)  
+- Lietuva paskelbė nacionalinius turto užšaldymus rusų verslininkams Usmanovui ir Fridmanui, prašo pratęsti karinę apsaugą prie Kaliningrado sienos, svarsto drausti užsienio studentų savarankišką darbą ir siekia pripažinti Rusijos GRU teroristine organizacija. [šaltinis 1](https://www.lrt.lt/en/news-in-english/19/3082338/lithuania-imposes-national-asset-freezes-on-russian-businessmen-usmanov-and-fridman) [šaltinis 2](https://www.lrt.lt/en/news-in-english/19/3082220/interior-minister-asks-to-extend-military-protection-of-lithuania-s-kaliningrad-border) [šaltinis 3](https://www.lrt.lt/en/news-in-english/19/3081146/lithuanian-minister-proposes-to-ban-self-employment-for-foreign-students) [šaltinis 4](https://www.lrt.lt/en/news-in-english/19/3082129/lithuania-seeks-to-designate-russia-s-military-intelligence-agency-as-terrorist-group)  
+- Lietuvoje prognozuojami debesuoti ir vėsūs orai, o šią savaitę mirė žinomas žurnalistas bei dokumentinių filmų kūrėjas Ferdinandas Kauzonas. [šaltinis 1](https://www.15min.lt/naujiena/aktualu/orai/nusimato-debesuoti-ir-vesus-orai-60-2785094?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed) [šaltinis 2](https://www.15
 
 ## 🌍 Pasaulyje
 
-- Elono Musko teigimu, bet kokie apribojimai Ukrainos „Starlink“ prieigai priklauso nuo JAV, o ne nuo jo įmonės. [šaltinis](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)  
-- Albanijos studentų protestai Tiranoje, kuriais užpulti vyriausybės pastatus ir kilo gaisras Švietimo ministerijoje, atskleidė visuomenės nepasitenkinimą. [šaltinis](https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss)  
-- Popiežius Pranciškus po operacijos vaikšto ir sveiksta kaip numatyta. [šaltinis](https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss)  
-- JAV infliacija kilo greičiau nei tikėtasi, sukeldama kainų augimą vartotojams. [šaltinis](https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss)  
-- Vokietija pradėjo teismo procesą prieš ukrainiečį, kaltinamą „Nord Stream“ vamzdynų sprogdinimu. [šaltinis](https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss)  
-- Australijoje pirmą kartą paskelbti Michelin žvaigždės, kurios gavo 11 restoranų vienoje valstijoje. [šaltinis](https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss)  
-- Indija ragina Rusiją ir Ukrainą apsaugoti Juodosios jūros laivybą dėl padidėjusios įtampos regione. [šaltinis](https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-world-4025-rdf)
+- Elon Musk teigia, kad JAV vyriausybė galėjo slopinti Ukrainos belaidžių sistemų greitį. [šaltinis](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)  
+- Albanijoje studentų protestai sukėlė užpuolimą vyriausybės pastatams ir gaisrą Švietimo ministerijoje. [šaltinis](https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss)  
+- Po operacijos popiežius Pranciškus ėjasi ir sveiksta pagal lūkesčius. [šaltinis](https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss)  
+- JAV infliacija pakilo labiau nei tikėtasi, kainos didėja plačiai. [šaltinis](https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss)  
+- Vokietija pradėjo teismo procesą prieš ukrainietį, kurį įtaria dėl Nord Stream dujų vamzdynų sprogdinimo. [šaltinis](https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss)  
+- Australijoje pirmą kartą paskirstyti „Michelin“ žvaigždučių restoranai – 11 jų gavo įvertinimą vienoje valstijoje. [šaltinis](https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss)  
+- Indonezijoje atskleista VIP kalėjimo skandalas parodė didžiulį nelygybės lygį Pietryčių Azijoje. [šaltinis](https://www.dw.com/en/indonesian-vip-prison-scandal-exposes-inequality-across-southeast-asia/a-79659535?maca=en-rss-en-world-4025-rdf)
