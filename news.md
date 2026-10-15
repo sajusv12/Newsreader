@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-15 10:23 UTC*
+*Atnaujinta: 2026-10-15 11:22 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Seimas balandžio 23‑ąją paskelbė oficialia Krepšinio diena, skatindamas sporto šventimą šalyje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3083160/seimas-balandzio-23-iaja-paskelbe-krepsinio-diena)  
-- Los Andžele šventė 40‑ąją Lietuvos dieną, subūrusią lietuvių bendruomenę iš viso pasaulio. [šaltinis](https://www.lrt.lt/lituanica/pasaulio-lietuviu-balsas/753/3083126/40-lietuvybes-metu-los-andzele-vyko-40-osios-lietuviu-dienos)  
-- Seimas atsisakė įvesti konkrečias paskatas universitetams už studijų veiklos pasiekimus, nutraukdamas ankstesnį finansavimo planą. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/seimas-atsisake-konkreciu-isipareigojimu-skatinti-aukstasias-mokyklas-uz-studiju-veiklos-pasiekimus-56-2785544)  
-- Lietuvos prekybinės sąjungos kritiškai įvertino prezidento planą apriboti migrantų darbo leidimus ir viešai jam prieštaravo. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083131/lithuanian-trade-unions-oppose-president-s-plan-to-limit-migrant-workers-permits)  
-- Ministras pirmininkas Ingrida Šimonytė ragina spartinti gynybos įrangos pirkimus, nes išlaidos šiuo metu atsilieka nuo numatyto biudžeto. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083083/lithuanian-pm-urges-faster-defence-procurement-as-spending-lags-behind-budget)  
-- Vilniuje vyksta populiaraus serialo „Mergaitė su drakono tatuiruote“ filmavimas, pritraukiantis tiek vietinius, tiek užsienio filmų kūrėjus. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082090/vilnius-hosts-filming-of-the-girl-with-the-dragon-tattoo-tv-series)  
-- Lietuva tyliai stengiasi atkurti santykius su Kinija, tikėdamasi, kad gruodžio mėnesį bus pasiektas svarbus proveržis. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082401/lithuania-works-on-mending-ties-with-china-less-publicly-expects-breakthrough-in-december)
+- Normantas, spindintis pasirodymu, padėjo Bilbao klubui laimėti antrąją rungtynių pergalę Eurolygoje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3082372/spindejes-normantas-atvede-bilbao-kluba-i-antraja-pergale-cempionu-lygoje)  
+- „Anadolu Efes“ pralaimėjo Jokubaičio atstovaujamam „Bayern“ prieš artėjančią „Žalgirio“ kovą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3082382/pries-kova-su-zalgiriu-anadolu-efes-pralaimejimas-jokubaicio-atstovaujamam-bayern)  
+- Lietuva neketina eiti draudimų keliu dėl Maskvos patriarchato cerkvių, kurios kelia nerimą Europoje. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3082426/maskvos-patriarchato-cerkves-kelia-nerima-europoje-lietuva-draudimu-keliu-eiti-neketina)  
+- Popiežius Pranciškus neįprastai atvirai kalbėjo apie savo sveikatą, tiesiogiai atsakydamas į spaudos klausimus. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3082479/vatikanui-neiprastas-atvirumas-popiezius-apie-savo-sveikata-prabilo-pats)  
+- Lietuvos prekybos sąjunga viešai prieštarauja prezidento planui apriboti migrantų darbo leidimus. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083131/lithuanian-trade-unions-oppose-president-s-plan-to-limit-migrant-workers-permits)  
+- Lietuvos premjeras ragina pagreitinti gynybos įsigijimus, nes šių metų išlaidos vėluoja nuo numatyto biudžeto. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083083/lithuanian-pm-urges-faster-defence-procurement-as-spending-lags-behind-budget)  
+- Vilnius tapo pagrindine filmavimo vieta TV serialui „Mergaitė su drakono tatuiruote“. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3082090/vilnius-hosts-filming-of-the-girl-with-the-dragon-tattoo-tv-series)
 
 ## 🌍 Pasaulyje
 
-- Elonas Muskas teigė, kad JAV vyriausybė galėjo sulėtinti Ukrainos dronų greitį. [šaltinis](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)  
-- Albanijos studentai protestavo prieš vyriausybę, sudegindami Švietimo ministerijos pastatą. [šaltinis](https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-world-4025-rdf)  
-- Išretiravę JAV generolai prašė „Pentagono“ atšaukti „barbarišką“ įvykdyto nužudymo transliaciją. [šaltinis](https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss)  
-- Baltojo namo naujoji spaudos sekretorė susidūrė su klausimais dėl jos teisinės kvalifikacijos, tačiau administracija ją gina. [šaltinis](https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss)  
-- Indonezijos miestus uždengė oranžinė rūkas, dėl kurio gyventojai skleidžia vaizdo įrašus. [šaltinis](https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss)  
-- Rusija teigia, kad Ukraina vėl pradėjo atakas prieš jos naftos perdirbimo gamyklas. [šaltinis](https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss)  
-- Ilgai lauktas tiltas tarp Kinijos ir Šiaurės Korėjos oficialiai atidarytas. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss)
+- Ukrainos prezidentas Zelenskis paskelbė, kad šalis vėl pradės smūgius į Rusijos naftos perdirbimo gamyklas, o Rusija teigia, kad atakos jau vyksta. [BBC](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss) [Al Jazeera](https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss)  
+- Stambulyje po 84 metų sunkiausio lietaus žuvo du žmonės. [BBC](https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss)  
+- Dronų ataka uždegė naftotankerį prie Rumunijos pakrantės, aštuonerių įgulos narių likimas nežinomas. [BBC](https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss)  
+- Brazilijos Kongresas priėmė įstatymą, mažinantį darbo savaitės trukmę, laimėdamas prezidento Luiz Inácio Lula da Silva iniciatyvą. [BBC](https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss)  
+- Jemene kova sustiprėjo, o šalių jėgos intensyvina karinius veiksmus įvairiose fronto zonose. [Al Jazeera](https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss)  
+- FIFA svarsto keisti taisykles po to, kai Baloguno raudonos kortelės incidentas sukėlė kritikos bangą per Pasaulio čempionatą. [Al Jazeera](https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss)  
+- Azijos futbolo čempionatas Saudo Arabijoje gali būti atidėtas metams dėl Houthi grupės atakų. [Al Jazeera](https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss)
