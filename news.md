@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-15 22:20 UTC*
+*Atnaujinta: 2026-10-15 23:15 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Minint Baltosios lazdelės dieną Mažeikių muziejuje buvo surengta taktinė knygos ženklų paroda, skirta praturtinti regėjimo sutrikusių lankytojų patirtį【[šaltinis](https://www.lrt.lt/naujienos/kultura/12/3083314/minint-baltosios-lazdeles-diena-mazeikiu-muziejuje-surengta-taktiline-knygos-zenklu-paroda)】.  
-- Seimas tikslina valstybės valdymo mechanizmus, numatydamas konkretų veiksmų planą krizės ar karo metu【[šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3083506/valstybes-valdymas-atejus-x-dienai-seimas-tikslina-kaip-tektu-dirbti-krizes-ar-karo-metu)】.  
-- Jonavos baseine paralimpietis treniruoja plaukimo pamokas neįgaliesiems vaikams, siekdamas skatinti jų sportinį aktyvumą【[šaltinis](https://www.lrt.lt/naujienos/svietimas/45/3083137/jonavos-baseine-plaukimo-pamokos-negalia-turintiems-vaikams-treniruoja-paralimpietis)】.  
-- Analitikas perspėja, kad „Starlink“ apribojimai partneriams privers atidžiai apsvarstyti bendradarbiavimo sąlygas【[šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3083444/analitikas-apie-starlink-apribojimus-partneriams-teks-atidziai-pagalvoti-apie-salygas)】.  
-- Lamanšo tunelyje susidūrė traukinys su autobusu, dėl avarijos sužeista 19 žmonių, apie įvykį pranešama tiek Lietuvos, tiek Prancūzijos žiniasklaidoje【[šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3083504/lamanso-tunelyje-susidure-traukinys-su-autobusu-nukentejo-19-zmoniu)】.  
-- „Fenerbahçe“ komandą, vadovaujamą Lietuvos krepšinio trenerio Gintaro Jasikevičiaus, užbaigė dvigubą Eurolygos savaitę pergale prieš „Partizan“【[šaltinis](https://www.lrt.lt/naujienos/sportas/10/3083356/jasikevicius-su-fenerbahce-dviguba-eurolygos-savaite-uzbaige-pergale-pries-partizan)】.  
-- Lietuva pirmauja ES, kai kalbama apie agentinio dirbtinio intelekto (DI) naudojimą organizacijose【[šaltinis](https://www.lrt.lt/en/news-in-english/19/3083413/lithuania-leads-eu-in-use-of-agentic-ai-in-organisations)】.
+- Analitikas perspėja, kad „Starlink“ apribojimai priverš partnerius atidžiai pergalvoti bendradarbiavimo sąlygas. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3083444/analitikas-apie-starlink-apribojimus-partneriams-teks-atidziai-pagalvoti-apie-salygas)  
+- Lamanšo tunelyje traukinys susidūrė su autobusu, įvykdyje nukentėjo 19 žmonių. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3083504/lamanso-tunelyje-susidure-traukinys-su-autobusu-nukentejo-19-zmoniu)  
+- Lietuvos krepšinio treneris V. Jasikevičius ir „Fenerbahçe“ laimėjo dvigubą Eurolygos savaitę, nugalėdami „Partizan“ komandą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3083356/jasikevicius-su-fenerbahce-dviguba-eurolygos-savaite-uzbaige-pergale-pries-partizan)  
+- Nors sveikatos apsaugos sektorius gauna didesnį finansavimą, įstaigos teigia, kad lėšų trūkumas neleidžia visiškai išspręsti esamų problemų. [šaltinis](https://www.lrt.lt/naujienos/sveikata/682/3083448/auga-finansavimas-sveikatos-apsaugai-istaigos-sako-kad-problemu-tai-gali-ir-neisspresti)  
+- Finansų ministro kėdė, kurios klibimas kelia rūpesčių, gali tapti priežastimi biudžeto pokyčiams Vyriausybės struktūroje. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3083455/klibanti-finansu-ministro-kede-ar-biudzetas-taps-priezastimi-pokyciams-vyriausybeje)  
+- Britų grupė „Placebo“ Vilniuje surengė koncertą, kuriame lankytojai buvo raginami palikti telefonus ir pasinerti į nostalgiją. [šaltinis](https://www.lrt.lt/naujienos/muzika/680/3083451/rokas-nostalgija-ir-jokiu-telefonu-britai-placebo-surenge-koncerta-vilniaus-arenoje)  
+- Lietuva pirmauja ES pagal agentinio dirbtinio intelekto naudojimą organizacijose, parodydama didelį technologinį pažangumą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083413/lithuania-leads-eu-in-use-of-agentic-ai-in-organisations)
 
 ## 🌍 Pasaulyje
 
-- Trūkioje Prancūzijos pusėje sustabdytas traukinys smogė į sustabdytą „Channel Tunnel“ traukinį, dėl ko 19 žmonių patyrė sužeidimus. [šaltinis](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)  
-- Pakistane žlugus mokyklos stogui žuvo bent 33 mokiniai ir vienas mokytojas. [šaltinis](https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss)  
-- Houthi raketų ataka sužeidė Jemene Prezidentų rūmus, nužudė du žmones. [šaltinis](https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss)  
-- Izraelis sustabdė komercinių prekių įėjimą į Gazą, o Hamas paneigė, kad tai susiję su mokesčių reikalavimais. [šaltinis](https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss)  
-- Turkijoje, ypač Stambulyje, potvyniai sukėlė kelias mirčių atvejus ir daugelio žmonių dingimą. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss)  
-- Europos Sąjunga susirinko viršūnės susitikimui, kuriame kalbės apie Kiniją, Ukrainą ir biudžetą. [šaltinis](https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf)  
-- Juodosios jūros vandenyse susidūrė dvi laivų, kurių septynių įgulos narių likimas nežinomas. [šaltinis](https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-world-4025-rdf)
+- Traukinys sustojo Prancūzijos pusėje Anglijos kanalo tunelyje, įvyko 19 sužeistų. [šaltinis](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)  
+- Pakistane griuvo mokyklos stogas, žuvo bent 33 mokiniai ir mokytojas. [šaltinis](https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss)  
+- JAV elementarioje mokykloje įvyko šaudymas, žuvo keturi, iš kurių trys – vaikai. [šaltinis](https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss)  
+- Turkijoje, Stambulyje, potvyniai sukėlė daugelį mirčių ir dingusių asmenų. [šaltinis](https://www.aljazeera.com/news/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss)  
+- ES viršūnėje daugiausia dėmesio skirs Kinijai, Ukrainai ir sąjungos biudžetui. [šaltinis](https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf)  
+- Rusija apkaltina Ukrainą naftos perdirbimo gamyklos ataka po to, kai Zelenskis paskelbė smūgių atnaujinimą. [šaltinis](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)  
+- Izraelis sustabdė komercinių prekių įėjimą į Gazą, o Hamas paneigia mokesčių reikalavimus. [šaltinis](https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss)
