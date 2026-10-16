@@ -1,22 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-16 19:21 UTC*
+*Atnaujinta: 2026-10-16 20:18 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Lietuvoje atidaryta nauja lazerių gamykla, kurios tikslas tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
-- Kaune įvyko dvigubo Eurolygos savaitės finišas, kuriame „Žalgiris“ rungtyniaus su „Anadolu Efes“. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3084383/dvigubos-eurolygos-savaites-finisas-kaune-zalgiris-anadolu-efes)  
-- Ekonomistai įspėja, kad 2027 m. Lietuvos biudžetas kelia riziką dėl augančios skolos ir deficitų, nors gynybai numatyta 5 % išlaidų dalis. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit) ir [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit)  
-- Lietuvoje didėja skurdas, net tarp dirbančių žmonių. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)  
-- Lietuvos kariuomenė pratęsia karinės paramos teikimą Kaliningrado sienos patruliavimui. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)  
-- Jungtinės Valstijos spaudė Vilnių atsisakyti remti konferenciją, kritiškai vertinančią Donaldą Trumpą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084325/how-us-bullied-vilnius-into-dropping-support-for-conference-critical-of-trump)  
-- Teisinė kova po išprievartavimo rodo, kaip sudėtinga įrodyti priešinimąsi, kai auką sutrinka fizinis atvirkštas. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/kaip-irodyti-priesinimasi-jei-sustingai-teisine-kova-po-isprievartavimo-iv-dalis-56-2780100)
+- Po Kauno Švenčiausiojo sakramento bažnyčios grindimis rasti aštuoni kapai atskleidė svarbias istorines kapavietės dalis. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3084400/po-kauno-svenciausiojo-sakramento-baznycios-grindimis-rasti-8-kapai)  
+- Mažėjantis kelių priežiūros finansavimas dar labiau pablogina jų būklę, todėl vairuotojams gresia didesnės išlaidos. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3084372/keliu-bukle-prasteja-o-finansavimas-mazeja-vairuotoju-laukia-didesnes-islaidos)  
+- Lietuvos krepšinio treneris Valančiūnas kritiškai įvertino „Žalgirio“ duobę, komandiškumo trūkumą ir iškeltas rinktinės pokyčių problemas. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3084403/nusivyles-valanciunas-apie-zalgirio-duobe-komandiskumo-trukuma-ir-pokycius-rinktineje)  
+- Europos šalyse pasireikšusios kibernetinės atakos netgi nukreiptos į parduotuvių šaldytuvus ir tunelio statybos įrangą. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084143/kibernetines-atakos-europoje-taikiniais-tapo-net-parduotuviu-saldytuvai-tunelio-statybos)  
+- Lietuvoje atidaryta nauja lazerių gamykla, kurios ambicija – tapti viena iš didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
+- Ekonomistai įspėja, kad 2027 m. biudžetas kelia skolų ir deficito riziką, nors planuojama skirti 5 % išteklių gynybai. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit), [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit)  
+- Šalis pratęsė karinę paramą Kaliningrado sienos patruliavimui, tuo tarpu šalyje didėja skurdo lygis net tarp dirbančiųjų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border), [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)
 
 ## 🌍 Pasaulyje
 
-- Ukrainos pajėgos su „Starlink“ technologija stumia Rusiją atgal, o JAV senatoriai reikalauja ištirti apribojimus šio ryšio naudojimui. [šaltinis 1](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss) & [šaltinis 2](https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss)  
-- Ukrainos prezidentas Volodymyras Zelenskis pabrėžė, kad šalis turi teisę gintis, kritikuodamas Donaldo Trumpo komentarus ir tiesiogiai iškėlęs kaltinimus tiek Trumpo, tiek Putino politikai ES viršūnių susitikime. [šaltinis 1](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss) & [šaltinis 2](https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss)  
-- Palestiniečiai ir JAV žurnalistas buvo sužeisti Izraelio kolonistų Vakarų Krante medžioklės metu. [šaltinis](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
-- Popiežius Pranciškus pirmą kartą po operacijos ir vėžio diagnozės pasirodė viešai. [šaltinis](https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss)  
-- Indijos „vabzdžių“ partijos įkūrėjas buvo sulaikytas prieš planuojamą protestą, o šalyje jaunų darbuotojų darbo vietas pradeda keisti dirbtinis intelektas. [šaltinis 1](https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss) & [šaltinis 2](https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-world-4025-rdf)  
-- Jungtinių Valstijų baltojo namų spaudos vadovė Katie Zachariai atleista po penkių dienų darbo, tuo tarpu šalyje užregistruota 4 410 skarlatų atvejų, kurių skaičius sparčiai auga. [šaltinis 1](https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss) & [šaltinis 2](https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss)
+- Ukrainos kontrpuolimas, kuriam svarbų vaidmenį atlieka „Starlink“, stumia Rusijos pajėgas atgal. [šaltinis](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
+- Vakarų krante Palestiniečių ir JAV žurnalistą sužeidė Izraelio kolonistų ataka derliaus nuėmimo metu. [šaltinis](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
+- Buvęs JAV prezidentas Donaldas Trumpas paneigė, kad riboja Ukrainos prieigą prie „Starlink“ tinklo. [šaltinis](https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss)  
+- Popiežius Pranciškus po operacijos ir vėžio diagnozės viešai pasirodė fotografijoje. [šaltinis](https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss)  
+- Kenijoje užfiksuotas trečias „Bundibugyo“ ebolos atvejis, susijęs su pirmuoju mirusiu pacientu. [šaltinis](https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss)  
+- Diskutuojama, ar diplomatija gali išspręsti ilgalaikes Etiopijos ir Eritrės įtampos. [šaltinis](https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss)  
+- Albanijoje studentai protestuoja, reikalauja politinių pokyčių ir ministro pirmininko Edžio Ramos atsistatydinimo. [šaltinis](https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-world-4025-rdf)
