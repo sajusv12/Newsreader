@@ -1,23 +1,29 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-16 20:18 UTC*
+*Atnaujinta: 2026-10-16 21:20 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Po Kauno Švenčiausiojo sakramento bažnyčios grindimis rasti aštuoni kapai atskleidė svarbias istorines kapavietės dalis. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3084400/po-kauno-svenciausiojo-sakramento-baznycios-grindimis-rasti-8-kapai)  
-- Mažėjantis kelių priežiūros finansavimas dar labiau pablogina jų būklę, todėl vairuotojams gresia didesnės išlaidos. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3084372/keliu-bukle-prasteja-o-finansavimas-mazeja-vairuotoju-laukia-didesnes-islaidos)  
-- Lietuvos krepšinio treneris Valančiūnas kritiškai įvertino „Žalgirio“ duobę, komandiškumo trūkumą ir iškeltas rinktinės pokyčių problemas. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3084403/nusivyles-valanciunas-apie-zalgirio-duobe-komandiskumo-trukuma-ir-pokycius-rinktineje)  
-- Europos šalyse pasireikšusios kibernetinės atakos netgi nukreiptos į parduotuvių šaldytuvus ir tunelio statybos įrangą. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084143/kibernetines-atakos-europoje-taikiniais-tapo-net-parduotuviu-saldytuvai-tunelio-statybos)  
-- Lietuvoje atidaryta nauja lazerių gamykla, kurios ambicija – tapti viena iš didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
-- Ekonomistai įspėja, kad 2027 m. biudžetas kelia skolų ir deficito riziką, nors planuojama skirti 5 % išteklių gynybai. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit), [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit)  
-- Šalis pratęsė karinę paramą Kaliningrado sienos patruliavimui, tuo tarpu šalyje didėja skurdo lygis net tarp dirbančiųjų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border), [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)
+Po „Žalgirio“ ir „Anadolu Efes“ rungtynių treneriai pasidalijo savo įžvalgomis apie komandos pasirodymą ir planus tolesniam sezono etapui. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3084395/po-zalgirio-ir-anadolu-efes-rungtyniu-treneriu-komentarai)  
+
+Verslo lyderis Valys įspėjo, kad jei valdžia neatlieks žmonių lūkesčių, ją pakeis politinė grupė, kuri „nubloks“ visus iki niekur. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084384/valys-jei-neatliepsime-zmoniu-lukesciu-i-valdzia-ateis-tie-kurie-nubloks-mus-i-niekur)  
+
+Tyrėjas paaiškino tradicines brandos apeigas, kuriose norint, kad gimtų jaunuolis, būtina, kad „mirti vaikas“ – tai senas ritualas, keliamas su modernia visuomene. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/2991135/tyrejas-apie-tradicines-brandos-apeigas-jei-nori-kad-gimtu-jaunuolis-turi-mirti-vaikas)  
+
+Donaldo Trumpo politinė kryptis sukėlė aštrią kritiką – Europos vadovai pasmerkė jo sprendimą sušvelninti Rusijos sankcijas, Čekijos premjeras Babišas teigė, kad Trumpas pakišo Vakarų, jo naujasis spausdininkų atstovas Zacharia atsistatydino, o JAV spaudė Vilnių atsisakyti konferencijos, kritikuojančios Trumpo politiką. [šaltinis 1](https://www.lrt.lt/naujienos/pasaulyje/6/3084381/trumpo-posukis-rusijos-link-kodel-baltieji-rumai-glumina-amerikiecius) [šaltinis 2](https://www.15min.lt/naujiena/aktualu/pasaulis/es-lyderiai-vienbalsiai-pasmerke-donaldo-trumpo-sprendima-susvelninti-sankcijas-rusijai-57-2786860) [šaltinis 3](https://www.15min.lt/naujiena/aktualu/pasaulis/cekijos-premjeras-babisas-trumpas-pakiso-mus-visus-57-2786836) [šaltinis 4](https://www.lrt.lt/naujienos/pasaulyje/6/3084420/naujoji-trumpo-atstove-spaudai-zacharia
 
 ## 🌍 Pasaulyje
 
-- Ukrainos kontrpuolimas, kuriam svarbų vaidmenį atlieka „Starlink“, stumia Rusijos pajėgas atgal. [šaltinis](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
-- Vakarų krante Palestiniečių ir JAV žurnalistą sužeidė Izraelio kolonistų ataka derliaus nuėmimo metu. [šaltinis](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
-- Buvęs JAV prezidentas Donaldas Trumpas paneigė, kad riboja Ukrainos prieigą prie „Starlink“ tinklo. [šaltinis](https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss)  
-- Popiežius Pranciškus po operacijos ir vėžio diagnozės viešai pasirodė fotografijoje. [šaltinis](https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss)  
-- Kenijoje užfiksuotas trečias „Bundibugyo“ ebolos atvejis, susijęs su pirmuoju mirusiu pacientu. [šaltinis](https://www.aljazeera.com/news/2026/10/16/kenya-reports-third-bundibugyo-strain-ebola-case?traffic_source=rss)  
-- Diskutuojama, ar diplomatija gali išspręsti ilgalaikes Etiopijos ir Eritrės įtampos. [šaltinis](https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss)  
-- Albanijoje studentai protestuoja, reikalauja politinių pokyčių ir ministro pirmininko Edžio Ramos atsistatydinimo. [šaltinis](https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-world-4025-rdf)
+Ukrainos pajėgos, remiamos „Starlink“ interneto, atskleidžia naują puolimą, stumiant Rusiją atgal, o prezidentas Trumpas atsisako riboti šią prieigą. [šaltinis](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
+
+Palestiniečiai ir JAV žurnalistas buvo sužeisti Izraelio settlių ataka metu, kai jie kovojo dėl derliaus Vakarų Krante. [šaltinis](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
+
+Popiežius po operacijos ir vėžio diagnozės pirmą kartą pasirodė viešai. [šaltinis](https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss)  
+
+Izraelis sustabdė komercinių prekių tiekimą, sukeldamas rimtą maisto prieinamumo baimę Gazos gyventojams. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss)  
+
+Europos studentai, įskaitant Albanijos jaunimą, pakelia protestus, reikalauja geresnės švietimo sistemos ir politinių pokyčių. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss)  
+
+Houthi grupės atakos įstrategiškai svarbių Saudo Arabijos objektų kelia grėsmę regioninei lyderystei ir ekonominiams planams. [šaltinis](https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-world-4025-rdf)  
+
+Europos Sąjunga siekia AI revoliucijos, tačiau kyla klausimas, kam šios technologijos naudą paskirstys. [šaltinis](https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-world-4025-rdf)
