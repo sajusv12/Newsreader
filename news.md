@@ -1,22 +1,22 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-16 22:21 UTC*
+*Atnaujinta: 2026-10-16 23:17 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Lietuvoje atidaryta nauja lazerinių technologijų gamykla, siekianti tapti viena iš didžiausių pasaulyje [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-world-s-largest)  
-- Ekonomistai įspėja, kad 2027 m. biudžetas gali padidinti valstybės skolas ir deficitą, o gynybos išlaidos numatomos 5 % nuo BVP [šaltinis 1](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit), [šaltinis 2](https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit)  
-- Lietuvos kariuomenė pratęsė karinę paramą Kaliningrado srities pasienio patruliavimui [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)  
-- Lietuvoje didėjo skurdas, net ir tarp dirbančių žmonių, remiantis naujausiais statistiniais duomenimis [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)  
-- Nacionalinėje dailės galerijoje vyksta paroda „Pažintis su tarpukario ir pokario architektu Švipu“ [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3084421/nacionalineje-dailes-galerijoje-pazintis-su-tarpukario-ir-pokario-architektu-svipu)  
-- JAV spaudė Vilnių atsisakyti paramos konferencijai, kritikuojančiai vertinančiai Donaldą Trumpą [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084325/how-us-bullied-vilnius-into-dropping-support-for-conference-critical-of-trump)
+- Atidarė naują lazerio gamyklą Lietuvoje, kuri siekia tapti viena iš didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
+- Ekonomistai įspėja, kad 2027 m. biudžetas kelia riziką dėl didėjančios skolos ir deficito, o valstybės biudžetas šiam laikotarpiui skiria 5 % gynybos išlaidoms. [šaltinis1](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit) [šaltinis2](https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit)  
+- Lietuvos valstybė pratęsia karinę paramą Kaliningrado sienos patruliavimui, stiprindama saugumo priemones. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)  
+- Skurdas Lietuvoje auga, net tarp dirbančių asmenų, kas kelia socialinių iššūkių. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)  
+- JAV spaudė Vilnių atsisakyti paramos konferencijai, kritikuojančiai Trampą, dėl ko Vilnius nusprendė atšaukti dalyvavimą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084325/how-us-bullied-vilnius-into-dropping-support-for-conference-critical-of-trump)  
+- Nacionalinėje dailės galerijoje pradėta paroda, skirta pristatyti tarpukario ir pokario architektą Švipą. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3084421/nacionalineje-dailes-galerijoje-pazintis-su-tarpukario-ir-pokario-architektu-svipu)
 
 ## 🌍 Pasaulyje
 
-- Ukraina atakuoja atgal prieš Rusiją, o „Starlink“ palengvina komunikaciją, o JAV prezidentas Donaldas Trumpas paneigia, kad riboja šiam tinklui prieigą Ukrainoje. [šaltinis](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss) [šaltinis](https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss)  
-- Palestiniečiai ir amerikiečių reporteris buvo sužeisti Izraelio kolonistų per derliaus nuėmimo ataką Vakarų Krante. [šaltinis](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
-- Po operacijos ir vėžio diagnozės popiežius Pranciškus pirmą kartą pasirodė viešai. [šaltinis](https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss)  
-- Huti grupuotė iššovė dvi raketas į Adeno oro uostą Jemene ir pradėjo ataką į strateginius Saudo Arabijos objektus, keliančius grėsmę regioninei lyderystei. [šaltinis](https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss) [šaltinis](https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-world-4025-rdf)  
-- „Meta“ darbuotojai teigia, kad Brazilijos prezidento Lulos paskyros buvo apribotos artėjančių rinkimų metu. [šaltinis](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss)  
-- Izraelio šnipinėjimo įrankiai buvo panaudoti „zero‑click“ ataka prieš „Al Jazeera“ darbuotojus. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss)  
-- Europos studentai vis plačiau protestuoja – nuo švietimo reformų reikalavimų iki Azeirbo džiausio islamo hijabo draudimo ir Albanijos politinių permainų reikalavimų. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss) [šaltinis](https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-world-4025-rdf) [šaltinis](https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-world-4025-rdf)
+- Ukrainos pajėgos, naudodamos „Starlink“ ryšį, sėkmingai stumia Rusiją atgal į priekį, o tai išryškina technologijos svarbą karo lauke. [šaltinis](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
+- Buvo paskelbta, kad buvęs JAV prezidentas Donaldas Trumpas paneigia, jog apribojo Ukrainos prieigą prie „Starlink“ tinklo. [šaltinis](https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss)  
+- Palestiniečiai ir JAV žurnalistas buvo sužeisti Izraelio gyvenviečių išpuolyje Vakarų krante, kai šie bandė užpulti derliaus nuėmimą. [šaltinis](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
+- Popiežius Pijus II po operacijos ir vėžio diagnozės pirmą kartą pasirodė viešai. [šaltinis](https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss)  
+- Italija pradėjo tyrimą dėl Izraelio pareigūno Katz kaltinimų dėl priekabiavimo ir seksualinio smurto prieš „Flotilijos“ aktyvistus. [šaltinis](https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss)  
+- Pakistano šeimos reikalauja teisingumo po mokyklos griūties, kurią sukėlė struktūrinės silpnumo priežastys. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss)  
+- Jemenų vyriausybė teigia, kad Houthi grupuotė iššautė du raketų smūgius į Adeno oro uostą. [šaltinis](https://www.aljazeera.com/news/2026/10/16/yemens-government-says-houthis-fired-two-missiles-at-aden-airport?traffic_source=rss)
