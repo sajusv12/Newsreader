@@ -1,29 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-16 09:24 UTC*
+*Atnaujinta: 2026-10-16 10:23 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Biudžeto deficitas siekia 3,8 % ir sulaukia aštraus kritikos tiek iš vyriausybės, tiek iš Valio bei ekonomistų, o 2027 m. biudžete planuojama 5 % išteklių skirti gynybai, tačiau didėja skolos ir deficito rizika. [šaltinis](https://www.lrt.lt/naujienos/nuomones/3/3084179/saulius-jakucionis-3-8-proc-biudzeto-deficito-kas-toliau) [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084178/valdantieji-kritikuoja-biudzeto-projekta-del-skolos-ir-deficito-giria-del-zmoniu-pajamu) [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084165/valys-i-kritika-del-deficito-nebegalime-imituoti-pastangu-demografijos-problemoms-spresti) [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit) [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit)
-
-- Domas Lavrukaitis kritikuoja nepagrįstus įspėjimus, teigdamas, kad jie smarkiai pakenkė visuomenės pasitikėjimui policija. [šaltinis](https://www.lrt.lt/naujienos/pozicija/679/3083243/domas-lavrukaitis-nepagristi-ispejimai-smugis-pasitikejimui-policija)
-
-- Dėl stipraus rūko Vilniaus ir Kauno oro uostuose negalėjo pakilti daugelis skrydžių, o keleiviai patyrė ilgas laukimo valandas. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084172/vilniaus-ir-kauno-oro-uoste-del-ruko-negali-leistis-lektuvai)
-
-- Europos ORC čempionatas, vykęs Klaipėdoje, gavo aukščiausią tarptautinį tvarumo įvertinimą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3084167/europos-orc-cempionatas-klaipedoje-sulauke-auksciausio-tarptautinio-tvarumo-ivertinimo)
-
-- Policija pradėjo tyrimą dėl Šiaulietės moters, kuri mirė apleista, aplinkybių. [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/siauliete-mire-apleista-bylos-emesi-policija-59-2786444?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)
-
-- Lietuva pratęsė karinę paramą, kad sustiprintų patruliavimą Kaliningrado sienoje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)
-
-- Nepaisant darbo, skurdo lygis Lietuvoje didėja, o didžiausi pokyčiai pastebimi tarp dirbančių gyventojų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)
+- Lietuvoje pirmą kartą iš „Leopard“ tankų šaudė Lietuvos kariuomenės įgula, parodydama naują šaudymo galimybę. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3084220/lietuvoje-pirma-karta-is-leopard-tanku-saude-lietuviu-igulos)  
+- Vyriausybės planas 2027 m. biudžetui numato, kad gynybai bus skiriama apie 5 % BVP, siekiant stiprinti gynybos pajėgumus ir išlaikyti Lietuvą Europos lyderių tarpe. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3084213/kaunas-apie-5-proc-bvp-gynybai-divizijos-isvystymo-terminas-nesikeicia-ginkluote-gali)  
+- Eurokomisaras pabrėžė, kad Lietuva galėtų pasimokyti iš kitų šalių, kad efektyviau vykdytų viešuosius pirkimus ir sumažintų korupcijos riziką. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/eurokomisaras-lietuva-galetu-pasimokyti-is-kitu-saliu-kaip-efektyviau-vykdyti-viesuosius-pirkimus-56-2786536)  
+- Europos lyderiai išreiškė „siaubingą“ paramą Ukrainos prezidentui Volodimiui Zelenskiui, pažadėdami papildomą politinę ir karinę pagalbą. [šaltinis](https://www.15min.lt/naujiena/aktualu/pasaulis/padetis-siuo-metu-yra-isties-siaubinga-europos-lyderiai-reiskia-parama-zelenskiui-57-2786508)  
+- Lietuvos kariuomenė pratęsė karinės paramos teikimą Kaliningrado sienos patruliavimui, stiprinant regiono saugumą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)  
+- Nauja Lietuvoje įkurta lazerio gamykla siekia tapti viena didžiausių pasaulyje, stiprindama šalies aukštųjų technologijų sektorių. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
+- Naujausi duomenys rodo, kad Lietuvoje didėja skurdas, net tarp dirbančių žmonių, kelia socialinę įtampą ir reikalauja priemonių. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)
 
 ## 🌍 Pasaulyje
 
-- JAVos Oregono pirminėje mokykloje nužudyti trys vaikai (5, 8 ir 11 metų), o įtariamasis šautuvas buvo nužudytas įvykio liudytojo. [šaltinis](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)  
-- Prie Hormuzo jūros srautų padidėjo laivų atakų skaičius iki rekordinių lygių, o tai sulėtino naftos eksporto tempą. [šaltinis](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)  
-- Ukrainos prezidentas Zelenskis siekia Europos Sąjungos paramos, tuo tarpu buvęs JAV prezidentas Trampas teigė, kad jam sunkiau susitvarkyti su Zelenskiu nei su Putinu. [šaltinis](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)  
-- JAV prezidentas Trampas atšaukė tiesioginę transliaciją, kurioje planuota vykdyti „Fort Hood“ atakos įvykusio asmens nužudymą šaudmenų pulkais. [šaltinis](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)  
-- Kinija įspėjo Izraelį sustabdyti „priverstinius“ Vakarų Kranto gyvenviečių statymus. [šaltinis](https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss)  
-- Nors Saudo Arabijoje vyks Azijos futbolo čempionatas, organizatoriai pranešė, kad golfas turės atidėti savo turnyrą. [šaltinis](https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss)  
-- Norvegijos valstybės turtas susiduria su spaudimu sulengvinti branduolinio ginkluotės draudimą po investicijų ginčo dėl Gazos. [šaltinis](https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss)
+- JAV Oregeno valstijoje įvykęs mokyklos šaudymas, kuriame žuvo trys vaikai (5, 8 ir 11 metų), o įtariamąjį nušovė liudininkas. [šaltinis](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)  
+- Prie Hormuzo jūros sūkurio pakilo įrašų skaičius apie laivų atakas, o tai sulėtina naftos eksporto srautus. [šaltinis](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)  
+- Ukrainos prezidentas Zelenskis siekia sustiprinti ES palaikymą, tuo tarpu JAV prezidentas Trampas jį laiko sunkesniu nei Putinas. [šaltinis](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)  
+- JT įspėja, kad beveik milijonas Gazos gyventojų žiemos metu susidurs su potvynių grėsme. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss)  
+- Indijos masinis rinkėjų išbraukimas kelia rimtų demokratijos išblukimo pavojų šalyje. [šaltinis](https://www.aljazeera.com/opinions/2026/10/16/indias-mass-voter-purge-is-hollowing-out-democracy?traffic_source=rss)  
+- Europos Sąjungos viršūnės susirinkime bus nagrinėjami santykiai su Kinija, Ukraina bei biudžeto klausimai. [šaltinis](https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf)  
+- Turkijoje policija apiplėtojo svarbų opozicinį kanalą Halk TV, sukeldama susirūpinimą dėl spaudos laisvės. [šaltinis](https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-world-4025-rdf)
