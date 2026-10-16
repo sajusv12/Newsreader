@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-16 12:25 UTC*
+*Atnaujinta: 2026-10-16 13:33 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Vakare prasidedantis kosulys gali būti refliukso požymis, todėl vaistininkė rekomenduoja kreiptis į gydytoją, jei simptomai kartojasi [šaltinis](https://www.lrt.lt/naujienos/sveikata/682/3084300/kosulys-prasideda-tik-vakare-vaistininke-atsako-kada-tai-gali-buti-refliukso-pozymis).  
-- Ministras pirmininkas pabrėžė, kad gynybos lėšos yra svarbios, tačiau ne prioritetas prieš visuomenės poreikius [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084299/premjeras-lesos-gynybai-svarbios-bet-ne-paskutineje-vietoje-ir-visuomenes-poreikiai).  
-- PM taip pat teigė, kad mokytojų algos auga sparčiausiai, nors neaišku, ar mokytojo profesija taps prestižiška [šaltinis](https://www.lrt.lt/naujienos/svietimas/45/3084291/premjeras-nezinau-ar-mokytojo-profesija-taps-prestizine-bet-algos-auga-sparciausiai).  
-- Gimnazijoje įvyko mokinio smurto protrūkis, kurio metu mokytojai kviesti medikai ir dirbo policijos pareigūnai [šaltinis](https://www.lrt.lt/naujienos/svietimas/45/3084293/gimnazijoje-mokinio-smurto-protrukis-mokytojai-prireike-mediku-dirba-pareigunai).  
-- Ukmergėje policija aptikė kontrabandinės cigarečių sandėliavimo praktiką – cigaretės buvo slėptos rūsyje, garaže ir net miegamajame [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/ukmergeje-kontrabandines-cigaretes-sleptos-rusyje-garaze-ir-net-miegamajame-59-2786666?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed).  
-- Vyriausiojo skyriaus (VSD) biudžetas kitais metais turėtų augti 5 mln eurų, o didžiausia dalis – atlyginimų finansavimui [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/vsd-biudzetas-kitamet-turetu-augti-5-mln-euru-didzioji-dalis-lesu-atlyginimams-56-2786654?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed).  
-- Lietuva pratęsia karinę paramą Kaliningrado sienos patruliavimui, tuo tarpu ekonomistai įspėja, kad 2027 m. biudžetas kelia skolos ir deficitų riziką [šaltinis 1](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border) [šaltinis 2](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit).
+- „Mulų“ filmavimuose aktorius Hawke’as patyrė traumą, pasinaudodamas „kaip Indianos Džounso triuku“ [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3084332/mulu-filmavimuose-hawke-as-patyre-trauma-isnaudojo-kaip-indianos-dzounso-triuka).  
+- Lietuvos salės futbolo rinktinė susitiks su Vokietija, tai bus didelis iššūkis [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3084311/lietuvos-sales-futbolo-rinktine-pasitinka-vokietijos-testa-tai-bus-didelis-issukis).  
+- „Sultono galios ženklai“ – 16 a. eksponatai Vilniuje atskleidžia Osmanų imperijos keramiką [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3084315/sultono-galios-zenklai-16-a-vilniuje-ka-slepia-osmanu-imperijos-keramika).  
+- „airBaltic“ darbuotojui pateikti kaltinimai dėl sukčiavimo ir pinigų plovimo [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084316/airbaltic-darbuotojui-pateikti-kaltinimai-del-sukciavimo-ir-pinigu-plovimo).  
+- Pirmosios Lietuvos tankų įgulos atliko „Leopard“ tankų remontą ir kovinius šaudymus [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/pirmosios-lietuvos-tanku-igulos-atliko-tanku-leopard-uztaisyma-ir-kovinius-saudymus-56-2786704).  
+- Lietuvoje atidaryta nauja lazerinių technologijų gamykla, siekianti tapti viena didžiausių pasaulyje [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest).  
+- Ekonomistai įspėja, kad 2027 m. biudžetas kelia riziką didinti valstybės skolą ir deficitą, nors numatoma 5 % gynybos išlaidų dalis [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit).
 
 ## 🌍 Pasaulyje
 
-Tragiškas JAV mokyklos šaudymas, kurio metu žuvo 5‑, 8‑ ir 11‑metų vaikai, baigėsi, kai praeivis nušovė įtariamąjį. [šaltinis](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)  
-Pranešimai apie laivų atakas netoli Hormuzo pasiekė rekordinį skaičių, kas sulėtino naftos eksportą iš Persijos įlankos. [šaltinis](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)  
-Ukrainos prezidentas Volodimas Zelenskis stiprina Europos paramą šaliai, tuo tarpu B. Trumpas pareiškė, jog bendradarbiauti su Zelensku yra sudėtingiau nei su Putinu. [šaltinis](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)  
-Kinija ragina Izraelį nutraukti „priverstinį“ Vakarų Kranto gyvenviečių statymą, pabrėždama tarptautinio teisinio statuso svarbą. [šaltinis](https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss)  
-Kipras susiduria su augančiu Izraelio politiniu ir ekonominiu poveikiu, dėl kurio kai kurie gyventojai išreiškia nerimą dėl suvereniteto. [šaltinis](https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss)  
-Kinija intensyviai perka auksą, siekdama stiprinti savo rezervus ir sumažinti priklausomybę nuo JAV dolerio. [šaltinis](https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss)  
-Lenkija išsiuntė naikintuvų eskadrilę, kai Rusija pradėjo smogti į Vakarų Ukrainą, siekdama sustiprinti sienų saugumą. [šaltinis](https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss)
+- Zelenskis teigia, kad Ukraina turi teisę ginti save po Trumpo kritikos. [šaltinis](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)  
+- Oregone mokyklos šaudymo įvykio metu žuvo 5, 8 ir 11 metų vaikai, o įtariamąjį nužudė liudininkas. [šaltinis](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)  
+- Prie Hormuzo sąsiaurio ataskaitų apie laivų atakas skaičius pasiekė rekordą, lėtindamas naftos eksportą. [šaltinis](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)  
+- Kinija ragina Izraelį sustabdyti priverstinį Vakarų Kranto gyvenviečių kūrimą, tuo tarpu Izraelio kolonistai tęsia smurtą per alyvuogių derlių okupacijoje. [šaltinis](https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss) & [šaltinis](https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss)  
+- Jungtinių Tautų generalinis sekretorius Antonio Guterresas tyrinėja tylios diplomacijos ribas sprendžiant pasaulines krizes. [šaltinis](https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss)  
+- Indijos policija sulaikė „Kokūšas“ partijos įkūrėją prieš planuojamą protestą. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/16/india-police-detain-cockroach-party-founder-ahead-of-protest?traffic_source=rss)  
+- Degų cisternos gaisras užsiliejo pietų Nigerijos rinkoje, sukeldamas didelę žalą ir žuvusiųjų skaičių. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss)
