@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-16 07:31 UTC*
+*Atnaujinta: 2026-10-16 08:23 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Vyriausybė papildė 50 % nuolaidą tarpmiestiniams autobusų bilietams, kad skatintų viešąjį transportą. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3084111/vyriausybe-uz-50-proc-nuolaida-tarpmiestiniams-autobusu-bilietams-papildytas)  
-- „Litilit“ vadovas pranešė, kad nauja gamykla Lietuvoje padvigubins itin trumpų impulsų lazerių gamybą. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084105/litilit-vadovas-nauja-gamykla-padvigubins-itin-trumpu-impulsu-lazeriu-gamyba-lietuvoje)  
-- Nors Vyriausybė pritarė 7,56 % algų didinimą, šis didinimas nepasitenkino visų švietimo darbuotojų. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/vyriausybei-pritarus-algu-augimui-756-proc-skaiciai-tenkina-ne-visus-svietimo-darbuotojus-56-2786274)  
-- Lietuvos skurdas išaugo, net ir tarp dirbančių gyventojų, rodo nauja statistika. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)  
-- 2027 m. biudžete numatyta 5 % gynybai, tačiau taip pat prognozuojamas augantis valstybės deficitą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit)  
-- Lietuva tapo Europos Sąjungos lyderiu naudojant agentinį dirbtinį intelektą organizacijose. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083413/lithuania-leads-eu-in-use-of-agentic-ai-in-organisations)  
-- Lietuvos ir Ukrainos įmonės planuoja kartu įkurti gamyklą, gaminančią komponentus dronams. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083396/lithuanian-and-ukrainian-companies-plan-joint-drone-components-factory)
+- Pareigūnų profsąjunga kritiškai įvertino numatomą algų didinimą, teigdama, kad tai gali sukelti neigiamų pasekmių valstybės biudžetui. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3084146/pareigunai-numatoma-algu-augima-sutinka-kritiskai-kaip-numireliui-svestas-vanduo)  
+- Valdas Adamkaus sveikatos būklė gerėja, tačiau jis vis dar liks ligoninėje dėl sunkios ligos. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3084140/santaros-klinikos-valdo-adamkaus-sveikatos-bukle-gereja-bet-jis-dar-liks-ligonineje)  
+- Ekonomistai perspėja, kad didėjantis biudžeto deficitas sukels įtampą ir gali trukdyti surinkti numatytas pajamas. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084137/ekonomistai-didejantis-biudzeto-deficitas-augins-itampa-gali-nepavykti-surinkti-pajamu)  
+- Vyriausybė neparodė įtikinamo plano, kaip sugrąžinti biudžetą į deficito ribas, todėl kritiškai vertinama Šimono Skaistės išraiška. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084136/skaiste-vyriausybe-nepateikia-itikinamo-plano-kaip-grizti-prie-deficito-ribos)  
+- Lietuvoje didėja skurdas, net tarp dirbančių žmonių, o tai kelia papildomų socialinių iššūkių. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)  
+- 2027 m. Lietuvos biudžetas numato 5 % išteklių gynybai, tačiau valstybės deficitas toliau auga. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit)  
+- Lietuva pratęsia karinės paramos teikimą patruliavimui prie Kaliningrado sienos, siekdama sustiprinti regioninį saugumą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)
 
 ## 🌍 Pasaulyje
 
-- JAV Oregono valstijoje įvyko pirminės mokyklos šaudymas, kuriame žuvo trys vaikai ir mokytoja. [šaltinis](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)  
-- Prie Hormuzo įrašytas rekordinis laivų atakų skaičius, dėl kurio lėtėja naftos eksporto srautai. [šaltinis](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)  
-- Prezidentas Trampas atšaukė tiesioginę transliaciją, kurioje turėjo būti vykdytas „Fort Hood“ įvykusio nusikaltėlio nužudymas šaudymo patrulu būdu. [šaltinis](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)  
-- Rusija apkaltina Ukrainą dėl naftos perdirbimo gamyklos atakos po to, kai Zelenskis paskelbė apie puolimų atnaujinimą. [šaltinis](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)  
-- Prie Prancūzijos pusės Kanalo tunelio įvyko susidūrimas: autobusas susidūrė su sustabdytu traukiniu, traumoje nukentėjo 19 žmonių. [šaltinis](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)  
-- „Tesla“ pristatė prototipą, galintį važiuoti galvu apačia ir šokti ore. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss)  
-- ES viršūnės susitikime pagrindinė dėmesio sritis bus Kinija, Ukraina ir Sąjungos biudžetas. [šaltinis](https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf)
+- JAVų valstijoje įvyko mokyklos šaudymas Oregone, kurio metu žuvo trys vaikai (5, 8 ir 11 metų), o įtariamąjį nužudė praeivis. [šaltinis](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)  
+- Hormuzo sąsiauryje atakų į laivus skaičius pasiekė rekordinį lygį, o tai sulėtino naftos eksporto apimtis. [šaltinis](https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss)  
+- Prezidentas Donaldas Trumpas atšaukė tiesioginę transliaciją, kurioje planuota rodyti Fort Hoood įvykusio asmens vykdymą šaudymo bausme. [šaltinis](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)  
+- Rusija apkaltino Ukrainą, kad ji atakavo naftos perdirbimo gamyklą po to, kai prezidentas Zelenskis paskelbė, kad smūgiai bus atnaujinti. [šaltinis](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)  
+- Prancūzijos pusėje per Anglijos kanalo tunelį įvyko avarija, kai autobusas susidūrė su sustabdytu traukiniu, sužeista 19 žmonių. [šaltinis](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)  
+- Europos Sąjungos viršūnės susitikime bus svarstomi santykiai su Kinija, padėtis Ukrainoje ir biudžeto klausimai. [šaltinis](https://www.dw.com/en/eu-summit-to-focus-on-china-ukraine-and-bloc-budget/a-79665338?maca=en-rss-en-world-4025-rdf)  
+- Juodosios jūros pakrantėje šalia Rumunijos įsiliejo du laivai, kurie įsižiebė, ir septynių įgulos narių likimas nežinomas. [šaltinis](https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-world-4025-rdf)
