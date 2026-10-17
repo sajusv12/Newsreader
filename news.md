@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-17 09:18 UTC*
+*Atnaujinta: 2026-10-17 10:17 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- LKL pirmąją pergalę laukiantis Beržininkaitis teigia, kad komandai vis labiau sekasi, ir tikisi sėkmingo sezono starto【šaltinis】(https://www.lrt.lt/naujienos/sportas/10/3085046/pirmosios-pergales-lkl-laukiantis-berzininkaitis-matau-kad-dalykai-gereja).  
-- Trečiojo vaiko gimimo įkvėpti pokyčiai paskatino šeimą pertvarkyti namus, kad jie būtų pritaikyti naujam gyvenimo etapui【šaltinis】(https://www.lrt.lt/naujienos/laisvalaikis/13/3084292/treciojo-vaiko-gimimo-ikvepti-pokyciai-seimos-namai-pritaikyti-naujam-gyvenimui).  
-- Laikrodžių persukimas sukelia tamsą, nuovargį ir padidina laukinių gyvūnų buvimą keliuose, keliaujantiems keliaukite atsargiai【šaltinis】(https://www.lrt.lt/naujienos/eismas/7/3082153/tamsa-nuovargis-laukiniai-gyvunai-kokius-pavojus-keliuose-atnesa-laikrodziu-persukimas).  
-- Dėl tiršto rūko Vilniuje ir Kaune buvo sutrikti skrydžiai, o dalis skrydžių nukreipta į kitus miestus【šaltinis】(https://www.lrt.lt/naujienos/verslas/4/3085043/del-tirsto-ruko-vilniuje-ir-kaune-buvo-sutrike-skrydziai-dalis-nukreipti-i-kitus-miestus).  
-- Lietuvos lazeris pirmą kartą užmezgė ryšį su Žeme iš kosmoso, demonstruodamas šios technologijos galimybes【šaltinis】(https://www.lrt.lt/naujienos/mokslas-ir-it/11/3085034/lietuviskas-lazeris-pirma-karta-uzmezge-rysi-su-zeme-is-kosmoso).  
-- Lietuvoje atidaryta nauja lazerio gamyklą, kurios ambicija – tapti viena didžiausių pasaulyje【šaltinis】(https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest).  
-- Ekonomistai įspėja, kad 2027 m. biudžetas kelia riziką didėti skolai ir deficitui, todėl būtina atsargiai planuoti išlaidas【šaltinis】(https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit).
+- Gydytojai leido išrašyti popiežių Leoną XIV iš ligoninės po sveikatos gerėjimo. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3085058/gydytojai-leidzia-israsyti-popieziu-leona-xiv-is-ligonines)  
+- Eurolygos šeštojo turo MVP tapo fantastiškai žaidęs rusų krepšininkas Vjačeslavas Vezenkovas. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085057/eurolygos-sestojo-turo-mvp-fantastiskai-zaides-vezenkovas)  
+- Lenkijos premjeras Tuskas įspėjo Baltijos šalis, kad Maskva gali imtis agresyvių veiksmų dar iki Kūčių. [šaltinis](https://www.15min.lt/naujiena/aktualu/pasaulis/tuskas-ispejo-ir-baltijos-salis-maskva-gali-imtis-veiksmu-dar-iki-kuciu-57-2786968)  
+- Lietuvos biudžetas kitam metui turėtų augti, tuo tarpu Prezidentūros biudžetas šiek tiek sumažės. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/seimo-biudzetas-kitamet-turetu-dideti-prezidenturos-siek-tiek-mazeti-56-2786978)  
+- Ekonomistai perspėja, kad 2027 m. Lietuvos biudžetas gali susidurti su didėjančiu skolos ir deficito rizika. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit)  
+- Lietuvos įmonės atidarė naują lazerių gamyklą, siekdamos tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
+- Lietuva pratęsė karinę paramą Kaliningrado sienos patruliavimui, siekdama sustiprinti saugumą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)
 
 ## 🌍 Pasaulyje
 
-- JAV prezidentas Donaldas Trampas atleidė kelias Rusijos sankcijas, kai santykiai su Ukrainos prezidentu Volodymyru Zelenskio aštelėjo. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
-- Oregono mokytojas kovėsi su įsilaužėliu prieš tai, kai ginkluotas tėvas šovė į įtariamuosius kelis kartus; šaulys buvo buvęs specialiųjų poreikių mokinys, o policija giria įsikišusiųjų heroizmą. [šaltinis](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)  
-- Trys vyrai, įvykę Australijos ir JAV banglentininkų nužudymą Meksikoje, buvo nuteisti į 158 metų laisvės praradimą kiekvienam. [šaltinis](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)  
-- Ukrainos kontratakos, kuriose svarbų vaidmenį atlieka „Starlink“ internetas, stumia rusų pajėgas atgal. [šaltinis](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
-- Brazilijoje užfiksuotas rekordinis Amazonės miškų kirtimo sumažėjimas prieš artėjančius rinkimus. [šaltinis](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)  
-- Izraelio kolonistų ataka Vakarų Krante sužalojė palestiniečius ir JAV žurnalistą derliaus nuėmimo metu. [šaltinis](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
-- Senegalo dydžio Antarktikos ledynas tirpsta greičiau nei manyta, kelia rimtą klimato krizės grėsmę. [šaltinis](https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters?traffic_source=rss)
+- Trampas atleidžia kelias Rusijos sankcijas, kai aštrėja konfliktas su Zelenskio, o tai sukelia įtampą tarp JAV ir Ukrainos vadovo. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
+- Oregono mokytoja sužinojo, kad sugebėjo sustabdyti mokyklos užpuolį prieš policijos intervenciją, o ginkluotas tėvas šovė į įtariamąjį kelis kartus; policija pabrėžė herojų drąsą. [šaltinis](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)  
+- Ukrainos pajėgos, remiamos „Starlink“ interneto technologijos, stumia rusų kariuomenę atgal į rytus, rodančios progresą šioje atakoje. [šaltinis](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
+- Brazilijoje fiksuotas rekordinis Amazonės atsinaujinimo kritimas, kai miškų kirtimas smarkiai sumažėjo prieš svarbiausius rinkimus. [šaltinis](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)  
+- Vakarų Krante palestiniečiai ir JAV žurnalistas buvo sužeisti Izraelio kolonistų išpuolyje, o tuo pat metu Izraelis sustabdė PS finansavimą, sukeldamas sveikatos sistemos žlugimą. [šaltinis BBC](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss) ir [šaltinis Al Jazeera](https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss)  
+- Sudano armija pranešė, kad Nyalo mūšyje žuvo dešimtys RSF kovotojų, parodydama intensyvų konfliktą šalyje. [šaltinis](https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss)  
+- Tarptautinis valiutos fondas ragina suteikti paramą šalims, kurių ekonomiką kankina aukšta infliacija ir karo padariniai, siekiant išvengti skolų krizės. [šaltinis](https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss)
