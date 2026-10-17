@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-17 04:20 UTC*
+*Atnaujinta: 2026-10-17 05:19 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Neblaivus Kauno ugniagesys įsiveržė į nepažįstamojo garažą ir jį sumušė, o policija pradėjo tyrimą dėl galimo nusikaltimo. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3085006/neblaivus-kauno-ugniagesys-isiverze-i-nepazistamojo-garaza-ir-ji-sumuse)  
-- „Žalgirio“ žaidėjas Brownas sakė, kad jo pasitikėjimas komanda neišblėdo net sunkiausiose situacijose. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3084446/tikejimo-zalgiriu-neprarandantis-brownas-esu-buves-blogesnese-situacijose)  
-- Trečios valandos naktį Telšių priimamajame tėvai atvežė vaiką, nes jis negalėjo užmigti, o gydytojai teikė pagalbą. [šaltinis](https://www.lrt.lt/naujienos/sveikata/682/3084307/trecia-valanda-nakties-telsiu-priimamajame-tevai-atveze-vaika-nes-sis-negalejo-uzmigti)  
-- Kengyre įvyko sukilimas, kuriame kartu kovėsi ukrainiečiai ir lietuviai – tai buvo laisviausi žmonės SSRS. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3070217/sukilimas-kengyre-ukrainieciai-ir-lietuviai-kovojo-greta-buvo-laisviausi-zmones-ssrs)  
-- JAV spaudė Vilnių atsisakyti paramos konferencijai, kritikuojančiai Trampą, ir galiausiai Vilnius pasidavė spaudimui. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084325/how-us-bullied-vilnius-into-dropping-support-for-conference-critical-of-trump)  
-- Lietuvoje atidaryta nauja lazerių gamyklą, kurios tikslas tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
-- Ekonomistai perspėjo, kad 2027 m. biudžete Lietuva gali susidurti su augančiu skolos ir biudžeto deficitu. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit)
+- Ukraina naudoja dronus organų transportavimui transplantacijoms, siekdama pagreitinti procedūras. [šaltinis](https://www.lrt.lt/naujienos/sveikata/682/3084439/ukraina-dronais-gabens-transplantacijai-skirtus-organus)  
+- Vokietijoje planuojama padidinti cigarečių kainą apie 50 %, kas turės įtakos rūkymo išlaidoms. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3084438/vokietijoje-cigaretes-brangs-apie-50-procentu)  
+- Lietuvoje atidaryta nauja lazerių gamyklų, kuri siekia tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
+- Lietuva pratęsia karinės paramos teikimą, kad sustiprintų patruliavimą Kaliningrado pasienyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)  
+- Ekonomistai įspėja, kad 2027 m. biudžetas gali susidurti su didėjančiu skolos ir deficitų lygiu. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit)  
+- Skurdo lygis Lietuvoje auga, net ir tarp dirbančių žmonių, rodo nauja statistika. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)  
+- Vilniuje vyks 12‑asis „In Memoriam“ pagarbos ir paramos bėgimas, skirtas prisiminti prarastus artimuosius. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/vilniuje-vyks-12-asis-pagarbos-ir-paramos-begimas-in-memoriam-56-2786896?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)
 
 ## 🌍 Pasaulyje
 
-- Brazilijos Amazonės miškų iškirtimas pasiekė rekordiniam žemiausią lygį, kai priartėja svarbūs rinkimai. [šaltinis BBC](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss) [šaltinis Al Jazeera](https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss)  
-- Oregono mokytoja sužengė prieš mokyklos užpuoliką, o policija patvirtino, kad šautuvas buvo buvęs specialiųjų poreikių mokinys. [šaltinis BBC](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss) [šaltinis Al Jazeera](https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss)  
-- JAV prezidentas Donaldas Trumpas panaikino kelias Rusijos sankcijas, kai įsigaliojo naujas įstatymas. [šaltinis BBC](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
-- Ukrainos kontratakos, remiamos „Starlink“ ryšio, sėkmingai stumia Rusijos pajėgas atgal. [šaltinis BBC](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
-- Palestiniečiai ir JAV žurnalistas buvo sužeisti Izraelio kolonistų įvykdyto derliaus nuėmimo išpuolio metu Vakarų krante. [šaltinis BBC](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
-- Pietų Kalifornijoje kilo miškų gaisras, kuris apgriuvo namus ir sukėlė evakuacijos įsakymus. [šaltinis Al Jazeera](https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss)  
-- Kamerūno gyventojai laukia vyriausybės pertvarkos po prezidento Biya sugrįžimo. [šaltinis Al Jazeera](https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss)
+- Brazilijoje užregistruotas rekordinis Amazonės miškų kirtimo sumažėjimas, kai artėja svarbūs nacionaliniai rinkimai. [šaltinis](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)  
+- JAV prezidentas Donaldas Trumpas laikinai atleido kelias Rusijos sankcijas, įgyvendindamas naują įstatymą, bet vėliau sustabdė jų įsigaliojimą. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
+- Oregono mokytoja sušuko prieš įsilaužėją mokykloje, kol ginkluotas tėvas iššovė įtariamąjį kelis kartus. [šaltinis](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)  
+- Trys meksikiečiai buvo nuteisti po 158 metų kalėjimo už Australijos ir JAV banglentininkų nužudymą Meksikoje. [šaltinis](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)  
+- Ukrainos pajėgos vykdo sėkmingą puolimą, atstumia Rusijos kariuomenę, o „Starlink“ internetas vaidina lemiamą vaidmenį. [šaltinis](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
+- Palestiniečiai ir JAV žurnalistas buvo sužeisti Izraelio settlių, atakuojančių Vakarų Kranto derliaus nuėmimą. [šaltinis](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
+- Izraelio politikai, siekdami pakeisti Benjaminą Netanyahų, aktyviai rengia alternatyvias vadovavimo galimybes. [šaltinis](https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss)
