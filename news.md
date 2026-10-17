@@ -1,21 +1,22 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-17 02:21 UTC*
+*Atnaujinta: 2026-10-17 03:20 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Lietuvoje atidaryta nauja lazerių gamykla, kurios tikslas tapti viena iš didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
-- 2027 m. biudžeto projekte numatyta skirti 5 % išteklių gynybai, tačiau tai kelia riziką dar labiau padidinti valstybės skolą ir deficitą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit)  
-- Lietuvos kariuomenė pratęsė karinės paramos teikimą, padedantą patruliuoti Kaliningrado sieną. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)  
-- Skurdo lygis Lietuvoje auga, net tarp dirbančių žmonių. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)  
-- JAV spaudimas privertė Vilnių atsisakyti remti konferenciją, kritikuojančią Donaldą Trampą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084325/how-us-bullied-vilnius-into-dropping-support-for-conference-critical-of-trump)
+- Lietuvoje atidaryta nauja lazerinė gamykla, kurios tikslas tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
+- Ekonomistai įspėja, kad 2027 m. Lietuvos biudžetas kelia riziką dėl augančios skolos ir deficito, numatant 5 % išlaidų gynybai. [šaltinis 1](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit) ir [šaltinis 2](https://www.lrt.lt/en/news-in-english/19/3084074/lithuania-s-2027-budget-5-for-defence-growing-government-deficit)  
+- Lietuvos valstybė pratęsė karinės paramos teikimą, padedant patruliuoti Kaliningrado sieną. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)  
+- Skurdas Lietuvoje auga, net ir tarp dirbančių asmenų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084092/poverty-rises-in-lithuania-including-among-people-with-jobs)  
+- Nacionalinėje dailės galerijoje vyksta paroda „Tarpukario ir pokario architektas Švipas“, leidžianti susipažinti su jo kūryba. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3084421/nacionalineje-dailes-galerijoje-pazintis-su-tarpukario-ir-pokario-architektu-svipu)  
+- Sedekerio dviženklio šūvis nepakankamai išgelbėjo „Baskonia“ klubo pralaimėjimą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3084449/dvigubas-sedekerskio-dvizenklis-baskonia-klubo-nuo-pralaimejimo-neisgelbejo)
 
 ## 🌍 Pasaulyje
 
-- Ukrainos kontrpuolimas stumia rusų pajėgas atgal, o svarbų vaidmenį šiame procese atlieka „Starlink“ palydovinis internetas. [šaltinis](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
-- Oregono mokytoja susidūrė su mokyklos šauliu, buvusiu specialiųjų poreikių mokiniu, prieš tai, kai šaulio tėvas pakartojo kelis šūvius ir nužudė įtariamąjį. [šaltinis](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)  
-- Izraelio kolonistai Vakarų krante sužeidė palestiniečius ir JAV žurnalistą per derliaus nuėmimo ataką. [šaltinis](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
-- Albanijoje studentai intensyvina protestus, reikalauja politinių pokyčių ir ministrų pirmininko Edžio Ramos atsistatydinimo, o premjeras kaltina už tai užsienio įtaką. [šaltinis](https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-world-4025-rdf)  
-- Jemene, apgultame Tadžio mieste, sveikatos apsaugos sistema žlunga dėl nuolatinių karo padarinių. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss)  
-- Supertankeris Hormuzo sąsiaure pasiekęs laivų lauke susidūrė su jūrų mina, sudegė ir sukėlė didelį regioninį įtampą. [šaltinis](https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss)  
-- Houthi grupės atakauja strateginius Saudo Arabijos objektus, grasinantios Riadui regioninę lyderystę ir ekonominius projektus. [šaltinis](https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-world-4025-rdf)
+- Brazil įrašo rekordini mažiausią Amazonės miško kirtimo lygį, o tai gali turėti įtakos artėjančiam prezidento rinkimui. [BBC](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss) [Al Jazeera](https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss)  
+- Oregon mokytoja susidūrė su įsilaužėliu mokykloje, prieš tai kai jos tėvas iššovė įtariamąjį kelis kartus, o šaulys buvo buvęs specialiųjų poreikių mokinys. [BBC](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss) [Al Jazeera](https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss)  
+- Prezidentas Donaldas Trumpas panaikino kelias Rusijos sankcijas, nes įsigaliojo naujas įstatymas, ir tuo pat metu išjuokė Vidurio Rytų vardus „Mohammed“ anekdotu. [BBC](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss) [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss)  
+- Trim vyrų, įvykdžiusių Australijos ir JAV banglentininkų nužudymą Meksikoje, paskirta po 158 metų kalėjimo bausmė. [BBC](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)  
+- Ukrainos kontratakos, stiprinamos „Starlink“ ryšio, sparčiai stumia Rusijos pajėgas atgal. [BBC](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
+- Palestiniečiai ir JAV žurnalistas buvo sužeisti Izraelio kolonistų vykdytame Vakarų Kranto derliaus nuėmimo išpuolyje. [BBC](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss)  
+- Jemene, besikrečiantį Taizo miestą, sveikatos priežiūros krizė auga dėl nuolatinio puolimo. [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss)
