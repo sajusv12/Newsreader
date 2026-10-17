@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-17 15:16 UTC*
+*Atnaujinta: 2026-10-17 16:17 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Katelynoje pareigūnų atlyginimai augs, tačiau darbas dėl didesnio finansavimo nesibaigia. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3085022/katelynas-pareigunu-atlyginimai-augs-taciau-darbas-del-didesnio-finansavimo-nesibaigia)  
-- Politologė paaiškino, kad JAV kritikuoja Lietuvos vyriausybę dėl dyzelino kainų, o ne Ukrainą. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3083279/politologe-apie-dyzelino-kainas-ir-rusija-amerikieciai-kaltina-valdzia-o-ne-ukraina)  
-- Vilniuje planuojama atnaujinti skverą su „Lakštingalos“ skulptūra, siekiant pagerinti viešąją erdvę. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3085118/vilniuje-planuojama-atnaujinti-skvera-su-lakstingalos-skulptura)  
-- Prieš kelionę į Prancūziją Lietuvos krepšinio klubas „Kibirkštis“ pasimeta vietinėse pirmenybėse, nepavykusi įgyti vietos turnyre. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085111/pries-isvyka-i-prancuzija-kibirkstis-pasismagino-vietinese-pirmenybese)  
-- Saudo Arabijoje, kaltinami terorizmu, buvo įvykdytos mirties bausmės penkiems asmenims. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3085116/del-kaltinimu-terorizmu-saudo-arabijoje-ivykdytos-mirties-bausmes-penkiems-asmenims)  
-- Valdančiųjų grupė pasiūlė spalio 7‑ąją paskelbti Sedos kautynių diena, primenančia sovietų okupaciją. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3085115/grupe-valdanciuju-siulo-spalio-7-aja-paskelbti-sedos-kautyniu-diena)  
-- Lietuvoje atidaryta nauja lazerinė gamykla, kurios tikslas – tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)
+- Nusižengę vairuotojai ieško būdų išvengti atsakomybės, pasinaudodami socialinių tinklų platformomis. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3085117/nusizenge-vairuotojai-iesko-budu-kaip-isvengti-atsakomybes-padeda-socialiniai-tinklai)  
+- Marijampolėje diegiama išmanioji miesto stebėjimo sistema, siekiama pagerinti eismo ir saugumo valdymą. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3085135/marijampoleje-diegiama-ismanioji-miesto-stebejimo-sistema)  
+- „Neptūnas“ lemiamu metimu prarado tašką „Jonavą“, išvengdama kritinės situacijos. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085128/is-nepavydetinos-situacijos-issikapstes-neptunas-lemiamu-metimu-patiese-jonava)  
+- Boso namas, nugriautas prieš daugiau nei du metus, vis dar kelia ginčų dėl žalos atlyginimo. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3085134/boso-namas-nugriautas-daugiau-nei-pries-2-metus-taciau-gincas-del-zalos-tebevyksta)  
+- Konservatoriai Klaipėdos merų prašo Seimo nario Audriaus Petrošiaus kandidatūros į miesto vadovą. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3085131/konservatoriai-i-klaipedos-merus-kelia-seimo-nario-audriaus-petrosiaus-kandidatura)  
+- Lietuvoje atidaryta nauja lazerių gamykla, kurios tikslas – tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
+- Ekonomistai įspėja, kad 2027 m. Lietuvos biudžetas kelia riziką didėti skolai ir biudžeto deficitu. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit)
 
 ## 🌍 Pasaulyje
 
-- JAV prezidentas Donaldas Trumpas atšaukė kelias Rusijos sankcijas, o tai sukėlė dar didesnį konfliktą su Ukrainos prezidentu Volodymyu Zelenskio. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
-- Oregono valstijoje mokytoja susidūrė su šaudovu mokykloje ir sulaikė jį, kol įtariamąjį nužudė įginkluotas tėvas, užtikrinantį, kad nebus daugiau aukų. [šaltinis](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)  
-- Trim asmenims Meksikoje buvo skirta po 158 metų laisvės atėmimas už Australijos ir JAV banglų sportininkų nužudymą. [šaltinis](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)  
-- Brazilijoje stebimas rekordinis Amazonės džiunglių kirtimo sumažėjimas, kai šalis ruošiasi artėjančiam rinkimų laikotarpiui. [šaltinis](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)  
-- Kinijoje darželio savininkas buvo nuteistas gyvenimu už šimtus vaikų apsinuodijimą. [šaltinis](https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss)  
-- Tunikijoje tūkstančiai žmonių susirinko į didžiausią protestą per metus prieš prezidentą Kašą Saiedą. [šaltinis](https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss)  
-- Uraganas „Trudy“ keliauja link Meksikos, keliaudamas grėsmę stipriam lietui ir potvyniams. [šaltinis](https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss)
+- JAV prezidentas Donaldas Trumpas atleidė kelias Rusijos sankcijas, kai santykiai su Volodymu Zelančiu dar labiau įtampa. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
+- Mokytoja susidūrė su užpuoliku Oregono mokykloje, o ginkluotas tėvas kelis kartus nušovė įtariamąjį. [šaltinis](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)  
+- Trim asmenims Meksikoje skiriamos po 158 metų kalėjimo bausmės už Australijos ir JAV banglentininkų nužudymą. [šaltinis](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)  
+- Brazilija užfiksavo rekordinį Amazonės miškų kirtimo kritimą, tiesianti į artėjančius prezidentinius rinkimus. [šaltinis](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)  
+- Kinijoje darželių savininkas gavo visą gyvenimą tranką po to, kai šimtai vaikų buvo apsinuodiję. [šaltinis](https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss)  
+- Prancūzijoje visoje šalyje vyksta plačios protestų demonstracijos dėl gyvenimo kainų, kurios sukėlė pastatų ir automobilių uždegimą bei susidūrimus su policija. [šaltinis](https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-world-4025-rdf)  
+- Rusija siekia įjungti elektros tiekimo pertraukas Ukrainoje žiemai, o Volodymas Zelančys perspėja apie rimtas pasekmes. [šaltinis](https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf)
