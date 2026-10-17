@@ -1,19 +1,22 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-17 18:15 UTC*
+*Atnaujinta: 2026-10-17 19:16 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Rytis Zemkauskas kovoja su nuovargiu, šaltu oru ir plėšikais, kai seka senojo kelio detektyvą. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3084203/nuovargis-saltis-plesikai-rytis-zemkauskas-seka-senojo-kelio-detektyva)  
-- Lietuvos sportininkai šią savaitę pasirodė sėkmingai: Haalandas dublis ir „Liverpool“ išsigelbėjimas „Premier“ lygoje, lietuvių klubų pergalės Graikijoje, „TransINVEST“ pralaimėjimas dramų rungtynėse bei trenerių džiaugsmas dėl jaunų žaidėjų progreso. [šaltinis 1](https://www.lrt.lt/naujienos/sportas/10/3085151/premier-lygoje-haalando-dublis-ir-liverpool-issigelbejimas) [šaltinis 2](https://www.lrt.lt/naujienos/sportas/10/3085150/graikijoje-lekaviciaus-motiejuno-ir-kulbokos-atstovaujamu-klubu-pergales) [šaltinis 3](https://www.lrt.lt/naujienos/sportas/10/3085145/sesiu-ivarciu-dramoje-paskutinemis-akimirkomis-issvaistytas-transinvest-pranasumas) [šaltinis 4](https://www.lrt.lt/naujienos/sportas/10/3085142/pacevicius-pasidziauge-aukletiniu-progresu-songaila-isskyre-pralaimejimo-priezasti)  
-- Sovietų valdžia išvarė rašytoją L. Sluckaitę‑Jurašienę iš Lietuvos ir draudė grįžti, atskleisdama represijų realijas
+- Rokiškio rajone avarijoje žuvo kelio viduriu važiuojantis vyras. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3085169/rokiskio-rajone-per-avarija-zuvo-kelio-viduriu-ejes-vyras)  
+- Lietuvos krepšininkas Domantas Brazdeikis svariai prisidėjo prie „Unicaja“ pergales Ispanijoje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085164/ispanijoje-prie-unicaja-pergales-svariai-prisidejo-brazdeikis)  
+- Lietuvoje atidaryta nauja lazerių gamyklą, siekianti tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
+- Ekonomistai įspėja, kad 2027 m. biudžetas gali padidinti valstybės skolos ir deficito riziką. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit)  
+- Lietuva pratęsia karinę pagalbą Kaliningrado sienos patruliavimui. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)  
+- ES imasi priemonių, kad apribotų rusų piliečių įvažiavimą į Sąjungą, kas svarbu ir Lietuvos saugumui. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083275/eu-working-on-multiple-fronts-to-limit-russians-from-entering-bloc)
 
 ## 🌍 Pasaulyje
 
-- JAV prezidentas Donaldas Trumpas susiduria su dvipusiu politiniu kritika dėl Rusijos sankcijų atleidimo, o tai papildomai sustiprina įtampą su Ukrainos prezidentu Volodimiru Zelenskio [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
-- Oregone mokytojas sušvelnino smurto aktą mokykloje, kol ginkluotas tėvas šovė į įtariamąjį kelis kartus, už tai policija giria jų heroizmą [šaltinis](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)  
-- Trim menims ištebėta 158 metų kalėjimo bausmė už Australijos ir JAV banglentininkų nužudymą Meksikoje [šaltinis](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)  
-- Brazilijos Amazonės miškų kirtimo lygis pasiekė rekordinį mažumą, kai šaliai artėja svarbūs prezidento rinkimai [šaltinis](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)  
-- Kinijos darželių savininkas gavo gyvenimo laisvės bausmę po to, kai šimtai vaikų buvo apsinuodiję jo įstaigoje [šaltinis](https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss)  
-- Prancūzijoje vykusios visuomeninės protestų akcijos išsiplėtė į smurtą, kai policija susidūrė su demonstrantais visoje šalyje [šaltinis](https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-world-4025-rdf)  
-- Rusija siekia nutraukti elektros tiekimą Ukrainoje žiemos metu, o prezidentas Zelenskis įspėja dėl galimų pasekmių [šaltinis](https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf)
+- JAV prezidentas Donaldas Trumpas atsisakė kelių Rusijos sankcijų, sukeldamas daugiapusę kritikos bangą tiek iš demokratų, tiek iš respublikonų, bei įtampą su Ukrainos prezidentu Volodymyu Zelenskio [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o).  
+- Moksleivės mokytoja drąsiai įsikišo Oregono mokykloje, kai šaudytojas užpuolė mokyklą, ir kartu su ginkluotu tėvu sustabdė tolesnį šaudymą, išgelbėdama daugelį gyvybių [šaltinis](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o).  
+- Trijose Meksikos pakrantės nužudymo bylose trys vyrai gavo po 158 metų kalėjimo už Australijos ir JAV banglentininkų nužudymą [šaltinis](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo).  
+- Brazilija šiuo metu fiksuoja istorinį Amazonės miškų kirtimo sumažėjimą, kai šalia artėja svarbiausios nacionalinės rinkimų kampanijos [šaltinis](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o).  
+- Kinijoje darželių savininkė buvo nuteista gyvybės laikui už šimtus vaikų nuodijimą, kai jie patyrė sunkias ligas [šaltinis](https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o).  
+- Retas rožinis deimantas, pavogtas prieš šimtmetį, dabar eksponuojamas Prancūzijoje, pritraukiant dėmesį į jo istoriją [šaltinis](https://www.bbc.co.uk/news/articles/c61m4zkx47vlo).  
+- Izraelio dronų atakos nužudė šešis palestiniečiai Gazos ruože nepaisant susitarimo, o Jeruzalės apylinkėse palestiniečių fermų ir žurnalistų atakų serija tęsia įtampą [šaltinis](https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire).
