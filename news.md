@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-17 10:17 UTC*
+*Atnaujinta: 2026-10-17 11:16 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Gydytojai leido išrašyti popiežių Leoną XIV iš ligoninės po sveikatos gerėjimo. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3085058/gydytojai-leidzia-israsyti-popieziu-leona-xiv-is-ligonines)  
-- Eurolygos šeštojo turo MVP tapo fantastiškai žaidęs rusų krepšininkas Vjačeslavas Vezenkovas. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085057/eurolygos-sestojo-turo-mvp-fantastiskai-zaides-vezenkovas)  
-- Lenkijos premjeras Tuskas įspėjo Baltijos šalis, kad Maskva gali imtis agresyvių veiksmų dar iki Kūčių. [šaltinis](https://www.15min.lt/naujiena/aktualu/pasaulis/tuskas-ispejo-ir-baltijos-salis-maskva-gali-imtis-veiksmu-dar-iki-kuciu-57-2786968)  
-- Lietuvos biudžetas kitam metui turėtų augti, tuo tarpu Prezidentūros biudžetas šiek tiek sumažės. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/seimo-biudzetas-kitamet-turetu-dideti-prezidenturos-siek-tiek-mazeti-56-2786978)  
-- Ekonomistai perspėja, kad 2027 m. Lietuvos biudžetas gali susidurti su didėjančiu skolos ir deficito rizika. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit)  
-- Lietuvos įmonės atidarė naują lazerių gamyklą, siekdamos tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
-- Lietuva pratęsė karinę paramą Kaliningrado sienos patruliavimui, siekdama sustiprinti saugumą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)
+- „Masters“ teniso turnyro pusfinalyje Lietuvos žaidėjas Zverėvas netikėtai kluptelėjo, kas sukėlė staigų rezultatų pasikeitimą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085065/masters-teniso-turnyro-pusfinalyje-netiketas-zverevo-kluptelejimas)  
+- NATO kariai pradės treniruotes Lenkijoje, kad įgytų žinių, kaip palaikyti taiką Ukrainoje. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3085067/spauda-nato-kariai-lenkijoje-treniruosis-kaip-palaikyti-taika-ukrainoje)  
+- Eurolygos šeštojo turo „MVP“ tapo lietuvių žaidėjas Vezenkovas, kuris pasižymėjo fantastišku žaidimu. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085057/eurolygos-sestojo-turo-mvp-fantastiskai-zaides-vezenkovas)  
+- Europos Sąjunga rengia greito rinkos prieigos apribojimo įrankį, skirtą prekybos karo atvejams kontroliuoti. [šaltinis](https://www.15min.lt/naujiena/aktualu/pasaulis/es-parengs-greito-rinkos-prieigos-apribojimo-iranki-prekybos-karo-atvejams-57-2786996?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
+- Lietuvoje atidaryta nauja lazerių gamykla, siekianti tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
+- Ekonomistai įspėja, kad 2027 m. biudžetas gali sukelti augantį valstybės skolos ir deficito riziką. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit)  
+- Lietuva pratęsia karinę paramą ribų patruliavimui su Kaliningrado regionu. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)
 
 ## 🌍 Pasaulyje
 
-- Trampas atleidžia kelias Rusijos sankcijas, kai aštrėja konfliktas su Zelenskio, o tai sukelia įtampą tarp JAV ir Ukrainos vadovo. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
-- Oregono mokytoja sužinojo, kad sugebėjo sustabdyti mokyklos užpuolį prieš policijos intervenciją, o ginkluotas tėvas šovė į įtariamąjį kelis kartus; policija pabrėžė herojų drąsą. [šaltinis](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)  
-- Ukrainos pajėgos, remiamos „Starlink“ interneto technologijos, stumia rusų kariuomenę atgal į rytus, rodančios progresą šioje atakoje. [šaltinis](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)  
-- Brazilijoje fiksuotas rekordinis Amazonės atsinaujinimo kritimas, kai miškų kirtimas smarkiai sumažėjo prieš svarbiausius rinkimus. [šaltinis](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)  
-- Vakarų Krante palestiniečiai ir JAV žurnalistas buvo sužeisti Izraelio kolonistų išpuolyje, o tuo pat metu Izraelis sustabdė PS finansavimą, sukeldamas sveikatos sistemos žlugimą. [šaltinis BBC](https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss) ir [šaltinis Al Jazeera](https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss)  
-- Sudano armija pranešė, kad Nyalo mūšyje žuvo dešimtys RSF kovotojų, parodydama intensyvų konfliktą šalyje. [šaltinis](https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss)  
-- Tarptautinis valiutos fondas ragina suteikti paramą šalims, kurių ekonomiką kankina aukšta infliacija ir karo padariniai, siekiant išvengti skolų krizės. [šaltinis](https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss)
+- JAV prezidentas Donaldas Trumpas atitrynėjo kelias Rusijos sankcijas, nes santykiai su Ukrainos prezidentu Volodymu Zelenskiu įtampa, o Zelenskis kalbėjo ES viršūnių susitikime. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
+- Oregonos mokytoja sušvietė prieš užpuolėją, kol jos sūnus su šautuvu nužudė įtariamąjį, o policija giria jų heroizmą. [šaltinis](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)  
+- Trijiems vyrams paskirta po 158 metus kalėjimo už Australijos ir JAV banglentininkų nužudymą Meksikoje. [šaltinis](https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss)  
+- Brazilijoje užfiksuotas rekordinis Amazonės miškų iškirtimo sumažėjimas prieš artėjančius rinkimus. [šaltinis](https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss)  
+- Saulės energijos naudojimas Filipinuose sparčiai auga, nes karo su Iranu padidėjusios energijos kainos skatina alternatyvias šaltinius. [šaltinis](https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss)  
+- Izraelas blokuoja Vakarų banko finansavimą, todėl regiono sveikatos sistema krenta į kritinę būseną. [šaltinis](https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss)  
+- Prancūzija ruošiasi plačiai mastui vykstančioms protestams po nesutarimų dėl pensijų reformos. [šaltinis](https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-world-4025-rdf)
