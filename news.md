@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-18 18:16 UTC*
+*Atnaujinta: 2026-10-18 19:16 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Onkologine liga serganti lietuvė negauna socialinių išmokų, nes Vilniaus ir Londono institucijos nesutaria dėl gydymo finansavimo. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3086090/onkologine-liga-susirgusi-lietuve-negauna-ismoku-nes-vilnius-ir-londonas-nesusikalba)  
-- „Žalgiris“ antrąją rungtynių pusę įsibėgėjęs pratęsė pergalių seriją Lietuvos krepšinio lygoje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086104/antroje-rungtyniu-puseje-isibegejes-zalgiris-pratese-pergaliu-serija-lkl)  
-- Lietuvos ekonomistas perspėja, kad šalis artėja prie fiskalinio lūžio taško, po kurio mokesčiai bus didinami ir tai sukels didelį skausmą. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3086137/ekonomistas-lietuva-arteja-prie-luzio-tasko-tada-didinsime-mokescius-labai-skaudes)  
-- NKVC vadovas atšaukė „Skydas“ projektą po to, kai buvo surinktos beveik visos sprogusio drono dalys, tačiau tyrimas tęsiasi. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/nkvc-vadovas-atsauktas-planas-skydas-del-pasvalio-rajone-nukritusio-drono-56-2787432)  
-- Dronas, skristas iš Lenkijos, į Lietuvą pateko per kaimo gatvę, o nuolaužis pataikė į automobilį, sukeldamas eismo sutrikimus. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086051/drone-enters-lithuania-from-poland-debris-hits-a-car-on-rural-road)  
-- Bandomas deginimo išpuolis Lietuvos įmonėje, saugančioje Starlink įrangą, kuriuo premjeras kaltina Rusiją. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086054/attempted-arson-at-lithuanian-firm-storing-starlink-equipment-pm-blames-russia)  
-- Interviu atskleidžia, kad Vytautas Didysis pakvietė musulmonus į Lietuvą ne dėl politinių pažiūrų, o siekdamas religinių tolerancijos principų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3080270/vytautas-the-great-invited-muslims-to-lithuania-not-because-he-was-a-leftist-interview)
+- Festivalio „Nepatogus kinas“ apdovanojimuose geriausių filmų kūrėjai gavo prizus. [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3086156/apdovanoti-festivalio-nepatogus-kinas-geriausieji)  
+- Naudingas Sedekerskis nepadėjo „Baskonia“ komandai išvengti pirmosios nesėkmės Ispanijos lygoje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086150/naudingas-sedekerskis-neisgelbejo-baskonia-ekipos-nuo-pirmos-nesekmes-ispanijos-lygoje)  
+- Lietuvos krepšininkas Jokubaitis žaidė solidžiai, o „Bayern“ pasiekė Vokietijos taurės ketvirtfinalį. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086146/jokubaitis-zaide-solidziai-o-bayern-zenge-i-vokietijos-taures-ketvirtfinali)  
+- Ministras pirmininkas pranešė, kad pirmadienį bus svarstomi papildomi įgaliojimai tarnyboms ir gyventojų informavimui. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/premjeras-pirmadieni-aptarsime-papildomus-igaliojimus-tarnyboms-ir-gyventoju-informavimo-klausimus-56-2787436)  
+- Lietuvos įmonėje, kurioje laikoma „Starlink“ įranga, buvo bandyta sudeginti – ministras pirmininkas kaltina Rusiją. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086054/attempted-arson-at-lithuanian-firm-storing-starlink-equipment-pm-blames-russia)  
+- Lėktuvo dronas, skrisdamas iš Lenkijos, į Lietuvą įsiveržė ir jo fragmentai pataikė į automobilį kaimo keliu. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086051/drone-enters-lithuania-from-poland-debris-hits-a-car-on-rural-road)  
+- Straipsnyje keliamas klausimas, ar Lietuva tampa mažiau vaikų draugiška, kai jie turi tylėti. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083354/children-welcome-as-long-as-they-stay-quiet-is-lithuania-becoming-less-child-friendly)
 
 ## 🌍 Pasaulyje
 
-- Po kelių dienų trukusių protestų Paryžiuje iškrito griūžę automobiliai ir sudaužytas stiklas, kai demonstracijos virsto riestomis ir plėšymu. [šaltinis](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)  
-- Naktį šaudymo metu Rusijos Šventajame Petrolyde buvo pataikyta į naftos įrenginius, dėl ko žuvo keli žmonės. [šaltinis](https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss)  
-- Jungtinės Amerikos Valstijos susiduria su didėjančiu savarankiškai gaminamų sintetinių narkotikų bangos poveikiu, kuris gilina šalyje vykstančią krizinę situaciją. [šaltinis](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)  
-- Izraelio gyvenviečiai Vakarų krante puolė Europos diplomatų delegaciją ir Prancūzijos merą, kai šie dalyvavo užimtoje alyvuogių nuėmimo sezono metu. [šaltinis BBC](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss) [šaltinis Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss)  
-- Albanijoje antikvartinės vyriausybei prieštaraujančios demonstracijos susidūrė su policija, o susirėmimuose buvo naudota granatas ir taikyti smūgiai. [šaltinis BBC](https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss) [šaltinis Al Jazeera](https://www.aljazeera.com/gallery/2026/10/18/photos-antigovernment-protesters-clash-with-police-in-albanias-capital?traffic_source=rss)  
-- Prezidentas Donaldas Trumpas panaikino kelias Rusijos sankcijas, įtampindamas santykius su Zelenskio vyriausybe, ir tuo pačiu pareiškė paramą Benjaminui Netanjahu Izraelio parlamento rinkimuose. [šaltinis BBC](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss) [šaltinis Al Jazeera](https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss)  
-- Taivanas „hibridinės karinės“ taktikos rėmuose atbaidė 16 Kinijos laivų, kaltindamas juos jūrų trukdžiais. [šaltinis](https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss)
+- Prancūzijos sostinėje Paryžiuje protestai pavirto riestiniais, degintais automobiliais ir susmulkintais stiklais. [šaltinis](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)  
+- Šv. Petro ir Pavelo mieste (Sankt Peterburge) naktį buvo smarkiai pažeistos naftos įrangos, įvykdyta mirtina ataka. [šaltinis](https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss)  
+- Jungtinėse Valstijose išplitė didžiulė savarankiškai gaminamų sintetinių narkotikų banga, dar labiau sustiprindama narkotikų krizę. [šaltinis](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)  
+- Izraelio kolonistai Vakarų Krante užpult europiečių diplomatų grupę, o panašus išpuolis įvyko Jeruzalėje. [šaltinis](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)  
+- JAV prezidentas Donaldas Trumpas panaikino kelias Rusijos sankcijas, sustiprindamas ginčą su Ukrainos prezidentu Volodymyru Zelenskio. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
+- Persijungusios Arabų Valstijos (GCC) pasmerkė Houthi atakas Saudo Arabijoje, kur konfliktas Jemene dar labiau sustiprina. [šaltinis](https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss)  
+- Ukrainos vyriausybė vis labiau priklauso nuo JAV kontroliuojamos „Starlink“ interneto paslaugos, kurios tampa gyvybiškai svarbios šalyje. [šaltinis](https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-world-4025-rdf)
