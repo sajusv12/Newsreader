@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-18 03:20 UTC*
+*Atnaujinta: 2026-10-18 04:20 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-Ukrainos prezidentas Zelenskis įspėja, kad Rusija gali išplėsti atakas į Ukrainą iš Baltarusijos. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3085163/karas-ukrainoje-zelenskis-ispeja-rusija-gali-isplesti-atakas-ukrainai-is-baltarusijos)  
-Europos Sąjunga dirba keliais keliais, kad apribotų rusų piliečių įvažiavimą į bloką. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083275/eu-working-on-multiple-fronts-to-limit-russians-from-entering-bloc)  
-Lietuva pratęsia karinę paramą Kaliningrado sienos patruliavimui, stiprindama regiono saugumą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)  
-Šalyje atidaryta nauja lazerio gamykla, kurios tikslas tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
-Ekonomistai perspėja, kad Lietuvos 2027 m. biudžetas kelia riziką padidėti skolos ir deficito lygiai. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit)  
-Belgijos protestų metu policija panaudojo ašarines dujas. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3085174/protestai-belgijoje-policija-panaudojo-asarines-dujas)  
-„Inter“ pratęsė pergalių seriją ir neprarado taškų, o „Saint‑Germain“ taip pat išlaikė gerą formą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085178/inter-pratese-pergaliu-serija-tasku-neprarado-ir-saint-germain)
+- Būsimas „Žalgirio“ varžovas laimėjo rungtynes Prancūzijoje, įrodydamas stiprią formą prieš artimiausius Eurolygos susitikimus【[šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085177/busimas-zalgirio-varzovas-isvargo-pergale-prancuzijoje)】.  
+- Socialdemokratas pasiūlė siaurinti žvalgybos kontrolierių veiklos lauką, perspėdamas apie galimas nacionalinio saugumo rizikas【[šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/socialdemokratas-siulo-siaurinti-zvalgybos-kontrolieriu-veiklos-lauka-sie-ispeja-apie-rizikas-56-2787172)】.  
+- Interviu atskleidžia, kad Vytautas Didysis į Lietuvą kvietė musulmonus ne dėl politinių pažiūrų, o siekdamas skatinti toleranciją ir tarpkultūrinį dialogą【[šaltinis](https://www.lrt.lt/en/news-in-english/19/3080270/vytautas-the-great-invited-muslims-to-lithuania-not-because-he-was-a-leftist-interview)】.  
+- JAV spaudė Vilnių atšaukti paramą konferencijai, kritikuojančiai Donaldą Trumpą, teigdama, kad tai būtų nepalanki politinė žingsnis【[šaltinis](https://www.lrt.lt/en/news-in-english/19/3084325/how-us-bullied-vilnius-into-dropping-support-for-conference-critical-of-trump)】.  
+- Lietuvoje atidaryta nauja lazerinė gamykla, kurios tikslas – tapti viena iš didžiausių pasaulyje šioje srityje【[šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)】.  
+- Ekonomistai įspėja, kad 2027 m. Lietuvos biudžetas gali susidurti su didėjančiu skolos ir deficito rizika, jei nebus imtasi struktūrinių reformų【[šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit)】.  
+- Lietuva pratęsė karinės paramos teikimą kaliningrado sienos patruliavimui, siekdama sustiprinti regioninį saugumą【[šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)】.
 
 ## 🌍 Pasaulyje
 
-- Prancūzijoje vykusios protestų nakties susirėmimai sukėlė smurtą, degančius pastatus ir daugiau nei 1 000 sulaikymų. [BBC](https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss) [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss) [DW](https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-world-4025-rdf)  
-- Izraelio kolonistai Vakarų Krante sužeidė europinius diplomatų delegatus, sukeldami tarptautinį pasipiktinimą. [BBC](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss) [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss)  
-- Albanijoje vykę antivyriausybės protestai virto susirėmimu su policija, keliaujantys kelių miestų gatvėmis. [BBC](https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss)  
-- Indijoje per Hindu festivalio renginį įvyko suspaudimo tragedija, kurią lėmė 17 mirčių. [BBC](https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss)  
-- JAV prezidentas Donaldas Trumpas panaikino kelias Rusijos sankcijas, tuo tarpu jo konfliktas su Ukrainos prezidentu Zelenskio aštrėja. [BBC](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
-- Demokratinės Respublikos Kongo baimėja, kad buvęs prezidentas Josipas Kabilas prisijungė prie sukilėlių, kas kelia naują politinį nestabilumą. [Al Jazeera](https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss)  
-- Iranas pranešė, kad du naftotankeris susidūrė su minomis Hormuzo sąsiaure ir užsidegė, sukeldami didelę aplinkos riziką. [Al Jazeera](https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss)
+- Prieš Prancūzijos protestų naktį kilo smurtinės susirėmimai, sudegė pastatai ir virto virš 1 000 sulaikytų žmonių, įskaitant plačiai išplatintus griūties įvykius. [šaltinis](https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss)  
+- Izraelio teritorijoje šalia Vakarų kranto sukilėliai iškovos įtakojo Europos diplomatų ir JAV žurnalisto saugumą, o kai kurie politikai ragina griežtesnius priemonių paketą prieš kolonistų smurtą. [šaltinis](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)  
+- Kanadoje įvyko mirtinas gaisras kario bazėje, kuriame žuvo kelios asmenys ir kiti patyrė sunkius sužalojimus. [šaltinis](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)  
+- JAV prezidentas Donaldas Trumpas panaikino kelias Rusijos sankcijas, o tai dar labiau sustiprino įtampą tarp jo ir Ukrainos prezidento Volodymyro Zelenskio. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
+- Albanijoje vykusios antivyriausybės protestų metu demonstrantai susidūrė su policija, kai buvo naudotos granatos ir sulaikyti keli šimtai protestuotojų. [šaltinis](https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss)  
+- Indijoje per hinduistų šventės susidūrimo įvykį žuvo ne mažiau kaip 17 žmonių, daugelis jų buvo traukinio platformoje suspausti. [šaltinis](https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss)  
+- Demokratų Respublikos Kongo buvęs prezidentas Džozefas Kabila prisijungė prie sukilėlių grupių, sukeldamas nerimą dėl galimo šalies konflikto plėtimosi. [šaltinis](https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss)
