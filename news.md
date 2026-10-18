@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-18 12:18 UTC*
+*Atnaujinta: 2026-10-18 13:22 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- NKSC pranešė, kad kibernetinių incidentų Lietuvoje per metus sumažėjo perpus. [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3086080/nksc-kibernetiniu-incidentu-lietuvoje-per-metus-sumazejo-perpus)  
-- Bandytas apdegimas įmonėje, kurioje laikoma „Starlink“ įranga, o premjeras kaltina Rusiją. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3086075/nkvc-vadovas-bandyta-padegti-spacex-nuomojamas-patalpas-su-starlink-iranga)  
-- Rusijos okupuotas Oleškų miestas šiemet buvo sugriautas ir užtvindytas, o vietiniai gyventojai skundžiasi „rudens mirimo“ jausmu. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3083285/rudeni-mirsime-sugriautas-ir-uztvindytas-rusijos-okupuotas-olesku-miestas-badauja)  
-- Davidovichiaus Fokinas laimėjo „Masters“ turnyrą Šanchajuje, išsiskyręs puikiais rezultatais. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086059/ispaniskame-masters-turnyro-sanchajuje-finale-davidovichiaus-fokinos-triumfas)  
-- Taivanas pranešė, kad po „priekabiavimo jūroje“ incidento išvijo 16 Kinijos laivų. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3086077/po-priekabiavimo-juroje-incidento-taivanas-pranese-isvijes-16-kinijos-laivu)  
-- Kanzos mieste automobilis įsirėžė į futbolo aikštę, mirė du žmonės, sužeista 11 asmenų. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3086073/kanzase-automobilis-isireze-i-futbolo-aikste-du-zmones-zuvo-11-suzeisti)  
-- Dronas, įsiveržęs į Lietuvą iš Lenkijos, iškritusiomis dalimis pataikė į automobilį kaimo kelio juostoje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086051/drone-enters-lithuania-from-poland-debris-hits-a-car-on-rural-road)
+- Dėl Prancūzijoje kilusių neramumų buvęs JAV prezidentas Donaldas Trumpas kaltina imigraciją ir ragina užversti sienas. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3086094/del-neramumu-prancuzijoje-donaldas-trumpas-kaltina-imigracija)  
+- Vokietijos brigados karių vaikai pateikė šešias idėjas mokyklos‑darželio konkursui. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3086092/vokietijos-brigados-kariu-vaiku-mokyklos-darzelio-konkursui-pateiktos-6-idejos)  
+- Lietuvos politikas Juršėnas teigia, kad Adomas Adamkus yra fenomenas, kurio vardu galima apibūdinti kitokią Lietuvą. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3086035/jursenas-apie-adamku-jis-yra-tas-fenomenas-kurio-vardu-galima-zymeti-kitokia-lietuva)  
+- Artėjant Albertos nepriklausomybės referendumui separatistai surengė mitingą. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3086086/artejant-balsavimui-del-nepriklausomybes-albertoje-ivyko-separatistu-mitingas)  
+- Savivaldybių bibliotekoms buvo perduota 167 kompiuterių, siekiant stiprinti jų skaitmeninę infrastruktūrą. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/savivaldybiu-bibliotekoms-perduodami-167-kompiuteriai-56-2787352)  
+- Lietuvos įmonėje, kurioje saugoma „Starlink“ įranga, buvo bandyta uždegti gaisrą, o premjeras kaltina Rusiją. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086054/attempted-arson-at-lithuanian-firm-storing-starlink-equipment-pm-blames-russia)  
+- Lėktuvas be pilotų įskridęs iš Lenkijos, jo nuosėdos pataikė į automobilį kaimo kelia. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086051/drone-enters-lithuania-from-poland-debris-hits-a-car-on-rural-road)
 
 ## 🌍 Pasaulyje
 
-- Paryžiaus gatvėse po protestų prasidėjo riestos, kuriose sudegė automobiliai ir sudaužė stiklai. [šaltinis](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)  
-- Sankt Peterburgo apylinkėse naktį įvyko mirtinas išpuolis, kuriame pažeisti naftos įrenginiai. [šaltinis](https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss)  
-- Kanados karinės bazės gaisras sukėlė kelias mirčių atvejus ir daugybę sužeistųjų. [šaltinis](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)  
-- Prezidentas Trampas atšaukė kelias Rusijos sankcijas, o tai dar labiau sustiprino konfliktą su Zelenskio administracija. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
-- Izraelio kolonistai Vakarų krante pultiškiai puolė Europos diplomatų delegaciją. [šaltinis](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)  
-- Irane paskirtas naujas gynybos ministras Mehrdas Akhlagis, kuris daugiausia dėmesio skiria technologijų plėtrai. [šaltinis](https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss)  
-- Gazoje iškasti 75 palestiniečių likučiai buvo priimti į laidotuves po jų iškrovimo iš griuvėsių. [šaltinis](https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss)
+- Prancūzijos sostinės Paryžiaus gatvėse po protestų išsivystė riotiniai, degė automobiliai ir stikliniai langai, o gyventojai išreiškė nusivylimą sugadinimu. [šaltinis](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)  
+- Po nakties išpuolio Šventojo Petro sode buvo pažeistos naftos infrastruktūros objektai, sukėlę žūtingą situaciją. [šaltinis](https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss)  
+- Jungtinėse Valstijose sklinda savarankiškai gaminamų sintetinių narkotikų banga, kuri dar labiau giliai įsiskverbia į šalyje vykstančią sveikatos krizę. [šaltinis](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)  
+- Vakarų krante, ypač per alyvuogių derlių, padidėjo žydų kolonistų smurto atvejai, įskaitant Europos diplomatų ataką, o tai sustiprino įtampą regione. [šaltinis](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)  
+- Kanados kariuomenės bazėje įvyko didžiulė gaisras, kuris sukėlė kelias mirčių ir sužeidimų, keliaujant į valstybės saugumą. [šaltinis](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)  
+- JAV prezidentas Donaldas Trumpas atleido kelias Rusijos sankcijas, tuo pat metu intensyvuodamas konfliktą su Ukrainos prezidentu Volodymyru Zelenskio. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
+- Ukraina labai priklauso nuo JAV kontroliuojamos „Starlink“ interneto paslaugos, kai Rusija grasina apriboti elektros tiekimą žiemos metu, sukeldama energijos krizę. [šaltinis](https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-world-4025-rdf)
