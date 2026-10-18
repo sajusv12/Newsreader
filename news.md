@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-18 10:18 UTC*
+*Atnaujinta: 2026-10-18 11:16 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Neringa, lietuvė, šiuo metu grybauja Islandijos miškuose, kur ji pastebėjo netikėtus brūzgynų masyvus. [šaltinis](https://www.lrt.lt/lituanica/istorijos/752/3084373/islandijos-miskuose-grybaujanti-neringa-isivaizdavau-lietuviska-giria-o-cia-bruzgynai)  
-- Seimo narys Taminskas kritikuoja kelių finansavimą, o transporto ministeras Frolenka ragina atkreipti dėmesį į rangovų darbų kokybę. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3086055/taminskas-keliu-finansavima-kritikuojanti-frolenko-ragina-rupintis-rangovu-darbu-kokybe)  
-- Kaune atnaujintas asfalto dangos projektas sulaukė džiaugsmo, tačiau miesto savivaldybė nepakankamai apsvarstė pėsčiųjų saugumą. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3080260/gimdykit-vaikus-bet-sedekit-namie-kaunas-dziaugiasi-asfaltu-bet-pesciuosius-uzmirso)  
-- „Lietuvos futbolas“ atstovas R. Beliauskas apibūdino sudėtingą „Juventus“ sezono pradžią ir kalbėjo apie artėjančias Čempionų lygos rungtynes Vilniuje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086050/beliauskas-apie-sudetinga-juventus-sezono-pradzia-ir-cempionu-lygos-rungtynes-vilniuje)  
-- Per pastarąją savaitę Lietuvoje įvyko keli drono incidentai – dronas įskridęs iš Lenkijos suskaldė automobilį, kitas nukrito ir sukėlė žalos be sužeidimų, o prezidentas Nausėda šiuos įvykius susieja su Rusijos karu Ukrainoje, o PAGD nusprendžia, kada informuoti gyventojus apie oro pavojų. [šaltinis 1](https://www.15min.lt/naujiena/aktualu/lietuva/pagd-kada-informuoti-gyventojus-apie-oro-pavoju-nusprendzia-kariuomene-56-2787292) [šaltinis 2](https://www.15min.lt/naujiena/aktualu/lietuva/nkvc-nukrites-dronas-apgadino-automobili-zmones-nebuvo-suzeisti-56-2787290) [šaltinis 3](https://www.15min.lt/naujiena/aktualu/lietuva/gitanas-nauseda-apie-drono-incidenta-rusijos-karas-pries-ukraina-persimeta-i-nato-rytini-flanga-56-2787274) [šaltinis 4](https://www.lrt.lt/en/news-in-english/19/3086051/drone-enters-lithuania-from-poland-debris-hits-a-car-on-rural-road)  
-- Lietuvių įmonė, sauganti „Starlink“ įrangą, tapo bandymo užpūžimo tikslu, o ministras pirmininkas kaltina Rusiją. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086054/attempted-arson-at-lithuanian-firm-storing-starlink-equipment-pm-blames-russia)  
-- Nauja analizė kelia klausimą, ar Lietuva tampa mažiau vaikų draugiška, nes daugelyje vietų vaikai priimami tik jei išlieka tylūs. [
+- Rumšas atvirai kalbėjo apie ryšį su Ronaldo, teisėjų galią ir švilpuką, kuris „tramdo“ žvaigždes. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3080197/ivertintas-rumsas-apie-rysi-su-ronaldo-teisejo-galia-ir-svilpuka-tramdanti-zvaigzdes)  
+- Po operacijos popiežius Leonas XIV dėkoja už maldas ir teigia, kad sugrįš prie savo pareigų po truputį. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3086069/po-operacijos-popiezius-leonas-xiv-dekoja-uz-maldas-teigia-prie-darbu-grisiantis-pamazu)  
+- STT vadovai laiko didėjančią finansų paramą pakankama, tuo tarpu VSD lėšų augimą nekomentavo. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3086068/stt-didejanti-finansavima-vadina-pakankamu-vsd-lesu-augimo-nekomentuoja)  
+- Apleista sinagoga Šiauliuose, apibūdinama kaip „tragiška situacija“, bus atgaivinta ir suteikta nauja paskirtis. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3047398/situacija-tragiska-apleista-sinagoga-siauliuose-bus-prikelta-naujam-gyvenimui)  
+- Eurolygos prezidentas patvirtino, kad kitą sezoną turnyre varžysis 24 komandos, išplėsdamas varžybų mastą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086062/eurolygos-prezidentas-patvirtino-kita-sezona-turnyre-varzysis-24-komandos)  
+- 94‑ąjį gimtadienį švenčia pirmasis atkurtos Lietuvos valstybės vadovas Vytautas Landsbergis. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3086063/94-aji-gimtadieni-mini-pirmasis-atkurtos-lietuvos-valstybes-vadovas-landsbergis)  
+- Dronas, įvažiavęs į Lietuvą iš Lenkijos, sukėlė sprogimą, o nuolaužiai pataikė į automobilį kaimo kelio. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086051/drone-enters-lithuania-from-poland-debris-hits-a-car-on-rural-road)
 
 ## 🌍 Pasaulyje
 
-- Prancūzijoje vyksta plačiai paplitę protestai ir susirėmimai, įskaitant sudegusius automobilius ir sudaužytą stiklą Paryžiaus gatvėse. [šaltinis](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss) [šaltinis](https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-world-4025-rdf)  
-- Europos diplomatų grupę Vakarų Krante užpuolė Izraelio kolonistai. [šaltinis](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)  
-- Kanados karinio bazės gaisras sukėlė kelis mirčių ir daug sužeistų. [šaltinis](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)  
-- Jungtinėse Valstijose stipriai plinta namų gamybos sintetiniai narkotikai, gilindami narkotikų krizę. [šaltinis](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)  
-- Ukraina priklauso nuo JAV valdomų „Starlink“ ir „Starshield“ palydovų interneto paslaugų, tačiau prieiga prie „Starshield“ šiuo metu aptariama. [šaltinis](https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss) [šaltinis](https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-world-4025-rdf)  
-- Prezidentas Trampas atleido kelias Rusijos sankcijas, kai santykiai su Zelenskio vyriausybe aštrėja. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
-- Sudano chroniškai sergantys pacientai susiduria su neįveikiamu pasirinkimu tarp maisto ir vaistų dėl humanitarinės krizės. [šaltinis](https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss)
+Paryžiuje protestų metu susidaužė susirėmimai, kuriuose nudegė automobiliai ir sudaužyti langai. [šaltinis](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)  
+Prie Kim Čong Un vasaros rezidencijos netoli aptikti prabangus laivas su 50 metrų baseinu ir vandens čiuožyklomis. [šaltinis](https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss)  
+Jungtinės valstijos susiduria su augančia namų gamybos sintetinių narkotikų banga, kuri dar labiau paaštrina sveikatos krizinę situaciją. [šaltinis](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)  
+Izraelio kolonistų atakos Vakarų krante paliko sužeistų Europos diplomatų, kai jie lankėsi palestiniečių teritorijoje. [šaltinis](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)  
+Kanados karinio bazės gaisras nužudė kelis asmenis ir sužalojė daugelį kitų, sukeldamas didelį saugumo susirūpinimą. [šaltinis](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)  
+Ukrainos dronas atakavo Rusijos Sankt Peterburgo energetikos objektus, nužudydamas vieną žmogų ir sukeldamas elektros tiekimo sutrikimus. [šaltinis](https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss)  
+JAV prezidentas Donaldas Trampas atleido kelias Rusijos sankcijas, kai santykiai su Ukrainos prezidentu Volodymyru Zelenskio dar labiau įtampa. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
