@@ -1,29 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-18 09:19 UTC*
+*Atnaujinta: 2026-10-18 10:18 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-Seimas svarstys įstatymą, leidžiantį senjorams turėti neterminuotą pasų ir asmens tapatybės kortelių galiojimą. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3086045/seimas-svarstys-neterminuota-pasu-ir-tapatybes-korteliu-galiojima-senjorams)  
-
-Pasvalio rajone įvykęs drono sprogimas sukelia tyrimą dėl galimo sabotavimo, o Prezidentas Nausėda teigia, kad tai rodo Rusijos karo prieš Ukrainą persimerkimą į NATO rytinį frontą. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/gitanas-nauseda-apie-drono-incidenta-rusijos-karas-pries-ukraina-persimeta-i-nato-rytini-flanga-56-2787274?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-
-Bandyta sužaloti Lietuvos įmonę, kurioje laikoma „Starlink“ ryšio įranga, iškando bandymą užsidegti pastatą. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/bandyta-padegti-lietuvos-imone-kurioje-saugoma-starlink-rysio-iranga-56-2787250?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-
-Lietuvoje atidaryta nauja lazerių gamykla, kurios tikslas – tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
-
-„Vytautas Didysis kvietė musulmonus į Lietuvą, teigdamas, kad tai ne dėl politinės kairės“ – interviu atskleidžia istorinius santykius ir religinių tolerancijos principų svarbą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3080270/vytautas-the-great-invited-muslims-to-lithuania-not-because-he-was-a-leftist-interview)  
-
-Europos Sąjunga imasi priemonių, kad apribotų rusų piliečių įvažiavimą į ES šalis ir sustiprintų sienų kontrolę. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083275/eu-working-on-multiple-fronts-to-limit-russians-from-entering-bloc)  
-
-Naujasis LRT straipsnis kelia klausimą, ar Lietuva tampa mažiau vaikų draugiška, kai lankytojai turi tylėti viešose vietose. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083354/children-welcome-as-long-as-they-stay-quiet-is-lithuania-becoming-less-child-friendly)
+- Neringa, lietuvė, šiuo metu grybauja Islandijos miškuose, kur ji pastebėjo netikėtus brūzgynų masyvus. [šaltinis](https://www.lrt.lt/lituanica/istorijos/752/3084373/islandijos-miskuose-grybaujanti-neringa-isivaizdavau-lietuviska-giria-o-cia-bruzgynai)  
+- Seimo narys Taminskas kritikuoja kelių finansavimą, o transporto ministeras Frolenka ragina atkreipti dėmesį į rangovų darbų kokybę. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3086055/taminskas-keliu-finansavima-kritikuojanti-frolenko-ragina-rupintis-rangovu-darbu-kokybe)  
+- Kaune atnaujintas asfalto dangos projektas sulaukė džiaugsmo, tačiau miesto savivaldybė nepakankamai apsvarstė pėsčiųjų saugumą. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3080260/gimdykit-vaikus-bet-sedekit-namie-kaunas-dziaugiasi-asfaltu-bet-pesciuosius-uzmirso)  
+- „Lietuvos futbolas“ atstovas R. Beliauskas apibūdino sudėtingą „Juventus“ sezono pradžią ir kalbėjo apie artėjančias Čempionų lygos rungtynes Vilniuje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086050/beliauskas-apie-sudetinga-juventus-sezono-pradzia-ir-cempionu-lygos-rungtynes-vilniuje)  
+- Per pastarąją savaitę Lietuvoje įvyko keli drono incidentai – dronas įskridęs iš Lenkijos suskaldė automobilį, kitas nukrito ir sukėlė žalos be sužeidimų, o prezidentas Nausėda šiuos įvykius susieja su Rusijos karu Ukrainoje, o PAGD nusprendžia, kada informuoti gyventojus apie oro pavojų. [šaltinis 1](https://www.15min.lt/naujiena/aktualu/lietuva/pagd-kada-informuoti-gyventojus-apie-oro-pavoju-nusprendzia-kariuomene-56-2787292) [šaltinis 2](https://www.15min.lt/naujiena/aktualu/lietuva/nkvc-nukrites-dronas-apgadino-automobili-zmones-nebuvo-suzeisti-56-2787290) [šaltinis 3](https://www.15min.lt/naujiena/aktualu/lietuva/gitanas-nauseda-apie-drono-incidenta-rusijos-karas-pries-ukraina-persimeta-i-nato-rytini-flanga-56-2787274) [šaltinis 4](https://www.lrt.lt/en/news-in-english/19/3086051/drone-enters-lithuania-from-poland-debris-hits-a-car-on-rural-road)  
+- Lietuvių įmonė, sauganti „Starlink“ įrangą, tapo bandymo užpūžimo tikslu, o ministras pirmininkas kaltina Rusiją. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086054/attempted-arson-at-lithuanian-firm-storing-starlink-equipment-pm-blames-russia)  
+- Nauja analizė kelia klausimą, ar Lietuva tampa mažiau vaikų draugiška, nes daugelyje vietų vaikai priimami tik jei išlieka tylūs. [
 
 ## 🌍 Pasaulyje
 
-- Prancūzijoje vykusios visuotinės protestų bangos sukėlė smurtinius susidūrimus, plėšimą ir pastatų deginimą, o po jų buvo sulaikyta daugiau nei 1 200 demonstrantų. [BBC](https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss) [Al Jazeera](https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss)  
-- Prie Kim Čong Un vasaros rezidencijos aptiktas prabangus laivas su 50 m baseinu ir vandens čiuožyklomis. [BBC](https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss)  
-- Jungtinėse Valstijose išplitė savarankiškai gaminami sintetiniai narkotikai, dar labiau sustiprindami narkotikų krizę. [BBC](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)  
-- Izraelio kolonistų Vakarų Krante puolimas iškėlė pavojų Europos diplomatams, kurie tapo fizinio smurto auka. [BBC](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)  
-- Kanadoje įvyko didžiulė gaisro sprogimo katastrofa ant kariuomenės bazės, kurioje žuvo ir sužeista keletas žmonių. [BBC](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)  
-- JAV prezidentas Donaldas Trumpas atitvirtino kelias Rusijos sankcijas, kai aštrėja jo konfliktas su Ukrainos prezidentu Volodymyru Zelenskio. [BBC](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
-- Oregono mokyklos šaudymo incidentas baigėsi su keliais mirusiais ir sužeistais, o policija pagyrė civilių heroizmą, sustabdžiusį tolimesnį smurtą. [DW](https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-world-4025-rdf)
+- Prancūzijoje vyksta plačiai paplitę protestai ir susirėmimai, įskaitant sudegusius automobilius ir sudaužytą stiklą Paryžiaus gatvėse. [šaltinis](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss) [šaltinis](https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-world-4025-rdf)  
+- Europos diplomatų grupę Vakarų Krante užpuolė Izraelio kolonistai. [šaltinis](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)  
+- Kanados karinio bazės gaisras sukėlė kelis mirčių ir daug sužeistų. [šaltinis](https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss)  
+- Jungtinėse Valstijose stipriai plinta namų gamybos sintetiniai narkotikai, gilindami narkotikų krizę. [šaltinis](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)  
+- Ukraina priklauso nuo JAV valdomų „Starlink“ ir „Starshield“ palydovų interneto paslaugų, tačiau prieiga prie „Starshield“ šiuo metu aptariama. [šaltinis](https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss) [šaltinis](https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-world-4025-rdf)  
+- Prezidentas Trampas atleido kelias Rusijos sankcijas, kai santykiai su Zelenskio vyriausybe aštrėja. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
+- Sudano chroniškai sergantys pacientai susiduria su neįveikiamu pasirinkimu tarp maisto ir vaistų dėl humanitarinės krizės. [šaltinis](https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss)
