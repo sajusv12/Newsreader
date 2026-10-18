@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-18 00:21 UTC*
+*Atnaujinta: 2026-10-18 01:26 UTC*
 
 ## 🇱🇹 Lietuvoje
 
 - „Energijos“ komanda patyrė antrąją nesėkmę Kontinentinėje ledo ritulio taurėje. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085180/kontinentineje-ledo-ritulio-taureje-antra-energijos-nesekme)  
-- „Žalgirio“ būsimas varžovas iškovojo pergalę Prancūzijoje, stiprindamas komandų lygį. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3085177/busimas-zalgirio-varzovas-isvargo-pergale-prancuzijoje)  
-- Nedidelis lietus nepakenks mėgautis rudeniškomis dienomis Lietuvoje. [šaltinis](https://www.15min.lt/naujiena/aktualu/orai/nedidelis-lietus-nesutrukdys-megautis-graziomis-rudeniskomis-dienomis-60-2787170?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-- Rokiškio rajone įvyko tragiška avarija, kurioje mirtinai suvažinėtas vyras. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/rokiskio-rajone-per-avarija-zuvo-kelio-viduriu-ejes-vyras-56-2787146?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-- Atidaryta nauja lazerių gamykla Lietuvoje, siekianti tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)  
-- Ekonomistai įspėja, kad 2027 m. Lietuvos biudžetas gali susidurti su didėjančiu skolos ir deficito rizika. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084155/economists-warn-lithuania-s-2027-budget-risks-rising-debt-and-deficit)  
-- Lietuvos valstybė pratęsia karinę paramą, padedančią patruliuoti Kaliningrado sieną. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084115/lithuania-extends-military-support-for-patrolling-kaliningrad-border)
+- „Inter“ pratęsė pergalių seriją, neprarado taškų prieš „Saint‑Germain“, o „Barcelona“ ir „Bayern“ įrodė įspūdingą puolimą, įsirašydami lengvas pergalės. [šaltinis 1](https://www.lrt.lt/naujienos/sportas/10/3085178/inter-pratese-pergaliu-serija-tasku-neprarado-ir-saint-germain) ir [šaltinis 2](https://www.lrt.lt/naujienos/sportas/10/3085170/ispudinga-puolima-pademonstrave-barcelona-ir-bayern-klubai-isirase-lengvas-pergales)  
+- Belgijos protestų metu policija panaudojo ašarines dujas. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3085174/protestai-belgijoje-policija-panaudojo-asarines-dujas)  
+- Albanijos sostinėje penktą dieną iš eilės tęsiasi smurtiniai susirėmimai. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3085173/albanijos-sostineje-penkta-diena-is-eiles-tesiasi-smurtiniai-susiremimai)  
+- Nedidelis lietus nepakenks rudens dienų mėgavimuisi Lietuvoje. [šaltinis](https://www.15min.lt/naujiena/aktualu/orai/nedidelis-lietus-nesutrukdys-megautis-graziomis-rudeniskomis-dienomis-60-2787170?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
+- Rokiškio rajone įvyko avarija, kurios metu mirtinai suvažinėtas vyras. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/rokiskio-rajone-per-avarija-zuvo-kelio-viduriu-ejes-vyras-56-2787146?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
+- Lietuvoje atidaryta nauja lazerio gamykla, siekianti tapti viena didžiausių pasaulyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3084168/new-laser-factory-opens-in-lithuania-with-ambition-to-become-one-of-world-s-largest)
 
 ## 🌍 Pasaulyje
 
-Prancūzijoje vykusios nacionalinės protestų bangos sukėlė smurtinius susidūrimus, vagystes ir degančius pastatus, o policija sulaikė daugiau nei 1 000 demonstrantų. [šaltinis](https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss)  
-JAV prezidentas Donaldas Trumpas panaikino kelias Rusijos sankcijas, o tai dar labiau paaštrina konfliktą su Ukrainos prezidentu Volodymu Zelenskijumi. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
-Izraelio kolonistai Vakarų Krante smogė Europos diplomatų, o JAV ambasadorius raginė Izraelį teisti už pučiamų amerikiečių žurnalisto ataką. [šaltinis](https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss)  
-Albanijoje anti‑vyriausybės protestuotojai susidūrė su policija, kai susibūrė šimtai demonstrantų ir įvyko smurtinės konfrontacijos. [šaltinis](https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss)  
-Indijoje per Hindu šventę įvyko minių susidūrimas, kuriame žuvo bent 17 žmonių. [šaltinis](https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss)  
-Prie Kim Čong Un vasaros rezidencijos buvo aptiktas prabangus laivas su 50 m baseinu ir vandens čiuožyklomis, kuris sukelia tarptautinį susidomėjimą. [šaltinis](https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss)  
-Saudo Arabijos vadovaujama koalicija sulaikė dronus Irane, tuo tarpu Egiptas svarsto, ar teikti karinę pagalbą konfliktui. [šaltinis](https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss)
+- Prancūzijoje protestų metu įvyko smurtiniai susirėmimai, degė pastatai ir buvo sulaikytas daugiau nei 1000 žmonių. [šaltinis](https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss)  
+- Prezidentas Donaldas Trumpas panaikino kelias Rusijos sankcijas, o tai dar labiau sustiprino įtampą su Ukrainos prezidentu Volodymyru Zelenskio, kurių konfliktas viešai aštrėjo. [šaltinis](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)  
+- Izraelio kolonistų atakos Vakarų Krante nukentėjo keli Europos diplomatų, kurie buvo išpučiai ir sužeisti. [šaltinis](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)  
+- Albanijoje vykusių antivalstybiniai protestai išsiplėtė iki smurto su policija, kai demonstrantai susidūrė su policijos pajėgomis. [šaltinis](https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss)  
+- Indijoje šventės metu įvykęs žmonių suspaudimo incidentas nusinešė bent 17 gyvybių. [šaltinis](https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss)  
+- Saudo vadovaujamos koalicijos pajėgos pradėjo oro išpuolius, siekdamos pralaužti Houthi blokadą mieste Taiz ir palengvinti civilių kančias. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss)  
+- Rusijos kariuomenė planuoja sustabdyti elektros tiekimą Ukrainoje žiemos metu, o Ukrainos prezidentas Zelenskis įspėja dėl galimo „blackout“ poveikio gyventojams. [šaltinis](https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf)
