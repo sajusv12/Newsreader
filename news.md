@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-19 01:29 UTC*
+*Atnaujinta: 2026-10-19 02:22 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- „Energija“ užbaigė Kontinentinės taurės turnyrą įspūdinga pergale. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086140/energija-kontinentines-taures-turnyra-baige-skambia-pergale)  
-- Lietuvos sporto vadovas Masiulis pasidalijo informacija apie Williamso‑Gosso, Tubelio sveikatą bei rekordinį Valančiūno rezultatą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086159/masiulis-apie-williamso-gosso-ir-tubelio-sveikata-bei-rekordini-valanciuna)  
-- Festivalyje „Nepatogus kinas“ paskelbti geriausieji, išryškinantys vietinius kūrinius. [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3086156/apdovanoti-festivalio-nepatogus-kinas-geriausieji)  
-- Lietuvos įmonėje, saugojančioje „Starlink“ įrangą, buvo užsižvelgtas bandymas uždegt gaisrą, dėl kurio premjeras kaltina Rusiją. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086054/attempted-arson-at-lithuanian-firm-storing-starlink-equipment-pm-blames-russia)  
-- Dronas į Lietuvą įskrido iš Lenkijos, o jo nuėžiai pataikė į automobilį kaimo kelyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086051/drone-enters-lithuania-from-poland-debris-hits-a-car-on-rural-road)  
-- Publikacija kelia klausimą, ar Lietuva tampa mažiau vaikų draugiška, remdamasi viešais įspėjimais. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083354/children-welcome-as-long-as-they-stay-quiet-is-lithuania-becoming-less-child-friendly)  
-- ES imasi priemonių, kad apribotų rusų įvažiavimą į Europos Sąjungą, kas tiesiogiai veikia ir Lietuvą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083275/eu-working-on-multiple-fronts-to-limit-russians-from-entering-bloc)
+- „Energija“ komandą „Kontinentinės taurės“ turnyras baigė įspūdinga pergale, išryškinus jos stipriąją formą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086140/energija-kontinentines-taures-turnyra-baige-skambia-pergale)  
+- Lietuvos krepšinio rinktinės treneris Masiulis atskleidė Williamso‑Gosso bei Tubelio sveikatos būklę ir paminėjo „Valančiūno“ rekordą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3086159/masiulis-apie-williamso-gosso-ir-tubelio-sveikata-bei-rekordini-valanciuna)  
+- Po drono įplaukimo į Lietuvos teritoriją sukelto incidento planuojamas Nacionalinio saugumo tarybos posėdis, kurio metu prezidentas susitiks su žvalgybos ir kariuomenės atstovais. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/po-drono-incidento-vyks-nsk-posedis-prezidentas-susitiks-su-zvalgybos-kariuomenes-atstovais-56-2787476)  
+- Lietuvos įmonėje, saugojančioje „Starlink“ įrangą, buvo įvykdytas bandymas uždegti, o premjeras kaltina šį išpuolį Rusiją. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3086054/attempted-arson-at-lithuanian-firm-storing-starlink-equipment-pm-blames-russia)  
+- „Delfi“ apklausos rezultatai išryškino Andrių Tapiną ir Liną Kojalą kaip įtakingiausius Lietuvos visuomenininkus. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/itakingiausi-visuomenininkai-andrius-tapinas-linas-kojala-delfi-apklausa-56-2787474)  
+- Orų prognozė rodo, kad šią savaitę Lietuvoje vyraus neįprastai šiltas, rudeniškas oras. [šaltinis](https://www.15min.lt/naujiena/aktualu/orai/orai-lt-sia-savaite-vyraus-rudeniskai-silti-orai-60-2787472)  
+- Analitinė „LRT“ medžiaga kelia klausimą, ar Lietuva tampa mažiau draugiška vaikams, atsižvelgiant į pastarąjį požiūrį į mažų lankytojų elgesį. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3083354/children-welcome-as-long-as-they-stay-quiet-is-lithuania-becoming-less-child-friendly)
 
 ## 🌍 Pasaulyje
 
-- Prancūzijoje po plačiai išsisklaidžiusių riotsų prezidentas Emmanuelas Macronas ragina „ramybę ir tvarką“, o istorinis miesto rotušės pastatas buvo sudegintas, o jaunieji rinkėjai išreiškė nusivylimą socialistinėmis partijomis. [šaltinis](https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss)  
-- Kanados karinio bazės gaisras nužudė keturis žmones ir sukėlė dešimčių sužeidimų. [šaltinis](https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss)  
-- Buvęs JAV prezidentas Donaldas Trumpas teigė, kad Rusijos sankcijų sustabdymas skirtas išlaikyti taikos derybas. [šaltinis](https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss)  
-- Rusijos vidaus grupės vykdo slaptus veiksmus, siekdamos sabotuoti Putino režimą. [šaltinis](https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss)  
-- Čikago policija kovoja su sintetinių narkotikų srautu, kuris užlieja visą JAV. [šaltinis](https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss)  
-- Kenijoje patvirtintas aštuntas Ebolos atvejis, kai liga plečiasi regiono mastu. [šaltinis](https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss)  
-- Somaliečių piratavimas vėl iškilęs, skatinamas giminės ryšių ir stebėjimo technologijų pagalba. [šaltinis](https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss)
+- Prancūzijos prezidentas Emmanuelas Macronas po visų šalyje vykusių sukilimų, įskaitant istorinio savivaldybės pastato uždegimą, ragino „ramybės ir tvarkos“ [šaltinis](https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss)  
+- Kanados karinis bazės gaisras pareikalavo keturių gyvybių ir sukėlė dešimtis sužeistųjų [šaltinis](https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss)  
+- Kenija patvirtino aštuntą Ebolos atvejį, kai liga toliau plinta Rytų Afrikos regione [šaltinis](https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss)  
+- Tarpusavio konfliktų tarp Irano ir Izraelio įtampa didėjo, o Jemenas patiria intensyvesnius mūšius, kaip pranešama gyvai transliuojamoje atnaujinimo serijoje [šaltinis](https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss)  
+- Ukrainos priklausomybė nuo JAV valdomos „Starlink“ interneto paslaugos išlieka didelė, o tai kelia strateginių klausimų dėl ryšio saugumo [šaltinis](https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-world-4025-rdf)  
+- Čekijos populištinis premjeras Andrejas Babiš nepavyko įgyti jokios vietos Senato rinkimuose, pralaimėdamas savo partijai svarbų politinį išbandymą [šaltinis](https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-world-4025-rdf)  
+- Rusijos prezidentas Vladimiras Zelenskis įspėjo, kad Rusija siekia užblokuoti elektros tiekimą Ukrainoje artėjančiu žiemos sezonu [šaltinis](https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf)
