@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-20 04:23 UTC*
+*Atnaujinta: 2026-10-20 05:23 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- „Dream“ komanda, vadovaujama A’ja Wilson, išlaikė lygiąją situaciją WNBA finalų serijoje po Jocytės klubo pralaimėjimo, o Reese spyrėjo nesustabdomai. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3088012/lygybe-wnba-finalo-serijoje-jocytes-kluba-iveike-nesustabdomos-reese-vedama-dream)  
-- Lietuvoje šiuo metu džiugins sausi orai, o artimiausiu metu temperatūra pakils iki 18 °C. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3087445/dziugins-sausi-orai-po-truputi-sils-netrukus-ir-18-laipsniu-siluma)  
-- Seimas svarstys, ar dėl dviračių gatvių projektų kreiptis į Konstitucinį Teismą. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3088008/seimas-svarstys-ar-del-dviraciu-gatviu-kreiptis-i-kt)  
-- Seimui pristatyti kitų metų valstybės, „Sodros“ ir PSDF biudžetų projektai – svarbūs planai artėjančiam finansų laikotarpiui. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3088007/seimui-pristatomi-kitu-metu-valstybes-sodros-ir-psdf-biudzetu-projektai)  
-- JAV vėluoja pristatyti raketas, įskaitant „Patriot“ sistemas, Ukrainai – Kijevas teigia, kad JAV stabdo šias tiekimo priemones, o tuo tarpu JAV pasiuntinys keliauja į Europą susitikti su Ukrainos ir Rusijos lyderiais. [šaltinis 1](https://www.15min.lt/naujiena/aktualu/pasaulis/karas-ukrainoje-kyjivas-jav-stabdo-raketu-pristatyma-57-2788304) [šaltinis 2](https://www.15min.lt/naujiena/aktualu/pasaulis/karas-ukrainoje-57-2788294) [šaltinis 3](https://www.15min.lt/naujiena/aktualu/pasaulis/saltinis-jav-pasiuntinys-vyksta-i-europa-susitikti-su-ukrainos-ir-rusijos-lyderiais-57-2788310)  
-- Konstitucinė Teismas atvers bylą dėl atleisto Seimo kanclerio Modesto Gelbūdos, kurio pašalinimas sukėlė politinių diskusijų. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/konstitucinis-teismas-atvers-atleisto-seimo-kanclerio-modesto-gelbudos-byla-56-2788306)  
-- Lietuva siekia, kad iki 2027 m. integruota oro erdvės stebėjimo sistema būtų iš dalies veikianti, o vyriausybės patarėjas pateikė įrodymų, jog sekmadienio dronas peržengė Lietuvos ribas iš Lenkijos, nors Lenkija tai paneigia. [šaltinis 1](https://www.lrt.lt/en/news-in-english/19/3087410/lithuania-aims-to-have-integrated-airspace-detection-system-partially-operational-by-2027) [šaltinis 2](https://www.lrt.lt/en/news-in-english/19/3087132/lithuania-has-evidence-sunday-s-drone-crossed-from-poland-presidential-adviser-says) [šaltinis 3](https://www.lrt.lt/en/news-in-english/19/3087423/poland-denies-report-that-sundays-drone-was-launched-from-lithuanian-territory)
+- Ministras finansų skyriaus vadovas Olekas paskelbė, kad sieks kuo racionaliau tvarkyti viešąsias lėšas. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3088034/olekas-bandysime-kaip-galima-racionaliau-tvarkyti-viesasias-lesas)  
+- Ekonomistas perspėja, kad Lietuva artimiausiu metu gali pasiekti biudžeto deficito ribą, keliančią didelę finansinę riziką. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087444/lithuania-is-nearing-tipping-point-with-growing-budget-deficit-economist-warns)  
+- Lietuva planuoja iki 2027 m. dalinai įgyvendinti integruotą oro erdvės aptikimo sistemą, skatinančią oro erdvės saugumą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087410/lithuania-aims-to-have-integrated-airspace-detection-system-partially-operational-by-2027)  
+- Lenkija paneigia, kad sekmadienio dronas buvo paleistas iš Lietuvos teritorijos, atmetusi pradinę pranešimą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087423/poland-denies-report-that-sunday-s-drone-was-launched-from-lithuanian-territory)  
+- Lietuvos moderniojo penktakampio sportas prarado varžybas dėl Rusijos ir Baltarusijos sportininkų apribojimų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087212/lithuania-loses-modern-pentathlon-event-over-restrictions-on-russian-belarusian-athletes)  
+- Pasienyje su Baltarusija nebuvo fiksuota neteisėtų migrantų, tačiau jų buvimas šalia sienos išlieka problematiškas. [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/pasienyje-su-baltarusija-nefiksuota-neteisetu-migrantu-59-2788342?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
+- Vykdant kasimo darbus Lazdijuose rasti galimai žmogaus kaulų fragmentai sukėlė archeologinį ir kriminalinį susirūpinimą. [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/vykdant-kasimo-darbus-lazdijuose-rasti-galimai-zmogaus-kaulu-fragmentai-59-2788336?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)
 
 ## 🌍 Pasaulyje
 
-- Prancūzija įvedė laikinuosius žygio apribojimus centrinėje Paryžiaus dalyje ir kitose miestuose po plačiai išsisklaidžiusio sukilimo visoje šalyje. [šaltinis](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss)  
-- Ukrainos vyriausybės patarėjas teigia, kad JAV ribojant žvalgybos informacijos dalijimąsi, miršta vis daugiau ukrainiečių. [šaltinis](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss)  
-- Kenijos sekta lyderis, kuris skatino tėvus laužyti vaikų maistą, buvo pripažintas kaltu 191 nužudymu. [šaltinis](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss)  
-- Japonija paleido istorinę misiją, kurios tikslas – grąžinti mėnulio nuo Marso mėnulio mėginius į Žemę. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss)  
-- Kolumbijoje žlugus nelegaliai eksploatuojamam aukso kasyklos šakutui, žuvo 14 žmonių. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss)  
-- El Niño šiuo metu daro įtaką oro sąlygoms visame pasaulyje, sukeldamas ekstremalias karščio bangas, sausras ir potvynius. [šaltinis](https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss)  
-- Kanados provincija Albertos gyventojai balsavo, ar rengti nepriklausomybės referendumą. [šaltinis](https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf)
+Po visos Prancūzijos sprogdinimų vyriausybė įvedė cienių laiką centrinėje Paryžiuje ir kituose miestuose. [šaltinis](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss)  
+Ukrainos vadovai teigia, kad JAV apribojus žvalgybos informacijos dalijimąsi, žuvo vis daugiau ukrainiečių karių. [šaltinis](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss)  
+Kenijos sekta lyderis, kuris ragino tėvus savo vaikams nevalgyti, buvo pripažintas kaltu dėl 191 žmogžudystės. [šaltinis](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss)  
+El Niño reiškinys šiuo metu daro įtaką pasaulinėms oro sąlygoms, sukeldamas stiprias sausras, potvynius ir neįprastus temperatūrų svyravimus. [šaltinis](https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss)  
+Buvęs „OpenAI“ darbuotojas buvo apkaltintas, kad su Saudo Arabijos parama įrengė šnipinėjimo įrenginį, kaip teigia teismo dokumentai. [šaltinis](https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss)  
+JAV Aukščiausiasis Teismas priims sprendimą dėl rasinių kvotų universitetų priėmimo į studentų programas. [šaltinis](https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss)  
+Japonija paleido istorinę misiją, kuria siekiama grąžinti mėnulio nuo Marso mėnulio pavyzdžius. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss)
