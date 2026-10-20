@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-20 03:23 UTC*
+*Atnaujinta: 2026-10-20 04:23 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Seime priimtos pataisos, leidžiančios skaičiuoti 50 % nuolaidą tarpmiestiniams autobusų bilietams. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3088004/seime-pataisos-del-50-proc-nuolaidos-tarpmiestiniu-autobusu-bilietams)  
-- Gyventi ūkinėje patalpoje, biure ar lofte gali kainuoti iki 1 500 eurų baudos, jei nesilaikoma sanitacijos reikalavimų. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3087182/gyvenimas-ukiniame-pastate-biure-ar-lofte-bauda-gali-siekti-ir-1-500-euru)  
-- Lietuvos vyriausybė planuoja iki 2027 m. dalinai įgyvendinti integruotą oro erdvės aptikimo sistemą, siekdama stiprinti oro gynybą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087410/lithuania-aims-to-have-integrated-airspace-detection-system-partially-operational-by-2027)  
-- Prezidento patarėjas teigia, kad sekmadienio dronas atskrido iš Lenkijos, nors Lenkija šį teiginį paneigia. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087132/lithuania-has-evidence-sunday-s-drone-crossed-from-poland-presidential-adviser-says)  
-- Lietuva prarado moderniojo penkiakio rungties varžybas dėl draudimo rusų ir baltarusių sportininkų dalyvauti. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087212/lithuania-loses-modern-pentathlon-event-over-restrictions-on-russian-belarusian-athletes)  
-- Prezidentas Gitanas Nausėda Varšuvoje švenčia Abiejų Tautų tarpusavio įžado metines. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/gitanas-nauseda-varsuvoje-mines-abieju-tautu-tarpusavio-izado-metines-56-2788302)  
-- Vilniaus meras perspėja, kad didelės spūsčios gali paralyžiuoti miestą, todėl kviečia „pakentėkim“ ir ieškoti sprendimų. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/vilniaus-meras-apie-spusciu-paralyziuojama-vilniu-mano-zinia-paprasta-pakentekim-56-2787824)
+- „Dream“ komanda, vadovaujama A’ja Wilson, išlaikė lygiąją situaciją WNBA finalų serijoje po Jocytės klubo pralaimėjimo, o Reese spyrėjo nesustabdomai. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3088012/lygybe-wnba-finalo-serijoje-jocytes-kluba-iveike-nesustabdomos-reese-vedama-dream)  
+- Lietuvoje šiuo metu džiugins sausi orai, o artimiausiu metu temperatūra pakils iki 18 °C. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3087445/dziugins-sausi-orai-po-truputi-sils-netrukus-ir-18-laipsniu-siluma)  
+- Seimas svarstys, ar dėl dviračių gatvių projektų kreiptis į Konstitucinį Teismą. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3088008/seimas-svarstys-ar-del-dviraciu-gatviu-kreiptis-i-kt)  
+- Seimui pristatyti kitų metų valstybės, „Sodros“ ir PSDF biudžetų projektai – svarbūs planai artėjančiam finansų laikotarpiui. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3088007/seimui-pristatomi-kitu-metu-valstybes-sodros-ir-psdf-biudzetu-projektai)  
+- JAV vėluoja pristatyti raketas, įskaitant „Patriot“ sistemas, Ukrainai – Kijevas teigia, kad JAV stabdo šias tiekimo priemones, o tuo tarpu JAV pasiuntinys keliauja į Europą susitikti su Ukrainos ir Rusijos lyderiais. [šaltinis 1](https://www.15min.lt/naujiena/aktualu/pasaulis/karas-ukrainoje-kyjivas-jav-stabdo-raketu-pristatyma-57-2788304) [šaltinis 2](https://www.15min.lt/naujiena/aktualu/pasaulis/karas-ukrainoje-57-2788294) [šaltinis 3](https://www.15min.lt/naujiena/aktualu/pasaulis/saltinis-jav-pasiuntinys-vyksta-i-europa-susitikti-su-ukrainos-ir-rusijos-lyderiais-57-2788310)  
+- Konstitucinė Teismas atvers bylą dėl atleisto Seimo kanclerio Modesto Gelbūdos, kurio pašalinimas sukėlė politinių diskusijų. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/konstitucinis-teismas-atvers-atleisto-seimo-kanclerio-modesto-gelbudos-byla-56-2788306)  
+- Lietuva siekia, kad iki 2027 m. integruota oro erdvės stebėjimo sistema būtų iš dalies veikianti, o vyriausybės patarėjas pateikė įrodymų, jog sekmadienio dronas peržengė Lietuvos ribas iš Lenkijos, nors Lenkija tai paneigia. [šaltinis 1](https://www.lrt.lt/en/news-in-english/19/3087410/lithuania-aims-to-have-integrated-airspace-detection-system-partially-operational-by-2027) [šaltinis 2](https://www.lrt.lt/en/news-in-english/19/3087132/lithuania-has-evidence-sunday-s-drone-crossed-from-poland-presidential-adviser-says) [šaltinis 3](https://www.lrt.lt/en/news-in-english/19/3087423/poland-denies-report-that-sundays-drone-was-launched-from-lithuanian-territory)
 
 ## 🌍 Pasaulyje
 
-- Prancūzijoje, po visos šalyje vykusių sukilimų, centro Paryžiuje ir kitose miestuose įvestas laikinas naktinis cenzas. [šaltinis](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss)  
-- Ukrainos patarėjas teigia, kad JAV ribojantis žvalgybos informacijos dalijimąsi, miršta vis daugiau ukrainiečių. [šaltinis](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss)  
-- Kenijoje kulto lyderis, įsakęs tėvams nešerti vaikus, buvo pripažintas kaltu 191 nužudyme. [šaltinis](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss)  
-- „El Niño“ poveikis pasaulio klimatui išlieka stiprus: sukelia ekstremalias karščio bangas, potvynius ir sausras. [šaltinis](https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss)  
-- Buvęs „OpenAI“ darbuotojas, pasisakęs, kad įrenginį įdėjo su Saudo Arabijos paramos pagalba, yra kaltinamas teismo prašyme. [šaltinis](https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss)  
-- Ryškiai lietaus nuotėkiai rytų Ispanijoje sukėlė keturių žmonių mirtį ir plačiai sugriovė infrastruktūrą. [šaltinis](https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss)  
-- JAV oro smūgių intensyvėjimas Somalijoje sukelia civilių aukų skaičiaus augimą ir humanitarines problemų bangas. [šaltinis](https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss)
+- Prancūzija įvedė laikinuosius žygio apribojimus centrinėje Paryžiaus dalyje ir kitose miestuose po plačiai išsisklaidžiusio sukilimo visoje šalyje. [šaltinis](https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss)  
+- Ukrainos vyriausybės patarėjas teigia, kad JAV ribojant žvalgybos informacijos dalijimąsi, miršta vis daugiau ukrainiečių. [šaltinis](https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss)  
+- Kenijos sekta lyderis, kuris skatino tėvus laužyti vaikų maistą, buvo pripažintas kaltu 191 nužudymu. [šaltinis](https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss)  
+- Japonija paleido istorinę misiją, kurios tikslas – grąžinti mėnulio nuo Marso mėnulio mėginius į Žemę. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss)  
+- Kolumbijoje žlugus nelegaliai eksploatuojamam aukso kasyklos šakutui, žuvo 14 žmonių. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss)  
+- El Niño šiuo metu daro įtaką oro sąlygoms visame pasaulyje, sukeldamas ekstremalias karščio bangas, sausras ir potvynius. [šaltinis](https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss)  
+- Kanados provincija Albertos gyventojai balsavo, ar rengti nepriklausomybės referendumą. [šaltinis](https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-world-4025-rdf)
