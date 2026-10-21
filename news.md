@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-21 13:34 UTC*
+*Atnaujinta: 2026-10-21 14:27 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Penktadienį automagistralėje A1 netoli Klaipėdos bus ribojamas eismas. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3089077/penktadieni-automagistraleje-a1-prie-klaipedos-bus-ribojamas-eismas)  
-- Alytuje įvyko šaudymas – sužeistas vyras, įtariamasis – nepilnametis, sulaikytas policijos. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089072/alytuje-apsaudytas-vyras-sulaikytas-nepilnametis-itariamasis)  
-- Vilniaus „Žalgirio“ namų sezonas pasiekė trijų dešimtmečių lankomumo rekordą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3089070/vilniaus-zalgirio-namu-sezonas-su-triju-desimtmeciu-lankomumo-rekordu)  
-- Ministras V. Sinkevičius įvertino premjero darbo pradžią teigiamai, bet ragina imtis ryžtingesnių sprendimų. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089063/v-sinkevicius-premjeras-darba-pradejo-neblogai-taciau-noretusi-ryztingesniu-sprendimu)  
-- Rusų, siekiančio Lietuvos prieglobsčio, išsakymai iš Rusijos kalėjimo atskleidė skandalingas detales. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/balsas-is-rusijos-kalejimo-lietuvoje-prieglobscio-siekes-rusas-atskleide-skandalingas-detales-56-2789742?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-- Andriaus Navicko profsąjunga pranešė, kad nesutinka su ŠMSM dėl mokytojų algų didinimo ir kreipsis į premjerą. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/andriaus-navicko-profsajunga-sako-nesutarusi-su-smsm-del-mokytoju-algu-didinimo-kreipsis-i-premjera-56-2789868?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-- Lietuvos narkotikos laboratorijoje rastas pusės tono (500 kg) metamfetaminas – didžiausias iki šiol atradimas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089162/half-a-tonne-of-methamphetamine-found-in-lithuanian-drug-laboratory)
+- Lietuvos užsienio reikalų ministerija paskelbė, kad neplanuoja lengvinti vizų taisyklių pakistaniečiams, manydama, jog tai gali būti manipuliacijos bandymas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089368/attempt-to-manipulate-lithuania-not-easing-visa-rules-for-pakistani-citizens-ministry)  
+- Prezidentas Gitanas Nausėda pareiškė, kad ortodoksų krikščionys, priklausantys Maskvos patriarchatui, turi pasirinkti tarp Lietuvos valstybės ir Rusijos, siekiant išvengti politinės manipuliacijos. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089292/orthodox-christians-under-moscow-patriarchate-must-choose-sides-lithuanian-president)  
+- Lietuvos policija narkotinių medžiagų laboratorijoje rado pusę tonos metamfetamino, tai vienas didžiausių narkotikų suskaldymų šalyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089162/half-a-tonne-of-methamphetamine-found-in-lithuanian-drug-laboratory)  
+- „Ignitis Group“ pasiūlė atidėti 700 MW jėgų gamybos projektą Baltijos jūroje, teigdama, kad tai padės geriau koordinuoti finansavimą ir leidimų gavimą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089160/ignitis-group-proposes-delay-to-700-mw-baltic-sea-wind-farm-project)  
+- Lietuvos ministras pirmininkas pareiškė, kad Rusija testuoja NATO 5 straipsnio ribas, įspėdamas apie galimą agresyvų požiūrį į aljanso kolegas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089141/lithuanian-pm-russia-is-testing-limits-of-nato-s-article-5)  
+- Polijos ir Lietuvos ekspertų komanda pradėjo tyrimą dėl sprogimo, kuris įvyko Lietuvos teritorijoje naudojant droną, siekdama nustatyti atsakomybę ir išvengti panašių incidentų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089120/polish-lithuanian-team-investigates-drone-explosion-in-lithuania-nauseda-says)  
+- Prie Santaros klinikų statoma nauja gimnazija, kurios statybos vertė siekia 23,5 mln eurų, ir ji bus pavadinta „Verkų slėnio“ mokykla. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/prie-santaros-kliniku-uz-235-mln-euru-statoma-gimnazija-vadinsis-verkiu-slenio-56-2789896)
 
 ## 🌍 Pasaulyje
 
-- Rusija paleido JAV pilietį Stepheną Hubbardą, kai Trumpo ambasadorius susitiko su Putinu. [šaltinis](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)  
-- Australijos parlamento narė Helen Haines po automobilio atakos prarado abi kojas, o kaltinamas asmuo jau buvo teismo salėje. [šaltinis](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss)  
-- Pakistanas suėmė asmenį, kurį JAV ieško dėl 126 milijonų dolerių pašto sukčiavimo, kaip pranešė kelios žiniasklaidos priemonės. [šaltinis](https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss)  
-- Prancūzijos prezidentas Emmanuelas Macronas pareiškė, kad protestuotojams nebus leidžiama sukelti chaoso. [šaltinis](https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss)  
-- Nors yra naujos vilties ženklų, JAV prezidentas Donaldas Trumpas ir Ukrainos prezidentas Volodymyras Zelenskis lieka priešiškame santykyje. [šaltinis](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss)  
-- Jungtinės Karalystės kovos lėktuvai skirti apsaugoti Saudo Arabiją nuo Houthi atakų. [šaltinis](https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-world-4025-rdf)  
-- Nigeryje sostinėje Abujo užregistruotas pirmasis Ebolos atvejis. [šaltinis](https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf)
+- Rusija išlaisvino JAV pilietį Steveną Hubbardą tuo pačiu metu, kai Trumpo atstovas susitiko su Putinu. [šaltinis](https://www.bbc.co.uk/news/articles/c6m24l9v3745o)  
+- Australijos parlamentaras Helen Haines po įtariamo automobilio išpuolio prarado abi kojas, o įtariamasis jau yra teismo procese. [šaltinis](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o)  
+- Prancūzija susiduria su skirtingais požiūriais dėl protestų priežasčių, o prezidentas Makronas įspėja, kad demonstrantai nebus leisti sukelti chaoso. [šaltinis](https://www.bbc.co.uk/news/articles/cq0me4g9p970o) [šaltinis](https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss)  
+- „Tesla“ ir „SpaceX“ įkūrėjas Elonas Muskas patvirtino, kad svarsto šių dviejų įmonių susijungimą. [šaltinis](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o)  
+- Pakistano institucijos sulaikė asmenį, kurį ieško JAV dėl 126 mln USD sukčiavimo pašto schemos. [šaltinis](https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo)  
+- Gambija planuoja išmokėti žaizdos aukoms kompensacijas, naudodama JAV įsigalėjusio buvusio prezidento Jaha Jamėjo rūmus pardavimo pajamas. [šaltinis](https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o)  
+- Izraelio karas Libane sukelia didelį psichologinį krūvį jauniems žmonėms, sergantiems autizmo ir ADHD, kurie patiria didesnį stresą ir sveikatos pablogėjimą. [šaltinis](https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss)
