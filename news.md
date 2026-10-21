@@ -1,29 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-21 04:24 UTC*
+*Atnaujinta: 2026-10-21 05:23 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-Sinoptikas prognozuoja, kad trečiadienį Lietuvoje bus iki 16 laipsnių šilumos. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089012/sinoptikas-treciadieni-sulauksime-iki-16-laipsniu-silumos)  
-
-Vilniaus taryba trečiadienį spręs, ar įvesti mokesčių lengvatas verslui, nukentėjusiam nuo gatvių remontų. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3089007/vilniaus-taryba-treciadieni-spres-del-mokesciu-lengvatu-gatviu-remontu-paveiktam-verslui)  
-
-VTEK svarstys, ar pradėti tyrimą dėl Kauno mero kvietimo į verslo konferenciją. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/vtek-spres-ar-pradeti-tyrima-del-kauno-mero-gauto-kvietimo-i-verslo-konferencija-56-2789194?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-
-Andriaus Navicko mokytojų profsąjunga pradės derybas su ŠMSM dėl mokytojų algų didinimo. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/andriaus-navicko-profsajunga-su-smsm-vadovybe-deresis-del-mokytoju-algu-56-2789178?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-
-Paršūvis šuoliu padarė šuolį nuo Vilniaus dangoraižio ir gali būti baustas iki 600 eurų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3088399/parachutist-leaps-from-vilnius-skyscraper-risking-fine-of-up-to-eur600)  
-
-Lietuvos universitetas išsiuntė 8 000 mokymo vadovų universitetams Afrikoje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3088385/lithuanian-university-sends-8-000-textbooks-to-universities-in-africa)  
-
-Lietuvos Ortodoksų Bažnyčia įspėjo, kad siūlomi įstatymų pakeitimai gali dar labiau išskaldyti visuomenę. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3088262/lithuanian-orthodox-church-warns-proposed-law-changes-could-deepen-divisions)
+- Balkonų apželdinimas ne tik puošia miestą, bet ir teikia sveikatos bei energijos taupymo naudą, kaip paaiškina kraštovaizdžio specialistas. [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3028147/krastovaizdzio-specialistas-apie-balkonu-apzeldinima-ne-tik-grazu-bet-ir-naudinga)  
+- Seimas po pranešimo priėmė pasiūlymą pagreitinti gynybos pirkimus, tuo tarpu Lietuva siekia NATO susitarimų dėl dronų šaudymo be vizualinio patvirtinimo. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3088395/seimas-po-pateikimo-pritare-siulymui-spartinti-gynybos-pirkimus) & [šaltinis](https://www.lrt.lt/en/news-in-english/19/3088084/lithuania-seeks-nato-talks-on-shooting-down-drones-without-visual-confirmation)  
+- Vilniaus Katedros aikštėje vyko gatvės futbolo turnyras, kuriame susirinko daugybė vietinių komandų. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3088389/vilniaus-katedros-aikste-alsavo-futbolu-komandos-susibure-i-gatves-futbolo-turnyra)  
+- Molėtų ligoninės buvusio vadovo Grigo bylą peržiūrės iš naujo, kad būtų išspręstos teisinės neaiškumai. [šaltinis](https://www.lrt.lt/naujienos/sveikata/682/3088392/moletu-ligonines-buvusio-vadovo-grigo-byla-tures-buti-ivertinta-is-naujo)  
+- Kauno rajono meras Jonas Makūnas paskelbė, kad nesieks dar vienos kadencijos, planuodamas atsitraukti iš politikos. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3088390/kauno-rajono-meras-makunas-nesieks-dar-vienos-kadencijos)  
+- Kaune po požeminiame garaže susidarė gaisras, sudegė BMW X5 ir buvo išvežti dujų balionai, o Kauno įmonėje „Autokausta“ išsiliejęs dyzelinas pateko į upelį, tekantį į Nemuną. [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/kaune-pozeminiame-garaze-sudege-bmw-x5-isnesti-duju-balionai-59-2789242) & [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/kauno-imoneje-autokausta-issiliejes-dyzelinas-pateko-i-upeli-tekanti-i-nemuna-59-2789236)  
+- Lietuvoje įvyko keletas smurto incidentų: protestuotojas Vilniuje prie ambasados pasipriešino policijai, Rukloje karys susižalojo nuo nukritusio konteinerio, Panevėžio rajone dirbantį vyrą grasino ginklu, o Alytuje vyrą šaudė iš pneumatinio ginklo, du įtariamieji sulaikyti. [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/vilniuje-prie-ambasados-piketaves-vyras-pasipriesino-policijos-pareigunui-59-2789226) & [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/rukloje-susizalojo-nuo-konteinerio-nukrites-karys-59-2789228) & [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/panevezio-rajone-kasimo-darbus-dirbusiam-vyrui-grasinta-ginklu-59-2789222) & [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/alytuje-vyra-apsaude-is-pneumatinio-ginklo-sulaikyti-du-itariamieji-59-2789218)
 
 ## 🌍 Pasaulyje
 
-- JAV ambasadorius susitiks su Vladimiro Putinu Rusijoje, o Ukrainos prezidentas Zelenskis pranešė, kad žvalgybinis informacijos dalijimasis dabar veikia efektyviai. [šaltinis](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss)  
-- Prancūzijoje išlieka gilios politinės įtampos dėl savaitgalio neramumų, nes visuomenė nesutaria, kas yra kaltininkas ir kokios pamokos iš jų turėtų būti išmoktos. [šaltinis](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)  
-- „Elonas Muskas“ paskelbė, kad svarstomi „Tesla“ ir „SpaceX“ susijungimo variantai, kurie galėtų tapti didžiausiu susijungimu istorijoje. [šaltinis](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)  
-- Netoli Sudano ir Pietų Sudano sienos Rytų Afrikos mieste Abyei įvyko dronų ataka, kurios metu žuvo apie 150 žmonių. [šaltinis](https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-rdf)  
-- Portugalijoje protestuotojai sugrįžo į laikinai iškeltas stovyklas po policijos išvalymo, reikalaujant geresnių gyvenimo sąlygų ir gyvenamųjų vietų. [šaltinis](https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-world-4025-rdf)  
-- Nigerijos sostinėje Abuja užfiksuotas pirmasis Ebola atvejis šalyje, kas kelia didelį sveikatos saugumo nerimą. [šaltinis](https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf)  
-- Jungtinių Tautų ekspertų grupė paragino Indiją nutraukti „perteklinį“ jėgos naudojimą prieš protestuotojus, siekdama užtikrinti žmogaus teises. [šaltinis](https://www.dw.com/en/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters/a-79710877?maca=en-rss-en-world-4025-rdf)
+- JAV ambasadorius susitiks su Putinu Rusijoje, o Ukrainos prezidentas Zelenskis teigia, kad žvalgybos duomenų mainai šiuo metu veikia efektyviai. [šaltinis](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss)  
+- Prancūzija susiskaldė dėl savaitgalio minų kaltininkų ir iš kokių pamokų reikia išmokti šių įvykių. [šaltinis](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)  
+- Elono Musko vadovaujama „Tesla“ ir „SpaceX“ susijungimo galimybė svarstoma kaip didžiausias verslo susijungimas istorijoje. [šaltinis](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)  
+- Sudano kariuomenės dronų ataka prieš laidojimo šventę ir kuro rinką nužudė daugiau nei 300 žmonių, o kitas drono smūgis netoli Abyei rinkos sukėlė apie 150 mirčių. [šaltinis](https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-rdf)  
+- Portugalijoje protestuotojai, reaguodami į gyvenimo išlaidų krūvį, vėl įkūrė stovyklas po policijos išvalymo, o Italija priėmė plačias saugumo priemones reaguodama į protestus. [šaltinis](https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-world-4025-rdf)  
+- Jungtinės Karalystės kovos lėktuvai bus išsiųsti apsaugoti Saudo Arabiją nuo Houthi grupės atakų. [šaltinis](https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-world-4025-rdf)  
+- Nigerijoje, sostinėje Abudže, užregistruotas pirmasis Ebolos atvejis šalyje. [šaltinis](https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf)
