@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-21 15:25 UTC*
+*Atnaujinta: 2026-10-21 16:25 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Skirmanto Bikelio nuomone, Prancūzijos protestai atskleidžia „pumpotaukšlio“ mentalitetą. [šaltinis](https://www.lrt.lt/naujienos/nuomones/3/3089132/skirmantas-bikelis-protestai-prancuzijoje-ir-pumpotaukslio-mentalitetas)  
-- URM patvirtino, kad Irane dingusios lietuvės galėjo būti sulaikytos. [šaltinis](https://www.lrt.lt/lituanica/aktualijos/751/3089395/urm-patvirtino-kad-irane-dingusios-lietuves-galejo-buti-sulaikytos)  
-- Lietuvos ministras po susitikimo su Rumunijos kolega pabrėžė tvirtą transatlantinį ryšį kaip geriausią atsaką Rusijai. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/su-rumunijos-kolega-kalbejes-ministras-tvirtas-transatlantinis-rysys-geriausias-atsakas-rusijai-56-2789952?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-- Prezidentas Gitanas Nausėda pareiškė, kad ortodoksų krikščionys, priklausantys Maskvos patriarchatui, turi pasirinkti pusę. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089292/orthodox-christians-under-moscow-patriarchate-must-choose-sides-lithuanian-president)  
-- Lietuvos premjeras sakė, kad Rusija tikrina NATO 5 straipsnio ribas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089141/lithuanian-pm-russia-is-testing-limits-of-nato-s-article-5)  
-- Advokatų taryba teigia, kad Laura Matjošaitytė be sutarties konsultavo „Nemuno Aušrą“, tačiau už tai nebus traukiama atsakomybė. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089396/advokatu-taryba-matjosaityte-be-sutarties-konsultavo-nemuno-ausra-bet-uz-tai-neatsakys)  
-- Ignitis Group pasiūlė atidėti 700 MW jūros vėjo parko projektą, o tuo tarpu policija aptiko pusantro tonų metamfetamino gamyklą. [šaltinis 1](https://www.lrt.lt/en/news-in-english/19/3089160/ignitis-group-proposes-delay-to-700-mw-baltic-sea-wind-farm-project), [šaltinis 2](https://www.lrt.lt/en/news-in-english/19/3089162/half-a-tonne-of-methamphetamine-found-in-lithuanian-drug-laboratory)
+- Finansų ministras Vilius Pemkus teigė, kad trumpas sprendimas dėl sankcijų yra svarbi žinutė Europai. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3087553/pemkus-trumpo-sprendimas-del-sankciju-yra-zinute-europai)  
+- Ispanija kritiškai pasmerkė Argentinos prezidento pareiškimus apie Lietuvos premjerą ir apkaltino jį kišimusi į vidaus reikalus. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3089424/ispanija-pasmerke-argentinos-prezidento-pareiskimus-apie-premjera-ir-apkaltino-kisimusi)  
+- Kadangi valstybės kasos lėšų nėra, gripo vakcinos šiuo metu skiria tik privačios klinikos. [šaltinis](https://www.lrt.lt/naujienos/sveikata/682/3089214/vakcinos-nuo-gripo-ligoniu-kasa-dar-neturi-o-privatininkai-jau-skiepija)  
+- Lietuvos premjeras išreiškė, kad Rusija testuoja NATO 5‑iosios straipsnio ribas, grėsdamas aljanso saugumui. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089141/lithuanian-pm-russia-is-testing-limits-of-nato-s-article-5)  
+- Lietuvos narkotikų laboratorijoje aptikta pusės tonos metamfetamino, kas kelia rimtą grėsmę viešajai sveikatai. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089162/half-a-tonne-of-methamphetamine-found-in-lithuanian-drug-laboratory)  
+- „Ignitis Group“ pasiūlė atidėti 700 MW pajėgumo Baltijos jūros vėjo projekto įgyvendinimą dėl techninių ir finansinių sunkumų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089160/ignitis-group-proposes-delay-to-700-mw-baltic-sea-wind-farm-project)  
+- Lietuvos vidaus reikalų ministerija pabrėžė, kad nepataisos vizų taisyklės pakistaniečiams nėra skatinamos, nes tai galėtų būti manipuliacija. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089368/attempt-to-manipulate-lithuania-not-easing-visa-rules-for-pakistani-citizens-ministry)
 
 ## 🌍 Pasaulyje
 
-- JAV pilietis Steponas Hubbardas, ketverius metus kalėjime Rusijoje, buvo paleistas laisvę, kai JAV ambasadorius Witkoff susitiko su Putinu. [šaltinis](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)  
-- Prancūzijos prezidentas Emmanuelas Macronas kaltina užsienio lyderius, kad jie išnaudoja Prancūzijos supykdytus perversmus savo politiniams tikslams. [šaltinis](https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss)  
-- Australijos parlamentare Helen Haines neteko abiejų kojų po atakos automobilio spąstu, kurį ji ir jos vyras laiko iššauktinu. [šaltinis](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss)  
-- „Tesla“ ir „SpaceX“ vadovas Elonas Muskas svarsto šių dviejų įmonių susijungimą ir tuo pačiu pažadėjo skirti 10 mlrd. USD „SpaceX“ akcijų JAV vaikams. [šaltinis](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)  
-- Pakistanas sulaikė vyrą, kurį JAV ieško dėl 126 mln. USD dydžio pašto sukčiavimo atvejo. [šaltinis](https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss)  
-- Gambija sumokės aukų, nukentėjusių nuo Yahya Jammeh režimo, kompensacijas iš jo JAV nuosavybės, konfiskuotos dvaro pajamų. [šaltinis](https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss)  
-- Rusija išsiųs pirmąjį dyzelio tankerį į JAV kaip dalį susitarimo, susijusio su Trumpo derybomis. [šaltinis](https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss)
+- Rusija pasiruošusi atnaujinti derybas su Ukraina ir JAV dėl karo pabaigos. [šaltinis](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)  
+- Prancūzijos prezidentas Macron kaltina užsienio lyderius išnaudojančius šalyje vykstančius sukilimus. [šaltinis](https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss)  
+- Australijos parlamento narė Helen Haines neteko abiejų kojų po automobilio atakos, kaltininkas buvo pristatytas teismui. [šaltinis](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss)  
+- „Elonas Muskas“ patvirtino svarstymą sujungti „Tesla“ ir „SpaceX“ į vieną įmonę. [šaltinis](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)  
+- Pakistanas sulaikė žmogų, kurio siekė JAV dėl 126 mln USD sukčiavimo paštu. [šaltinis](https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss)  
+- Gambija išmokės žalą aukoms iš buvusio prezidento Yahya Jammeh JAV rūmų nuosavybės pajamų. [šaltinis](https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss)  
+- Kanados planai išplėsti skystojo gamtinio dujo (LNG) eksporto verslą susiduria su kritika dėl aplinkos ir energetinio saugumo. [šaltinis](https://www.aljazeera.com/economy/longform/2026/10/21/canada-wants-to-expand-its-lng-business-critics-raise-red-flags-2?traffic_source=rss)
