@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-21 11:24 UTC*
+*Atnaujinta: 2026-10-21 12:27 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Naujoje nacionalinėje skaitmeninių įgūdžių strategijoje siekiama, kad iki 2027 m. 85 % Lietuvos gyventojų įgautų skaitmeninius įgūdžius [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089264/naujoje-strategijoje-siekis-kad-85-proc-gyventoju-turetu-skaitmeninius-igudzius).  
-- Vilniaus miesto taryba pritariama nacionalinio stadiono koncesijos sutarties pakeitimams, siekiant užtikrinti projekto skaidrumą ir efektyvumą [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3089253/sostines-taryba-pritare-nacionalinio-stadiono-koncesijos-sutarties-pakeitimams).  
-- Vyriausybė pasiūlė laikinai sumažinti elektros kainas pramonei, kad padėtų įveikti energijos krizes padėtį [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3089246/vyriausybe-uz-siulyma-laikinai-sumazinti-elektros-kainas-pramonei).  
-- Lietuvos teisėsaugos institucijos aptiko ir konfiskuoto pusės tono metamfetaminų, pagamintų didelėje narkotikų laboratorijoje [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089162/half-a-tonne-of-methamphetamine-found-in-lithuanian-drug-laboratory).  
-- „Ignitis Group“ pasiūlė atidėti 700 MW „Baltijos jūra“ vėjo jėgų projekto statybą dėl finansinių ir techninių iššūkių [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089160/ignitis-group-proposes-delay-to-700-mw-baltic-sea-wind-farm-project).  
-- Lietuvos premjeras sakė, kad Rusija bando išbandyti NATO 5 straipsnio ribas, pabrėždamas būtinybę sustiprinti aljanso gynybą [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089141/lithuanian-pm-russia-is-testing-limits-of-nato-s-article-5).  
-- Lietuvos vidaus reikalų ministras Nausėda pranešė, kad bendras Lenkijos ir Lietuvos tyrimų komitetas tiria drono sprogimo įvykį šalyje [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089120/polish-lithuanian-team-investigates-drone-explosion-in-lithuania-nauseda-says).
+- Meras perspėjo, kad Ukrainos kapituliacija reikštų visų mūsų kapituliaciją. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3089311/merzas-ukrainos-kapituliacija-reikstu-musu-visu-kapituliacija)  
+- Ministrų kabinetas siūlo ambasadorei Ganai skirti Lianą Vazbienę į Kenijos ambasadorės postą. [šaltinis](https://www.lrt.lt/lituanica/aktualijos/751/3089305/ministru-kabinetas-siulo-ambasadore-ganai-ir-kenijai-skirti-liana-vazbiene)  
+- CERN Tarybos prezidentas kalbėjo apie mokslų ateitį ir pabrėžė, kad Lietuvai atsiveria naujos tyrimų ir inovacijų galimybės. [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3089299/cern-tarybos-prezidentas-apie-mokslo-ateiti-kokios-galimybes-atsiveria-lietuvai)  
+- Prokuratūra patvirtino, kad įsibrovėlį šovęs ir jį mirtinai sužeidęs vyras veikė savigynime, todėl nusikaltimo nepadarė. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089309/prokuratura-i-isibroveli-soves-ir-ji-mirtinai-suzeides-vyras-gynesi-nusikaltimo-nepadare)  
+- Klykių ąžuolas buvo išrinktas 2026 m. Lietuvos medžiu. [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3089301/metu-medziu-isrinktas-klykiu-azuolas)  
+- Lietuvos ministras pirmininkas perspėjo, kad Rusija testuoja NATO 5 straipsnio ribas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089141/lithuanian-pm-russia-is-testing-limits-of-nato-s-article-5)  
+- Lietuvos narkotikų laboratorijoje aptikta pusės tono metamfetaminų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089162/half-a-tonne-of-methamphetamine-found-in-lithuanian-drug-laboratory)
 
 ## 🌍 Pasaulyje
 
-- Rusija laisvino amerikiečio Stephen Hubbard, kuris dabar grįžta namo, kaip pranešė prezidentas Trumpas [šaltinis](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss).  
-- Nors pasirodo nauja viltis, JAV prezidentas Trumpas ir Ukrainos prezidentas Zelenskis vis dar nesutarimai – jų santykiai lieka įtempti [šaltinis](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss).  
-- Prancūzija susiskaldė dėl protestų – kai kurie kaltina policiją, kiti – valdžią, o protestuotojai gieda „Bismillah, c’est les ténèbres“ kaip išraišką nepasitenkinimo [šaltinis](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss).  
-- Australijos parlamento narė Helen Haines po automobilio atakos prarado abi kojas, o kaltininkas jau stovi teismo salėje [šaltinis](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss).  
-- „Tesla“ ir „SpaceX“ įkūrėjas Elon Musk patvirtino, kad svarsto jų įmonių susijungimą [šaltinis](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss).  
-- Jungtinė Karalystė siųs kovinius lėktuvus į Saudo Arabiją, kad apsaugotų šią šalį nuo Houthi grupės puolimų [šaltinis](https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-world-4025-rdf).  
-- Pasaulinės pragyvenimo išlaidų protestai neapsiriboja Europa – jie įsiplieskę ir kitose šalyse, reikalaujantys didesnių socialinių išmokų ir kainų kontrolės [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss).
+- Rusija paleidė JAV piliečių Stepheną Hubbardą, kai Trumpo atstovas susitiko su Putinu. [šaltinis](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)  
+- Prezidentas Donaldas Trumpas ir Ukrainos prezidentas Volodimas Zelenskis susiduria su įtampa, nepaisant naujos optimizmo vilties. [šaltinis](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss)  
+- Prancūzijoje išlieka aštrus susiskaldymas dėl neramumų priežasčių ir pasekmių, o protestuotojai šaukia „Bismillah, c’est les ténèbres“. [šaltinis](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)  
+- Australijos parlamento narė Helen Haines prarado abi kojas po įtariamų automobilio atakos, o įtariamasis jau buvo teismui. [šaltinis](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss)  
+- „Tesla“ ir „SpaceX“ gali susijungti – tai patvirtino Elonas Muskas. [šaltinis](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)  
+- Pakistanas suareikavo vyrą, kurio prašoma JAV dėl 126 mln USD sukčiavimo pašto schemos. [šaltinis](https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss)  
+- Irano praturtintas uranų vėl tapo svarbia diskusijų tema JAV derybose. [šaltinis](https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss)
