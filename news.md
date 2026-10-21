@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-21 07:36 UTC*
+*Atnaujinta: 2026-10-21 08:27 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Naujai atlikti tyrimai rodo, kad visuotinis atšilimas gali būti didesnis nei ankstesnės prognozės. [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3089116/jt-visuotinis-atsilimas-gali-buti-didesnis-nei-prognozuota)  
-- VMI pranešė, kad žemės savininkai turės sumokėti 2026 m. mokestį iki lapkričio 16 d. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3089115/vmi-zemes-savininkai-mokesti-uz-2026-metus-tures-sumoketi-iki-lapkricio-16-dienos)  
-- VU mokslininkai sukūrė naują metodą genų veiklai ląstelėse tirti, kuris padės geriau suprasti vėžio vystymąsi. [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3089111/vu-mokslininkai-sukure-metoda-genu-veiklai-lastelese-tirti-pades-suprasti-vezio-vystymasi)  
-- Londone vyko forumas „Kryptis – Lietuva“, kuriame britų Lietuvos bendruomenei pristatytos galimybės sugrįžti į Lietuvą. [šaltinis](https://www.lrt.lt/lituanica/norintiems-sugrizti/754/3089096/lidse-vyko-forumas-kryptis-lietuva-jk-lietuviams-pristatytos-grizimo-galimybes)  
-- Kauno rajone katedra atsitrenkė į krantą, dėl ko susižeidė du asmenys. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3089109/kauno-rajone-kateris-atsitrenke-i-kranta-susizeide-du-zmones)  
-- Analizė parodė, kad antrąją pensijų pakopą Lietuvoje ir Estijoje lėmė skirtingi patyrimai, atskleidžiantys galimus reformų kelių privalumus ir trūkumus. [šaltinis](https://www.lrt.lt/naujienos/verslo-pozicija/692/3089104/ruta-ezerskiene-ii-pakopos-pensiju-pinigai-ka-parode-lietuvos-ir-estijos-patirtys)  
-- RRT duomenimis, šiemet apie patyčias gauta pranešimų buvo 40 % daugiau nei per visus 2025 metus kartu. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/rrt-apie-patycias-siemet-gauta-40-proc-daugiau-pranesimu-nei-per-visus-2025-metus-56-2789386)
+- Vatikanas atleido Tada Švedavičių, kurio prieš vaikus pareiškė kaltinimus dėl seksualinių nusikaltimų, iš kunigystės, bet iškėlė apribojimus jo pareigoms – [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089144/popiezius-is-luomo-atleido-seksualiniais-nusikaltimais-pries-vaikus-kaltinama-svedaviciu).  
+- Rusijos palydovo „Spektr“ palydovas pavojingai priartėjo prie Europos kosminių tyrimų organizacijos (ESA) erdvėlaivio, sukeldamas rimtas saugumo baimes – [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3089140/rusijos-palydovas-pavojingai-priartejo-prie-europos-erdvelaivio).  
+- Valstybės tarnautojų etikos komisija (VTEK) pradėjo rinkti papildomą informaciją dėl galimo „Valio“ įmonės interesų konflikto su valstybės institucijomis – [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089142/vtek-rinks-papildoma-informacija-del-valio-galimo-interesu-konflikto).  
+- Vilniaus rajone aptikta milžiniška narkotikų gamybos laboratorija, veikianti beveik pramoniniu mastu, ir policija sustabdė jos veiklą – [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089118/vilniaus-rajone-milziniska-narkotiku-laboratorija-gaminta-kone-pramoniniu-budu).  
+- Lietuvos futbolo rinktinės trenerio pareigas laikinai perima buvęs žaidėjas ir treneris Mindaugas Čepas, kol bus paskirtas nuolatinis pakaitalas – [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3089098/lietuvos-futbolo-rinktines-vaira-laikinai-perima-mindaugas-cepas).  
+- Vaiko teisių gynėjų atliktame patikrinime, apimančiame daugiau nei 1400 bažnyčių darbuotojų, rasti įvairūs pažeidimai, susiję su vaikų apsauga – [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/vaiko-teisiu-gynejai-patikrino-daugiau-nei-1400-baznyciu-darbuotoju-rasta-pazeidimu-56-2789420).  
+- Paršūnas šuoliuojantis iš Vilniaus dangoraižio suparko miestą, o už šį pavojingą triukšmą jam gresia bauda iki 600 eurų – [šaltinis](https://www.lrt.lt/naujienos/engli%C5%A1%E1%81%9F/19/3088399/parachutist-leaps-from-vilnius-skyscraper-risking-fine-of-up-to-eur600).
 
 ## 🌍 Pasaulyje
 
-- JAV ambasadorius atvyko į Rusiją prieš susitikimą su Putinu, o Zelenskis teigia, kad žvalgybos duomenų dalinimasis dabar veikia. [šaltinis](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss)  
-- Trampas ir Zelenskis susiduria su aštriais nesutarimais, nepaisant vilties, kurią skleidė Oslo susitikimas. [šaltinis](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss)  
-- Sudano karių dronų atakos civiliams, įskaitant laidotuvių šventimo ir kuro rinkos žmones, nužudė daugiau nei 300 žmonių, o panaši ataka Abyei turgavietėje nusinešė apie 150 aukų. [šaltinis](https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss) [šaltinis](https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-rdf)  
-- Gazos vaikai susiduria su didėjančiais maisto trūkumais, nes kainos kyla ir pagalba sumažėja. [šaltinis](https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss)  
-- Nigerija patvirtino pirmąjį Ebolos atvejį šalyje, įvykusį sostinėje Abudžo. [šaltinis](https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf)  
-- Jungtinė Karalystė išsiuntė kario lėktuvus, kad apsaugotų Saudo Arabiją nuo Houthi išpuolių. [šaltinis](https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-world-4025-rdf)  
-- Naujas pranešimas teigia, kad Šiaurės Korėjos darbuotojai Rusijos dronų gamykloje yra laikomi vergais. [šaltinis](https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-world-4025-rdf)
+- JAV ambasadorius (Witkoff) planuoja susitikti su Putinu Rusijoje po pozityvių pokalbių su Zelenskio, o pats Zelenskis teigia, kad žvalgybos informacijos dalijimasis „dabar veikia“ [šaltinis](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss) [šaltinis](https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss)  
+- JAV buvęs prezidentas Donaldas Trampas ir Ukrainos prezidentas Volodimas Zelenskis viešai konfliktuoja, nepaisydami Oslo susitikimo suteiktos vilties [šaltinis](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss)  
+- Prancūzijos visuomenė susiskaldė dėl kaltininkų protestų, kai kai kurie kaltina policiją, o kiti – migracijos politiką, kaip analizuoja žurnalistė Katja Adler [šaltinis](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)  
+- Australijos parlamento narys po tariamos automobilio atakos prarado abi kojos galūnes, kaip informavo jo sutuoktinis [šaltinis](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss)  
+- „Tesla“ ir „SpaceX“ vykdytojas Elonas Muskas patvirtino, kad vyksta derybos dėl įmonių susijungimo, nors galutinės išvados dar nėra [šaltinis](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)  
+- Pakistanas suėmė vyrą, kurio ieško JAV dėl 126 mln USD apgaulės su tarptautiniu pašto sistemų sukčiavimu [šaltinis](https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss)  
+- Gazos vaikai patiria didėjančius maisto trūkumus dėl kainų kilimo ir sumažėjusios humanitarinės pagalbos, o situacija tampa vis kritiškesnė [šaltinis](https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss)
