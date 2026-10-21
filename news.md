@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-21 08:27 UTC*
+*Atnaujinta: 2026-10-21 09:26 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Vatikanas atleido Tada Švedavičių, kurio prieš vaikus pareiškė kaltinimus dėl seksualinių nusikaltimų, iš kunigystės, bet iškėlė apribojimus jo pareigoms – [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089144/popiezius-is-luomo-atleido-seksualiniais-nusikaltimais-pries-vaikus-kaltinama-svedaviciu).  
-- Rusijos palydovo „Spektr“ palydovas pavojingai priartėjo prie Europos kosminių tyrimų organizacijos (ESA) erdvėlaivio, sukeldamas rimtas saugumo baimes – [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3089140/rusijos-palydovas-pavojingai-priartejo-prie-europos-erdvelaivio).  
-- Valstybės tarnautojų etikos komisija (VTEK) pradėjo rinkti papildomą informaciją dėl galimo „Valio“ įmonės interesų konflikto su valstybės institucijomis – [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089142/vtek-rinks-papildoma-informacija-del-valio-galimo-interesu-konflikto).  
-- Vilniaus rajone aptikta milžiniška narkotikų gamybos laboratorija, veikianti beveik pramoniniu mastu, ir policija sustabdė jos veiklą – [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089118/vilniaus-rajone-milziniska-narkotiku-laboratorija-gaminta-kone-pramoniniu-budu).  
-- Lietuvos futbolo rinktinės trenerio pareigas laikinai perima buvęs žaidėjas ir treneris Mindaugas Čepas, kol bus paskirtas nuolatinis pakaitalas – [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3089098/lietuvos-futbolo-rinktines-vaira-laikinai-perima-mindaugas-cepas).  
-- Vaiko teisių gynėjų atliktame patikrinime, apimančiame daugiau nei 1400 bažnyčių darbuotojų, rasti įvairūs pažeidimai, susiję su vaikų apsauga – [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/vaiko-teisiu-gynejai-patikrino-daugiau-nei-1400-baznyciu-darbuotoju-rasta-pazeidimu-56-2789420).  
-- Paršūnas šuoliuojantis iš Vilniaus dangoraižio suparko miestą, o už šį pavojingą triukšmą jam gresia bauda iki 600 eurų – [šaltinis](https://www.lrt.lt/naujienos/engli%C5%A1%E1%81%9F/19/3088399/parachutist-leaps-from-vilnius-skyscraper-risking-fine-of-up-to-eur600).
+- Statybų bendrovė Vilniuje užkasinėjo atliekas tiesiai po langais, sukeldama plačią viešą įžūlumą. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3089184/izulumas-vidury-dienos-statybu-bendrove-atliekas-vilniuje-uzkasinejo-tiesiai-po-langais)  
+- Lietuvos vyrų futbolo rinktinė svarsto, ar trenerį pasirinkti iš užsienio, ar vietinį lietuvį. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3089148/lietuvos-vyru-futbolo-rinktines-kryzkele-rinktis-treneri-is-uzsienio-ar-lietuvi)  
+- „Riaušės Europoje“ projektų metu išplėštų parduotuvių atstatymo išlaidas turės padengti pardavėjai ar kitos šalimis. [šaltinis](https://www.lrt.lt/naujienos/verslo-pozicija/692/3089178/karolis-kurapka-riauses-europoje-kas-sumokes-uz-isplestas-parduotuves)  
+- Teisingumo ir žmonių teisių komitetas pareikalavo atleisti asmenis, gydomus narkotikų priklausomybę, nuo baudžiamosios atsakomybės. [šaltinis](https://www.lrt.lt/naujienos/sveikata/682/3089171/jei-gydytusi-nuo-priklausomybes-narkotikams-butu-atleisti-nuo-baudziamosios-atsakomybes)  
+- Vytauto Mitalo prognozė rodo, kad kitų metų Lietuvos biudžetas taps „gerovės valstybės“ skola. [šaltinis](https://www.15min.lt/naujiena/aktualu/nuomones/vytautas-mitalas-kitu-metu-biudzetas-geroves-valstybe-i-skola-18-2789528)  
+- Lietuvoje aptikta pusės tonos metamfetamo – didžiausias šalies narkotikų gamybos atradimas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089162/half-a-tonne-of-methamphetamine-found-in-lithuanian-drug-laboratory)  
+- Ignitis grupė paprašė atidėti 700 MW pajėgų Baltijos jūros vėjo parko projektą dėl techninių ir finansinių sunkumų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089160/ignitis-group-proposes-delay-to-700-mw-baltic-sea-wind-farm-project)
 
 ## 🌍 Pasaulyje
 
-- JAV ambasadorius (Witkoff) planuoja susitikti su Putinu Rusijoje po pozityvių pokalbių su Zelenskio, o pats Zelenskis teigia, kad žvalgybos informacijos dalijimasis „dabar veikia“ [šaltinis](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss) [šaltinis](https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss)  
-- JAV buvęs prezidentas Donaldas Trampas ir Ukrainos prezidentas Volodimas Zelenskis viešai konfliktuoja, nepaisydami Oslo susitikimo suteiktos vilties [šaltinis](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss)  
-- Prancūzijos visuomenė susiskaldė dėl kaltininkų protestų, kai kai kurie kaltina policiją, o kiti – migracijos politiką, kaip analizuoja žurnalistė Katja Adler [šaltinis](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)  
-- Australijos parlamento narys po tariamos automobilio atakos prarado abi kojos galūnes, kaip informavo jo sutuoktinis [šaltinis](https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss)  
-- „Tesla“ ir „SpaceX“ vykdytojas Elonas Muskas patvirtino, kad vyksta derybos dėl įmonių susijungimo, nors galutinės išvados dar nėra [šaltinis](https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss)  
-- Pakistanas suėmė vyrą, kurio ieško JAV dėl 126 mln USD apgaulės su tarptautiniu pašto sistemų sukčiavimu [šaltinis](https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss)  
-- Gazos vaikai patiria didėjančius maisto trūkumus dėl kainų kilimo ir sumažėjusios humanitarinės pagalbos, o situacija tampa vis kritiškesnė [šaltinis](https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss)
+- JAV ambasadorius planuoja susitikti su Putinu po teigiamų pokalbių su Zelenskio atstovu. [šaltinis](https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-world-4025-rdf)  
+- Didžiosios Britanijos kovačiai skraidys prie Saudo Arabijos, kad apsaugotų ją nuo Houthi atakų. [šaltinis](https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-world-4025-rdf)  
+- „Sudano“ armijos dronų ataka prieš laidotuvių dalyvius ir degalų rinką šiaurės Pietų Sudane nusinešė daugiau nei 300 aukų, o kitoje srityje dronu nužudyta bent 153 žmonės. [šaltinis](https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss)  
+- Australijos parlamentė Helen Haines po automobilio atakos prarado abi kojas, o kaltininkas jau stovėjo teismo salėje. [šaltinis](https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-world-4025-rdf)  
+- Portugalijoje protestai dėl būsto trūkumo tęsiasi po policijos iškirstų stovyklių išvalymo. [šaltinis](https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-world-4025-rdf)  
+- Nigerija patvirtino pirmąjį Ebola atvejį šalyje, kurį užfiksavo sostinės Abuja sergantis pacientas. [šaltinis](https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-rdf)  
+- Libano saugumą kelia neaiškumas, nes artėjant UNIFIL mandatą baigti, šalis susiduria su galimais nestabilumo padariniais. [šaltinis](https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-world-4025-rdf)
