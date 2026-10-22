@@ -1,23 +1,29 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-22 07:38 UTC*
+*Atnaujinta: 2026-10-22 08:30 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-Algirdas Bartkus paaiškino, kad valstybės biudžeto deficito problemą sieks spręsti ilgalaikės struktūrinės reformos ir efektyvesnės išlaidų kontrolės priemonės. [šaltinis](https://www.lrt.lt/naujienos/verslo-pozicija/692/3090123/algirdas-bartkus-apie-ilgalaiki-valstybes-biudzeto-deficito-problemos-sprendima)  
-Premjeras patvirtino, kad užsienio studentai nėra nepageidaujami ir bus nagrinėjami galimi piktnaudžiavimo atvejai. [šaltinis](https://www.lrt.lt/naujienos/svietimas/45/3090129/premjeras-baubo-kad-uzsienio-studentai-nelaukiami-nera-ziuresime-i-piktnaudziavima)  
-Nuo liepos 1‑osios premjeras žada padidinti vaiko priežiūros išmokas. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3090125/premjeras-zada-vaiko-prieziuros-ismokos-kils-nuo-liepos-1-osios)  
-SEB bankas šiemet pasiekė 6 % pelno augimą iki 232 mln. eurų. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3090126/seb-pelnas-siemet-isaugo-6-proc-iki-232-mln-euru)  
-Vilniaus rajono taryba dar kartą išbraukė klausimą apie Gulbinowicziaus gatvių pervadinimą iš posėdžio darbotvarkės. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3090124/vilniaus-rajono-taryba-vel-isbrauke-klausima-del-gulbinowicziaus-gatviu-pervadinimo)  
-„Kibirkšties“ krepšinio komanda laimėjo antrąją pergalę Eurolygoje. [šaltinis](https://www.lrt.lt/naujienos/lrt-paprastai/69/3090094/kibirksties-krepsinio-komanda-moteru-eurolygoje-iskovojo-antra-pergale)  
-Dvi cigarečių kontrabandos balionų pakaitos susprogo, susidūrę su elektros linijomis, sukeldamos triktis. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090088/two-cigarette-smuggling-balloons-explode-after-hitting-power-lines-in-lithuania)
+- Saudo Arabijos oro uoste įvyko sprogimo ataka, kurių metu žuvo du žmonės [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3090148/per-ataka-oro-uoste-saudo-arabijos-rytuose-zuvo-du-zmones).  
+- Kinų kino teatruose artimiausiomis savaitėmis bus rodomas filmas „Everesto drama“, kuriame režisierius atskleidžia asmeninę istoriją apie kalnus ir išgyvenimą [šaltinis](https://www.lrt.lt/naujienos/laisvalaikis/13/3090131/i-kino-ekranus-atkeliauja-everesto-drama-maniau-kad-jis-neisgyvens).  
+- Ministras pirmininkas Šarūnas Šimkus (buvęs pirmininkas) išreiškė nepasitenkinimą dėl neįvykdytų teismų sprendimų dėl partnerystės įstatymo, teigdamas, kad tai kelia pavojų teisinės valstybės principams [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3090153/sinkevicius-apie-nevykdomus-teismu-sprendimus-del-partnerystes-man-nepatinka-ka-as-matau).  
+- Kaune vyko antrasis „Performanso meno savaitgalis“, kuriame lankytojai galėjo pamatyti 14 nemokamų meninių pasirodymų įvairiomis erdvėmis [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3090119/kaune-antrasis-performanso-meno-savaitgalis-laukia-14-nemokamu-pasirodymu).  
+- Vokietijos kariuomenė pirmą kartą įvertino Rusijos diverzinių operacijų grėsmę kaip reikšmingą, pabrėždama jų potencialų poveikį Europos saugumui [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3090144/vokietijos-kariuomene-pirma-karta-rusijos-diversiju-gresme-ivertino-kaip-reiksminga).  
+- Mirė žymus kino operatorius ir dokumentinių filmų režisierius Arvidas Baronas, kurio kūryba plačiai pripažinta tiek Lietuvoje, tiek užsienyje [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3090141/mire-kino-operatorius-dokumentiniu-filmu-rezisierius-arvidas-baronas).  
+- Du balionai, kuriuose slėptos cigarečių kontrabandos prekės, sprogdė užkirstų kelių elektros linijose Lietuvoje, sukeldami trumpalaikį elektros tiekimo sutrikimą [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090088/two-cigarette-smuggling-balloons-explode-after-hitting-power-lines-in-lithuania).
 
 ## 🌍 Pasaulyje
 
-- Didžioji PHP saugumo spraga sukėlė pasaulinį kibernetinio saugumo šuolį, nes šios programavimo kalbos trūkumai pavojingai grasina visų tipų internetinėms sistemoms. [šaltinis](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)  
-- Arabų partijos gali tapti lemiamu balansu Izraelio rinkimuose, nes jų paramos ar priešinimosi pozicijos gali lemti ateities koalicijos sudėtį. [šaltinis](https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss)  
-- Po JAV raginimo Rusija sutiko atnaujinti taikos derybas dėl Ukrainos, tačiau tuo pat metu maskvos raketų smūgiai tęsiasi Kijeve, o derybų perspektyvos lieka abejotinos. [šaltinis](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)  
-- „Meta“ buvo nubausta 25 mlrd. dolerių bauda už klaidingą informaciją apie vartotojų duomenų privatumo apsaugą. [šaltinis](https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss)  
-- Jungtinių Valstijų diplomatai buvo nurodyti išvykti iš Saudo Arabijos, nes Houthi atakų intensyvumas sparčiai auga. [šaltinis](https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss)  
-- Trampas, Putinas ir Xi susitiko be Ukrainos temos, aptardami, ko Maskva tikisi iš pasiūlymo ir kodėl Pekinas galėtų sutikti. [šaltinis](https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-world-4025-rdf)  
-- Europos Parlamento pastatuose buvo atlikti retais nuotolinių apsaugos patikrinimai, kai policija užpuolė krašto dešiniųjų grupės biurus. [šaltinis](https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-world-4025-rdf)
+1. Atskleista kritinė „PHP“ programinės įrangos pažeidžiamumas sukėlė pasaulinį kibernetinio saugumo šuolį. [šaltinis](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)  
+
+2. Arabų partijos galėtų tapti lemiamu balansu Izraelio rinkimuose, turėdamos svarbų įtakos svorį. [šaltinis](https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss)  
+
+3. Po to, kai Rusija sutiko JAV kvietimui atnaujinti taikos derybas, maskva iššovė raketas į Kijevą, sukeldama aukų ir žalą. [šaltinis](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)  
+
+4. JAV pareikalavo dalies savo diplomatų palikti Saudo Arabiją, kai Houthi atakų intensyvumas augo. [šaltinis](https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss)  
+
+5. Dvi Europos moterys, kurios buvo pagautos Nigerio džiunglėse daugiau nei metus, buvo išgelbėtos Libijoje. [šaltinis](https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss)  
+
+6. Rusija vienu metu atleido amerikietį Stepheną Hubbardą per derybas ir sulaikė vokiečių, kurį priskyrė „Ukrainos samdiniu“. [šaltinis 1](https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-world-4025-rdf) ; [šaltinis 2](https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-world-4025-rdf)  
+
+7. „Meta“ susiduria su Australijos teismo ieškiniu dėl tariamo socialinių tinklų vaikų žalos padidinimo. [šaltinis](https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss)
