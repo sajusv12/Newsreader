@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-22 06:28 UTC*
+*Atnaujinta: 2026-10-22 07:38 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Audito duomenimis, daugiau nei trečdalis Lietuvos senjorų patiria vienišumą, tačiau dauguma neieško pagalbos. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3090078/auditas-daugiau-nei-trecdalis-senjoru-salyje-patiria-vienisuma-dauguma-pagalbos-nepraso)  
-- „Swedbank“ Lietuva pranešė, kad 2023 m. pelnas išaugo 14 % iki 297 mln eurų. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3090075/lietuvos-swedbank-pelnas-siemet-augo-14-proc-iki-297-mln-euru)  
-- Lietuvoje aptiktas pusės tono metanfetamino kiekis – tai didžiausia iki šiol rastų narkotikų koncentracija šalyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089162/half-a-tonne-of-methamphetamine-found-in-lithuanian-drug-laboratory)  
-- „Ignitis Group“ siūlo atidėti 700 MW pajėgumo Baltijos jūros vėjo elektrinių projektą dėl techninių ir finansinių iššūkių. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089160/ignitis-group-proposes-delay-to-700-mw-baltic-sea-wind-farm-project)  
-- Prezidentas G. Nausėda pareiškė, kad ortodoksų, priklausančių Maskvos patriarchatui, religija turi pasirinkti tarp Lietuvos valstybės ir Rusijos. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089292/orthodox-christians-under-moscow-patriarchate-must-choose-sides-lithuanian-president)  
-- Lietuvos vidaus reikalų ministerija patvirtino, kad šalies vizų taisyklės pakistaniečiams nebus palengvintos, nes tai būtų „bandoma manipuliuoti“. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089368/attempt-to-manipulate-lithuania-not-easing-visa-rules-for-pakistani-citizens-ministry)  
-- „Kibirkšties“ komandos narės džiaugiasi savo pasakišku startu Eurolygoje, teigdamos, kad jos yra kovotojos. [šaltinis](https://www.lrt.lt/sportas/10/3090050/kibirksties-herojes-dziaugiasi-pasakisku-startu-eurolygoje-mes-esame-kovotojos)
+Algirdas Bartkus paaiškino, kad valstybės biudžeto deficito problemą sieks spręsti ilgalaikės struktūrinės reformos ir efektyvesnės išlaidų kontrolės priemonės. [šaltinis](https://www.lrt.lt/naujienos/verslo-pozicija/692/3090123/algirdas-bartkus-apie-ilgalaiki-valstybes-biudzeto-deficito-problemos-sprendima)  
+Premjeras patvirtino, kad užsienio studentai nėra nepageidaujami ir bus nagrinėjami galimi piktnaudžiavimo atvejai. [šaltinis](https://www.lrt.lt/naujienos/svietimas/45/3090129/premjeras-baubo-kad-uzsienio-studentai-nelaukiami-nera-ziuresime-i-piktnaudziavima)  
+Nuo liepos 1‑osios premjeras žada padidinti vaiko priežiūros išmokas. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3090125/premjeras-zada-vaiko-prieziuros-ismokos-kils-nuo-liepos-1-osios)  
+SEB bankas šiemet pasiekė 6 % pelno augimą iki 232 mln. eurų. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3090126/seb-pelnas-siemet-isaugo-6-proc-iki-232-mln-euru)  
+Vilniaus rajono taryba dar kartą išbraukė klausimą apie Gulbinowicziaus gatvių pervadinimą iš posėdžio darbotvarkės. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3090124/vilniaus-rajono-taryba-vel-isbrauke-klausima-del-gulbinowicziaus-gatviu-pervadinimo)  
+„Kibirkšties“ krepšinio komanda laimėjo antrąją pergalę Eurolygoje. [šaltinis](https://www.lrt.lt/naujienos/lrt-paprastai/69/3090094/kibirksties-krepsinio-komanda-moteru-eurolygoje-iskovojo-antra-pergale)  
+Dvi cigarečių kontrabandos balionų pakaitos susprogo, susidūrę su elektros linijomis, sukeldamos triktis. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090088/two-cigarette-smuggling-balloons-explode-after-hitting-power-lines-in-lithuania)
 
 ## 🌍 Pasaulyje
 
-- Naujai aptikta PHP programavimo kalbos saugumo spraga sukėlė pasaulinį kibernetinio saugumo skubėjimą, nes didelė dalis internetinių sistemų ją naudoja. [šaltinis](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)  
-- Arabų partijos gali tapti lemiamu balanso vežėju Izraelio rinkimuose, turėdamos galimybę nuspręsti, ar šalis liks konservatyvi, ar pasisuks link progresyvių pokyčių. [šaltinis](https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss)  
-- Nepaisant JAV kvietimo atnaujinti Ukrainos taikos derybas, Rusija pradėjo raketų puolimą Kijeve, o JAV diplomatų pastangos ir galimas „Starlink“ prieinamumas nepadėjo greitai pasiekti susitarimo. [šaltinis (BBC)](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss) [šaltinis (BBC)](https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss) [šaltinis (Al Jazeera)](https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss)  
-- JAV nurodė kai kuriems savo diplomatams išvykti iš Saudo Arabijos, nes Houthi grupės atakų intensyvumas smarkiai išaugo. [šaltinis](https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss)  
-- Pasaulinė skola pasiekė 365 trilijonus dolerių, o palūkanų mokėjimai sparčiai auga, kelia didelę grėsmę pasaulio ekonomikai. [šaltinis](https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss)  
-- Jemeno mieste Taize moterys derina kepimo ir ginklų gamybą, kad stiprintų miesto gynybą prieš konfliktą. [šaltinis](https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss)  
-- JAV, Rusijos ir Kinijos vadovai svarstė susitikimą be Ukrainos, o Maskva siekia politinių paskatų, o Pekinas gali pritarti, jei tai padės jos strateginius interesus. [šaltinis](https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-world-4025-rdf)
+- Didžioji PHP saugumo spraga sukėlė pasaulinį kibernetinio saugumo šuolį, nes šios programavimo kalbos trūkumai pavojingai grasina visų tipų internetinėms sistemoms. [šaltinis](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)  
+- Arabų partijos gali tapti lemiamu balansu Izraelio rinkimuose, nes jų paramos ar priešinimosi pozicijos gali lemti ateities koalicijos sudėtį. [šaltinis](https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss)  
+- Po JAV raginimo Rusija sutiko atnaujinti taikos derybas dėl Ukrainos, tačiau tuo pat metu maskvos raketų smūgiai tęsiasi Kijeve, o derybų perspektyvos lieka abejotinos. [šaltinis](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)  
+- „Meta“ buvo nubausta 25 mlrd. dolerių bauda už klaidingą informaciją apie vartotojų duomenų privatumo apsaugą. [šaltinis](https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss)  
+- Jungtinių Valstijų diplomatai buvo nurodyti išvykti iš Saudo Arabijos, nes Houthi atakų intensyvumas sparčiai auga. [šaltinis](https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss)  
+- Trampas, Putinas ir Xi susitiko be Ukrainos temos, aptardami, ko Maskva tikisi iš pasiūlymo ir kodėl Pekinas galėtų sutikti. [šaltinis](https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-world-4025-rdf)  
+- Europos Parlamento pastatuose buvo atlikti retais nuotolinių apsaugos patikrinimai, kai policija užpuolė krašto dešiniųjų grupės biurus. [šaltinis](https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-world-4025-rdf)
