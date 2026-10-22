@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-22 05:24 UTC*
+*Atnaujinta: 2026-10-22 06:28 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Australijoje prieš „Meta“ įkeltas kolektyvinis ieškinys dėl galimos žalos vaikams. [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3090046/australijoje-bendrovei-meta-iskeltas-kolektyvinis-ieskinys-del-zalos-vaikams)  
-- Premjeras sakė, kad besikeičiančioje tarptautinėje tvarkoje Lietuva sustiprins ryšius su partneriais. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3090045/premjeras-eizejant-tarptautinei-tvarkai-lietuva-stiprina-rysi-su-partneriais)  
-- Kinija ir Rusija bendrai pasmerkė „destruktyvų išorės kišimąsi“ Eurazijoje. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3090042/kinija-ir-rusija-bendru-pareiskimu-pasmerke-destruktyvu-isores-kisimasi-eurazijoje)  
-- Gamybos vartotojų naštą tiekėjams šiek tiek sumažins, tačiau išlaidos vis tiek nebus visiškai išnykusios. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3090041/gaminanciu-vartotoju-nasta-tiekejams-kiek-palengves-taciau-kastai-vis-tiek-nedings)  
-- Krepšinio žaidėjas Domantas Sabonis po rungtynių buvo arti trigubo dviženklio pasiekimo. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3090025/ispulingai-po-krepsiu-zaides-sabonis-buvo-arti-trigubo-dvizenklio)  
-- Kėdainių ir Kaišiadorių rajonuose kontrabandiniai balionai susidūrė su elektros linijomis, vienas iš jų sprogo. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3090040/kedainiu-ir-kaisiadoriu-r-sprogo-i-elektros-laidus-atsitrenke-kontrabandiniai-balionai)  
-- Lietuvos narkotikų laboratorijoje rasta pusė tono metamfetamino. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089162/half-a-tonne-of-methamphetamine-found-in-lithuanian-drug-laboratory)
+- Audito duomenimis, daugiau nei trečdalis Lietuvos senjorų patiria vienišumą, tačiau dauguma neieško pagalbos. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3090078/auditas-daugiau-nei-trecdalis-senjoru-salyje-patiria-vienisuma-dauguma-pagalbos-nepraso)  
+- „Swedbank“ Lietuva pranešė, kad 2023 m. pelnas išaugo 14 % iki 297 mln eurų. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3090075/lietuvos-swedbank-pelnas-siemet-augo-14-proc-iki-297-mln-euru)  
+- Lietuvoje aptiktas pusės tono metanfetamino kiekis – tai didžiausia iki šiol rastų narkotikų koncentracija šalyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089162/half-a-tonne-of-methamphetamine-found-in-lithuanian-drug-laboratory)  
+- „Ignitis Group“ siūlo atidėti 700 MW pajėgumo Baltijos jūros vėjo elektrinių projektą dėl techninių ir finansinių iššūkių. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089160/ignitis-group-proposes-delay-to-700-mw-baltic-sea-wind-farm-project)  
+- Prezidentas G. Nausėda pareiškė, kad ortodoksų, priklausančių Maskvos patriarchatui, religija turi pasirinkti tarp Lietuvos valstybės ir Rusijos. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089292/orthodox-christians-under-moscow-patriarchate-must-choose-sides-lithuanian-president)  
+- Lietuvos vidaus reikalų ministerija patvirtino, kad šalies vizų taisyklės pakistaniečiams nebus palengvintos, nes tai būtų „bandoma manipuliuoti“. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3089368/attempt-to-manipulate-lithuania-not-easing-visa-rules-for-pakistani-citizens-ministry)  
+- „Kibirkšties“ komandos narės džiaugiasi savo pasakišku startu Eurolygoje, teigdamos, kad jos yra kovotojos. [šaltinis](https://www.lrt.lt/sportas/10/3090050/kibirksties-herojes-dziaugiasi-pasakisku-startu-eurolygoje-mes-esame-kovotojos)
 
 ## 🌍 Pasaulyje
 
-- Visame pasaulyje uždarytos svetainės po kritinio PHP saugumo pataisos išleidimo, sukėlusios didžiulį kibernetinių atakų chaotą [šaltinis 1](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss) ir [šaltinis 2](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss).  
-- Rusija paleido raketas į Kijevą po to, kai sutikti JAV kvietimą atnaujinti taikos derybas, tačiau JAV diplomatų pastangos nekelia didelės vilties greitai pasiekti taiką [šaltinis 1](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss) ir [šaltinis 2](https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss).  
-- JAV įsakė dalį diplomų išvykti iš Saudo Arabijos dėl intensyvuojančių Houthi atakų [šaltinis](https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss).  
-- „Airbnb“ naujomis taisyklėmis draudžiama, kad šeimininkai priverstų svečius nuvalyti lovas ir indus [šaltinis](https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss).  
-- Šiaurės Korėja atgaus propagandos transliacijas, o Pietų Korėja ragina pradėti dialogą [šaltinis](https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss).  
-- Trumpoji Trampų administracija kreipiasi į Aukščiausiąjį Teismą dėl leidimo statyti „Big Bend“ sienos pertvarą [šaltinis](https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss).  
-- Rusija laisvino amerikiečio Stephen Hubbard kalėjimą per Witkoff derybas, tuo tarpu sulaikė vokiečių pilietį, kaltindama jį „Ukrainos samdžiumi“ [šaltinis 1](https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-world-4025-rdf) ir [šaltinis 2](https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-world-4025-rdf).
+- Naujai aptikta PHP programavimo kalbos saugumo spraga sukėlė pasaulinį kibernetinio saugumo skubėjimą, nes didelė dalis internetinių sistemų ją naudoja. [šaltinis](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)  
+- Arabų partijos gali tapti lemiamu balanso vežėju Izraelio rinkimuose, turėdamos galimybę nuspręsti, ar šalis liks konservatyvi, ar pasisuks link progresyvių pokyčių. [šaltinis](https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss)  
+- Nepaisant JAV kvietimo atnaujinti Ukrainos taikos derybas, Rusija pradėjo raketų puolimą Kijeve, o JAV diplomatų pastangos ir galimas „Starlink“ prieinamumas nepadėjo greitai pasiekti susitarimo. [šaltinis (BBC)](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss) [šaltinis (BBC)](https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss) [šaltinis (Al Jazeera)](https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss)  
+- JAV nurodė kai kuriems savo diplomatams išvykti iš Saudo Arabijos, nes Houthi grupės atakų intensyvumas smarkiai išaugo. [šaltinis](https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss)  
+- Pasaulinė skola pasiekė 365 trilijonus dolerių, o palūkanų mokėjimai sparčiai auga, kelia didelę grėsmę pasaulio ekonomikai. [šaltinis](https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss)  
+- Jemeno mieste Taize moterys derina kepimo ir ginklų gamybą, kad stiprintų miesto gynybą prieš konfliktą. [šaltinis](https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss)  
+- JAV, Rusijos ir Kinijos vadovai svarstė susitikimą be Ukrainos, o Maskva siekia politinių paskatų, o Pekinas gali pritarti, jei tai padės jos strateginius interesus. [šaltinis](https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-world-4025-rdf)
