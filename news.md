@@ -1,23 +1,22 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-22 20:22 UTC*
+*Atnaujinta: 2026-10-22 21:24 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Lietuvos krepšinio žaidėjas Jonas Jokubaitis gavo daug žaidimo minučių, o „Bayern“ komanda Eurolygoje patyrė dar vieną skaudžią nesėkmę; tuo tarpu Stambule „Anadolu Efes“ nugalėjo „Bešiktaš“, o Walkeris grįžo į aikštą. [Jokubaitis](https://www.lrt.lt/naujienos/sportas/10/3090461/jokubaitis-sulauke-daug-minuciu-bet-bayern-eurolygoje-sugere-dar-viena-skaudzia-nesekme) [Stambulo derbis](https://www.lrt.lt/naujienos/sportas/10/3090450/eurolygos-stambulo-derbis-walkerio-sugrizimas-ir-anadolu-efes-pergale-pries-besiktas)  
-- Mirė altininkas Andrius Pleškūnas. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3090462/mire-altininkas-andrius-pleskunas)  
-- Atgimsta Rainių koplyčios freskos, pasakojančios apie sovietų nusikaltimus. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3090412/atgimsta-rainiu-koplycios-freskos-pasakojancios-apie-sovietu-nusikaltimus)  
-- Kibernetinio saugumo centras įvertino grėsmę 9,2 iš 10, o apie 100 Lietuvos svetainių yra pažeidžiamos kritine PHP spraga. [interneto saugumas](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3090282/interneto-saugumas-sukele-nerima-kibernetinio-saugumo-centras-gresme-vertina-9-2-is-10) [PHP spraga](https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says)  
-- Naujus Šveicarijos gamybos Stadler traukinius jau galima naudoti Lietuvos geležinkeliuose. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090243/new-swiss-made-stadler-trains-enter-service-in-lithuania)  
-- Lietuvos Vyriausybės pirmininkas patikino, kad iki metų pabaigos išleis visą skiriamą karinių pajėgų biudžetą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090175/lithuania-will-spend-its-military-funding-by-year-end-pm-assures)  
-- Teisinė abejotina būsena išlieka Lietuvos same‑sex poroms, nes institucijos nesilaiko teismų sprendimų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087376/legal-limbo-for-lithuania-s-same-sex-couples-as-authorities-defy-court-rulings)
+- Lietuvos kibernetinis saugumas: apie 100 vietinių svetainių yra pažeidžiamos kritine PHP saugumo spraga, informavo kibernetinio saugumo vadovas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says)  
+- Vokietijoje sulaikytas ukrainietis, įtariamą dėl šnipinėjimo Lietuvos brigados veiklą, buvo sulaikytas pagal Vokietijos policijos duomenis. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090269/germany-arrests-ukrainian-man-suspected-of-spying-on-lithuania-brigade)  
+- Lietuvoje pradėta eksploatuoti naujos Šveicarijos gamyklos „Stadler“ traukiniai, kurie jau važiuoja keliuose regionuose. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090243/new-swiss-made-stadler-trains-enter-service-in-lithuania)  
+- Lietuvos ministras pirmininkas patikino, kad iki metų pabaigos šalis išleis visą numatytą karinę biudžetą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090175/lithuania-will-spend-its-military-funding-by-year-end-pm-assures)  
+- Lietuvos teisės institucijos išlieka teisinėje neaiškumo būsenoje dėl tos pačios lyties porų teisių, nes valdžia nesilaiko teismų sprendimų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087376/legal-limbo-for-lithuania-s-same-sex-couples-as-authorities-defy-court-rulings)  
+- Dvi balionų, naudojami cigarečių kontrabandos transportavimui, susidūrė su elektros linijomis ir sprogo, sukeldamos trumpą elektros tiekimo sutrikimą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090088/two-cigarette-smuggling-balloons-explode-after-hitting-power-lines-in-lithuania)
 
 ## 🌍 Pasaulyje
 
-- Naujagimiai dvyniai kovoja dėl išlikimo Jemene, kur konfliktas skatina bado krizę [šaltinis](https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss).  
-- Po aptiktos kibernetinio saugumo spragos skubiai atnaujinamos viešosios paslaugų kompiuterinės sistemos [šaltinis](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss).  
-- Trampas privalės atsakyti į klausimus po priesaikos BBC teisme [šaltinis](https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss).  
-- Pietų Afrikos mieste minios iš 50 žmonių nužudė svetimą asmenį [šaltinis](https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss).  
-- Vokietija tapo intensyvaus šnipinėjimo tikslu po įtariamo rusų šnipų sulaikymo [šaltinis](https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss).  
-- Pasaulio sveikatos organizacija perspėja, kad sudėtinga ebos liga dabar pasireiškia trijose Afrikos šalyse [šaltinis](https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss).  
-- Izraelis paleido įtariamus nužudymus dviejuose kolonistų išpuoliuose, kai Vakarų Krante didėja pogromų skaičius [šaltinis](https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss).
+- Jemenų konfliktas giliai sustiprina bado krizę, o netiškas dviem kūdikiais gimę dvyniai kovoja dėl išgyvenimo. [šaltinis](https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss)  
+- Po rimtos kibernetinio saugumo spragos aptikimo, visame pasaulyje skubiai atnaujinamos viešųjų paslaugų informacinės sistemos. [šaltinis](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)  
+- Buvo paskirta teismo tvarka, kuri priverčia buvusį JAV prezidentą Donaldą Trumpą atsakyti į klausimus po priesaikos per „BBC“ ieškinį. [šaltinis](https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss)  
+- Pietų Afrikoje auka tapo užsienietis, kurį 50 žmonių susirinkę smurto būdu nužudė. [šaltinis](https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss)  
+- Vokietija tapo „intensyvaus“ šnipinėjimo taikiniu po tariamo rusų šnipų sulaikymo, tai paskatino vyriausybės vadovą Merz pabrėžti saugumo grėsmes. [šaltinis](https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss)  
+- Pietų Prancūzijoje po stipraus audros ir potvynių žuvo mažiausiai keturi žmonės, kai vietinės institucijos kovoja su didžiuliais nuostoliais. [šaltinis](https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss)  
+- Tarptautinės energetikos agentūros vadovas perspėja, kad energija tampa geopolitine ginklu, stiprinanti įtampos tarp šalių. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss)
