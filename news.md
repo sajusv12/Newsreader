@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-22 19:27 UTC*
+*Atnaujinta: 2026-10-22 20:22 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Ūkininkų savitarnos prekyba populiarėja, nesąžiningų pardavėjų beveik nėra. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3090410/ukininku-savitarnos-prekyba-populiareja-pirkejai-moka-patys-o-nesaziningu-beveik-nera)  
-- Mokslininkai teigia, kad tikslas neperkopti 1,5 °C atšilimo ribos jau nebepasiekiamas. [šaltinis](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3090054/mokslininkai-tikslas-neperkopti-pusantro-laipsnio-atsilimo-ribos-jau-nebepasiekiamas)  
-- Jaunieji „Žalgirio“ žaidėjai pripažino NKL lyderių pranašumą pralaimėjus lemiamą atkarpą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3090447/lemiama-atkarpa-pralaimeje-jaunieji-zalgirieciai-pripazino-nkl-lyderiu-pranasuma)  
-- Lietuvoje pradėjo naudotis nauji šveicarų gamybos Stadler traukiniai. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090243/new-swiss-made-stadler-trains-enter-service-in-lithuania)  
-- Kibernetinis saugumas: apie 100 Lietuvos svetainių yra pažeidžiamos kritiniu PHP pažeidžiu. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says)  
-- Vokietija sulaikė Ukrainos pilietį, kurį įtaria šnipinėjimu prieš Lietuvos brigadą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090269/germany-arrests-ukrainian-man-suspected-of-spying-on-lithuania-brigade)  
-- Lietuvos vyriausė patikino, kad iki metų pabaigos bus išleista visos kariuomenės lėšos. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090175/lithuania-will-spend-its-military-funding-by-year-end-pm-assures)
+- Lietuvos krepšinio žaidėjas Jonas Jokubaitis gavo daug žaidimo minučių, o „Bayern“ komanda Eurolygoje patyrė dar vieną skaudžią nesėkmę; tuo tarpu Stambule „Anadolu Efes“ nugalėjo „Bešiktaš“, o Walkeris grįžo į aikštą. [Jokubaitis](https://www.lrt.lt/naujienos/sportas/10/3090461/jokubaitis-sulauke-daug-minuciu-bet-bayern-eurolygoje-sugere-dar-viena-skaudzia-nesekme) [Stambulo derbis](https://www.lrt.lt/naujienos/sportas/10/3090450/eurolygos-stambulo-derbis-walkerio-sugrizimas-ir-anadolu-efes-pergale-pries-besiktas)  
+- Mirė altininkas Andrius Pleškūnas. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3090462/mire-altininkas-andrius-pleskunas)  
+- Atgimsta Rainių koplyčios freskos, pasakojančios apie sovietų nusikaltimus. [šaltinis](https://www.lrt.lt/naujienos/kultura/12/3090412/atgimsta-rainiu-koplycios-freskos-pasakojancios-apie-sovietu-nusikaltimus)  
+- Kibernetinio saugumo centras įvertino grėsmę 9,2 iš 10, o apie 100 Lietuvos svetainių yra pažeidžiamos kritine PHP spraga. [interneto saugumas](https://www.lrt.lt/naujienos/mokslas-ir-it/11/3090282/interneto-saugumas-sukele-nerima-kibernetinio-saugumo-centras-gresme-vertina-9-2-is-10) [PHP spraga](https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says)  
+- Naujus Šveicarijos gamybos Stadler traukinius jau galima naudoti Lietuvos geležinkeliuose. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090243/new-swiss-made-stadler-trains-enter-service-in-lithuania)  
+- Lietuvos Vyriausybės pirmininkas patikino, kad iki metų pabaigos išleis visą skiriamą karinių pajėgų biudžetą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090175/lithuania-will-spend-its-military-funding-by-year-end-pm-assures)  
+- Teisinė abejotina būsena išlieka Lietuvos same‑sex poroms, nes institucijos nesilaiko teismų sprendimų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087376/legal-limbo-for-lithuania-s-same-sex-couples-as-authorities-defy-court-rulings)
 
 ## 🌍 Pasaulyje
 
-- Jau gimę dvyniai kovoja dėl išgyvenimo, atskleidžiantys, kaip nuolatinis konfliktas sustiprina Jemeno bado krizę. [šaltinis](https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss)  
-- Po aptikto kibernetinio saugumo pažeidimo įmonės skuba atnaujinti kompiuterines sistemas, kad išvengtų duomenų nutekėjimo. [šaltinis](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)  
-- Vokietija tapo intensyvaus šnipinėjimo taikiniu po įtariamo rusų šnipų sulaikymo, kaip teigė ministro Merzo pareiškimas. [šaltinis](https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss)  
-- Pietų Prancūzijoje po audros potvyniai sukėlė mažiausiai keturių mirčių. [šaltinis](https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss)  
-- Irano pareigūnai pranešė, kad Hormuzo sąsiauryje pataikyta į septynias laivas ir įspėjo JAV dėl plačios reakcijos. [šaltinis](https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss)  
-- Gazos pacientės susiduria su didžiulėmis sunkumais dėl vėžio diagnostikos ir gydymo, nes laukimas tampa vis pavojingesnis. [šaltinis](https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss)  
-- Ukrainos miestelyje Slovianske gyventojai aprašo kasdieninį gyvenimą šalia fronto linijos, kur nuolatinis ginkluotų susidūrimų pavojus veikia kasdienybę. [šaltinis](https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-world-4025-rdf)
+- Naujagimiai dvyniai kovoja dėl išlikimo Jemene, kur konfliktas skatina bado krizę [šaltinis](https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss).  
+- Po aptiktos kibernetinio saugumo spragos skubiai atnaujinamos viešosios paslaugų kompiuterinės sistemos [šaltinis](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss).  
+- Trampas privalės atsakyti į klausimus po priesaikos BBC teisme [šaltinis](https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss).  
+- Pietų Afrikos mieste minios iš 50 žmonių nužudė svetimą asmenį [šaltinis](https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss).  
+- Vokietija tapo intensyvaus šnipinėjimo tikslu po įtariamo rusų šnipų sulaikymo [šaltinis](https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss).  
+- Pasaulio sveikatos organizacija perspėja, kad sudėtinga ebos liga dabar pasireiškia trijose Afrikos šalyse [šaltinis](https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss).  
+- Izraelis paleido įtariamus nužudymus dviejuose kolonistų išpuoliuose, kai Vakarų Krante didėja pogromų skaičius [šaltinis](https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss).
