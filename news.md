@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-22 12:29 UTC*
+*Atnaujinta: 2026-10-22 13:37 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Vokietijoje sulaikyta ukrainietis, įtariamas dėl Lietuvos brigados šnipinėjimo. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090269/germany-arrests-ukrainian-man-suspected-of-spying-on-lithuania-brigade)  
-- Lietuvoje pradėjo eksploatuoti naujosios šveicarų kompanijos Stadler traukiniai. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090243/new-swiss-made-stadler-trains-enter-service-in-lithuania)  
-- Ministras pirmininkas patikino, kad iki metų pabaigos bus išnaudotos visos karinės lėšos. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090175/lithuania-will-spend-its-military-funding-by-year-end-pm-assures)  
-- Lietuvos teisės institucijos nesilaiko teismo sprendimų, todėl tos pačios lyties porų teisinė padėtis išlieka abejotinė. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087376/legal-limbo-for-lithuania-s-same-sex-couples-as-authorities-defy-court-rulings)  
-- Dviejų cigarečių kontrabandos balionų sprogimas sukėlė elektros linijų pažeidimus Lietuvoje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090088/two-cigarette-smuggling-balloons-explode-after-hitting-power-lines-in-lithuania)  
-- Lietuvos užsienio reikalų ministras prašo patvirtinimo, kad du Lietuvos piliečiai yra laikomi Irane. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090077/lithuania-seeks-confirmation-of-reports-two-citizens-detained-in-iran)  
-- Vilniaus rajone gali kilti šilumos tiekimo ir šiukšlių išvežimo sutrikimų dėl artėjančių žiemos darbų. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3090294/vilniaus-rajone-gali-sutrikti-silumos-tiekimas-siuksliu-isvezimas)
+- Rusijoje kalintas amerikietis Stephenas Hubbardas grįžo į JAV, kaip teigia jo advokatas. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3090356/advokatas-rusijoje-kalintas-amerikietis-stephenas-hubbardas-grizo-i-jav)  
+- Prokuratūra atsisakė tirti Vilniaus savivaldybės veiksmus sprendžiant šiukšlių krizę. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3090354/prokuratura-atsisakyta-tirti-vilniaus-valdzios-veiksmus-sprendziant-siuksliu-krize)  
+- Europos Komisija nustatė 2 eurų tvarkymo rinkliavą prekėms, perkamioms nuotolinėje prekyboje. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3090352/europos-komisija-nustate-2-eur-tvarkymo-rinkliava-nuotolineje-prekyboje-perkamoms-prekems)  
+- Vokietijoje suimtas ukrainietis, įtariamas, kad šnipinėjo Lietuvos brigadą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090269/germany-arrests-ukrainian-man-suspected-of-spying-on-lithuania-brigade)  
+- Lietuvos geležinkeliui įsigalėjo nauji Šveicarijos gamybos Stadler traukiniai. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090243/new-swiss-made-stadler-trains-enter-service-in-lithuania)  
+- Ministras pirmininkas patikino, kad iki metų pabaigos Lietuvos gynybos biudžetas bus visiškai išleidžiamas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090175/lithuania-will-spend-its-military-funding-by-year-end-pm-assures)  
+- Teismų sprendimus ignoruojant, Lietuvos institucijos nesutinka pripažinti tos pačios lyties sutuoktinių teisių, sukurdamos teisinį nežinomybės periodą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3087376/legal-limbo-for-lithuania-s-same-sex-couples-as-authorities-defy-court-rulings)
 
 ## 🌍 Pasaulyje
 
-- Australijos „Married at First Sight“ televizijos programa yra tiriama policijos dėl praneštų netinkamų elgesio kaltinimų. [šaltinis](https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss)  
-- Pietų Prancūzijoje po audros kilo potvyniai, kurių metu žuvo bent keturi žmonės. [šaltinis](https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss)  
-- El Salvadoro prezidentas grasina Haities gaujoms dėl karinio karių sulaikymo. [šaltinis](https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss)  
-- Dvi Europos moterys, kurios virš vienerių metų buvo įkalintos Nigerio teritorijoje, išlaisvintos Libijoje. [šaltinis](https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss)  
-- Turkijos ir Libijos jūrų sienos susitarimas susiduria su prieštaraujančiais požiūriais iš ES ir Egipto. [šaltinis](https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss)  
-- Prancūzijoje užregistruotas pirmasis žmogaus atvejis, sergantis Šamondos virusu, tačiau sveikatos rizika laikoma nedidele. [šaltinis](https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss)  
-- Pietryčių Azijoje dėl toksiško rūko iškvėpimo iškeliamos teisminės ieškiniai prieš teršėjus. [šaltinis](https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss)
+- Prancūzijos pietuose audra sukėlė potvynius, kurių metu žuvo ne mažiau kaip keturi žmonės. [šaltinis](https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss)  
+- Rytų Saudo Arabijos oro uoste įvykdyta ataka, kurios metu žuvo du žmonės. [šaltinis](https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss)  
+- Irano vyriausybė paskelbė „agresyvų“ karinį doktriną, o JAV išdavė įspėjimą dėl galimo karo. [šaltinis](https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss)  
+- Turkija ir Libija sudarė jūrų sienų susitarimą, kurį kritikuoja ES ir Egiptas dėl jūrų teritorijų ginčų. [šaltinis](https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss)  
+- Ukrainos miestelyje Slovianske gyventojai dalijasi kasdienio gyvenimo sunkumais tiesiame fronte. [šaltinis](https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-world-4025-rdf)  
+- Bulgarijos prezidentų rinkimų kampanijoje didelį dėmesį sulaukia Juodosios jūros saugumo problema. [šaltinis](https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-world-4025-rdf)  
+- Europos Parlamento pastatuose buvo atlikti teisėsaugos retais raitais veiksmai prieš dešiniosios kraštutinės grupės biurus. [šaltinis](https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-world-4025-rdf)
