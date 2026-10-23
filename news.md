@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-23 05:23 UTC*
+*Atnaujinta: 2026-10-23 06:27 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Nuo dabar nemokamos gripo vakcinos turėtų būti prieinamos gydymo įstaigose iki lapkričio vidurio. [šaltinis](https://www.lrt.lt/naujienos/sveikata/682/3091030/sam-nemokamos-gripo-vakcinos-gydymo-istaigas-turetu-pasiekti-iki-lapkricio-vidurio)  
-- Pasienyje su Baltarusija policija apgręžta 19 neteisėtų migrantų, kurie bandė patekti į Lietuvą. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3091029/pasienyje-su-baltarusija-apgrezta-19-neteisetu-migrantu)  
-- Kaune buvo pavogtas apie 20 tūkst. eurų vertės krautuvas. [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/kaune-pavogtas-apie-20-tukst-euru-vertes-krautuvas-59-2790908)  
-- Rokiškio ir Plungės rajonuose rasti pistoletai, o Vilkaviškio – granata, kurią pašalinimo metu rado policija. [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/rokiskio-ir-plunges-rajonuose-rasti-pistoletai-vilkaviskio-granata-59-2790902)  
-- Apie 100 Lietuvos svetainių yra pažeidžiamos kritiniu PHP pažeidžiamumu, perspėja šalies kibernetinio saugumo vadovas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says)  
-- Vokietijoje sulaikytas ukrainietis, įtariamas dėl šnipinėjimo Lietuvos brigados veiklą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090269/germany-arrests-ukrainian-man-suspected-of-spying-on-lithuania-brigade)  
-- Lietuvoje pradėjo važiuoti nauji Šveicarijos gamybos Stadler traukiniai, skirti atnaujinti geležinkelių infrastruktūrą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090243/new-swiss-made-stadler-trains-enter-service-in-lithuania)
+- Išnagrinėjo neblaivaus automobilį vairavusio Laučiaus skundą, o sprendimas bus priimtas lapkritį【šaltinis】(https://www.lrt.lt/naujienos/lietuvoje/2/3091065/isnagrinejo-neblaivaus-automobili-vairavusio-lauciaus-skunda-sprendimas-lapkriti)  
+- Tarnyba sulaikė dar vieną VSAT pareigūną dėl piktnaudžiavimo įgaliojimais【šaltinis】(https://www.lrt.lt/naujienos/lietuvoje/2/3091061/del-piktnaudziavimo-tarnyba-sulaikytas-dar-vienas-vsat-pareigunas)  
+- Mirė žymus mokslininkas, profesorius Alfonsas Skrinska【šaltinis】(https://www.lrt.lt/naujienos/mokslas-ir-it/11/3091057/mire-profesorius-alfonsas-skrinska)  
+- Mokslas ne tik mokslininkams: keturi iš dešimties lietuvių norėtų įsitraukti į mokslinius tyrimus【šaltinis】(https://www.lrt.lt/naujienos/mokslas-ir-it/11/3087093/mokslas-ne-tik-mokslininkams-keturi-is-desimties-lietuviu-noretu-isitraukti)  
+- Vilniuje staigiai stabdant troleibusą nukentėjo du keleiviai【šaltinis】(https://www.lrt.lt/naujienos/eismas/7/3091053/vilniuje-staigiai-stabdant-troleibusui-nukentejo-du-keleiviai)  
+- Kibernetinio saugumo vadovas perspėjo, kad apie 100 Lietuvos svetainių yra pažeidžiamos kritinės PHP spragos【šaltinis】(https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says)  
+- Lietuvoje pradėjo eiti nauji Šveicarijos gamybos „Stadler“ traukiniai【šaltinis】(https://www.lrt.lt/en/news-in-english/19/3090243/new-swiss-made-stadler-trains-enter-service-in-lithuania)
 
 ## 🌍 Pasaulyje
 
-- Sudano RSF kovotojai tyčiniausiai atakavo ligonines, kaip atskleidė BBC tyrimas. [šaltinis](https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss)  
-- Buvęs JAV prezidentas Donaldas Trampas teigė, kad Elonas Muskas atstatė Ukrainos „Starlink“ ryšį. [šaltinis](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)  
-- BBC teismas įpareigojo Trampą atsakyti į klausimus po priesaikos susijusius su jo teisine byla. [šaltinis](https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss)  
-- Ebola pacientai iš Nigerijos ir Kenijos galėjo susitikti Ugandos oro uoste, kelia rūpesčių dėl virusų sklaidos. [šaltinis](https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss)  
-- Jemene, kur konfliktas sustiprina bado krizę, gimę dvyniai kovoja už išlikimą. [šaltinis](https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss)  
-- Kanados kariuomenės bazėje dėl granatos pratimų kilo gaisras, kuriame žuvo kariai. [šaltinis](https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss)  
-- Izraelio valdžia sulaikė 36 palestiniečių Vakarų Krante, o smūgiai į ūkininkus intensyvėja. [šaltinis](https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss)
+- Sudano RSF kovos grupės tyčiai taikėsi prieš ligonines, kaip atskleidė BBC tyrimas. [šaltinis](https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss)  
+- Tibetui sukėlė stiprią žemės drebėjimą, kuriame žuvo 16 žmonių, pranešė BBC. [šaltinis](https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss)  
+- Donaldas Trumpas teigė, kad Elonas Muskas atstatė Ukrainos „Starlink“ tinklo prieigą. [šaltinis](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)  
+- „L’Oréal“ pranešė, kad svorio mažinimo vaistų populiarumas neigiamai veikia grožio ir odos priežiūros produktų pardavimus. [šaltinis](https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss)  
+- BBC reikalauja, kad Donaldas Trumpas atsakytų į klausimus po priesaikos, susijusius su teisine byla. [šaltinis](https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss)  
+- Nigerija ir Kenija pranešė, kad jų ebolos pacientai galėjo susitikti Ugandos ore, keliaujant per vieną oro uostą. [šaltinis](https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss)  
+- Kanados kariuomenės bazėje vykdytas granatos mokymas sukėlė mirtiną gaisrą, pareiškė Al Jazeera. [šaltinis](https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss)
