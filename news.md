@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-23 10:24 UTC*
+*Atnaujinta: 2026-10-23 11:24 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- „Kauno Žalgiris“ patyrė antrąją pralaimėjimą UEFA konferencijų lygos rungtynėse [šaltinis](https://www.lrt.lt/naujienos/lrt-paprastai/69/3091122/kauno-zalgiris-pralaimejo-antras-uefa-konferenciju-lygos-rungtynes).  
-- Šią žiemos sezoną Lietuvos oro uostų skrydžių maršrutų skaičius sumažėjo iki 74, tai – šešios kryptys mažiau nei pernai [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3091215/is-lietuvos-oro-uostu-si-ziemos-sezona-74-kryptys-sesiomis-maziau-nei-pernai).  
-- Mirė ilgametė socialinių mokslų daktarė ir Vilniaus universiteto dekanė Birutė Marytė Pociūtė [šaltinis](https://www.lrt.lt/naujienos/svietimas/45/3091202/mire-socialiniu-mokslu-daktare-birute-maryte-pociute).  
-- Lietuvos įmonės pradėjo gaminti anti‑drone tinklus, skirtus apsaugoti strateginius objektus nuo bepiločių orlaivių [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091125/lithuanian-firms-produce-anti-drone-netting-to-shield-strategic-objects-media).  
-- Finansų ministras gynė deficito biudžetą, teigdamas, kad buvo spaudimas sumažinti gynybos išlaidas [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091085/lithuanian-finmin-defends-deficit-budget-there-was-pressure-to-cut-defence-spending).  
-- Apie 100 Lietuvos svetainių yra pažeidžiamos dėl kritiškos PHP saugumo spragos, įspėjo kibernetinio saugumo vadovas [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090359/around-100-lithuanian-websites-vulnerable-to-critical-php-flaw-cybersecurity-chief-says).  
-- Vilniaus meras Valdas Benkunskas paskelbė, kad kandidatuos į antrą mandatą [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091099/vilnius-mayor-valdas-benkunskas-to-seek-second-term).
+- Europos Komisija pradėjo tyrimą dėl „Booking“ svetainės sukčių veiklos. [šaltinis](https://www.lrt.lt/naujienos/lrt-paprastai/69/3091086/europos-komisija-tikrins-interneto-svetaine-booking-del-sukciu)  
+- Darbdaviai siūlo pakeisti pajamų natūra apmokestinimą, kad būtų paprasčiau skaičiuoti atlyginimus. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3089304/atsibodo-skaiciuoti-kotletus-darbdaviai-siulo-keisti-pajamu-natura-apmokestinima)  
+- Prezidento Valdo Adamkaus gydymas tęsiasi Santaros klinikose, jo sveikatos būklė yra stabiliai gerėjanti. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3091250/prezidento-valdo-adamkaus-gydymas-tesiamas-santaros-klinikose)  
+- Ekvadore sulaikytam kauniečiui, kaltinamam narkotikų kontrabanda, paskirta 18‑metų kalėjimo bausmė. [šaltinis](https://www.lrt.lt/lituanica/aktualijos/751/3091245/ekvadore-sulaikytam-kaunieciui-uz-narkotiku-kontrabanda-skirta-18-metu-kalejimo)  
+- Popiežius Leonas XIV sveikatos problemų dėka atšaukė planuotą kelionę į taikos susitikimą Asyžiuje. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3091244/popiezius-leonas-xiv-del-sveikatos-atsauke-kelione-i-taikos-susitikima-asyziuje)  
+- Šiemet žiemos sezono metu Lietuvos oro uostai pasiūlys 74 skrydžių maršrutus, tai 6 mažiau nei praėjusiais metais. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091230/lithuanian-airports-to-offer-74-routes-this-winter-six-fewer-than-last-year)  
+- Lietuvos finansų ministras gynė deficitinį biudžetą, teigdamas, kad buvo spaudimas sumažinti gynybos išlaidas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091085/lithuanian-finmin-defends-deficit-budget-there-was-pressure-to-cut-defence-spending)
 
 ## 🌍 Pasaulyje
 
-- Ukraina teigia, kad „Starlink“ paslaugos vis dar ribojamos, nepaisant buvusio prezidento Trumpo pareiškimo, kad apribojimai pašalinti. [šaltinis](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)  
-- Vakarų banke įvyko šaudymas, kuriame sužeista penki Izraelio piliečiai, o du įtariami palestiniečiai užpuolikai – nužudyti. [šaltinis](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)  
-- Taifūnas „Champi“ sukėlė didelį eismo sutrikimą Taivane, atšaukiant šimtus skrydžių. [šaltinis](https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss)  
-- BBC tyrimas atskleidė, kad Sudano RSF kovos grupės tyčiai taikėsi prieš ligonines, sukeldamos civilių kančias. [šaltinis](https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss)  
-- Nigeryje užfiksuotas Ebolos atvejis patvirtintas – serga Šveicarijos diplomato žmona. [šaltinis](https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss)  
-- Nauja elektronika patenka į Iraną, tačiau jos kainos smarkiai išaugo dėl vyriausybės mokesčių ir JAV sankcijų. [šaltinis](https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss)  
-- Serbijoje paskelbti skubūs rinkimai, kuriuos skatina jaunimas, siekiant suabejoti prezidento Vučiūno valdžia. [šaltinis](https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss)
+- Ukrainoje „Starlink“ internetas vis dar ribojamas, nors buvęs JAV prezidentas Donaldas Trumpas teigė, kad apribojimai panaikinti [šaltinis](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)  
+- Vakarų Krante penki Izraelio piliečiai buvo sužeisti, o du įtariami palestiniečių užpuolikai – nužudyti, kai įvyko šaudymo incidentas [šaltinis](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)  
+- Tifonas „Champi“ sustabdė skrydžius Taivane, dėl ko buvo atšaukti šimtai skrydžių ir sutrikdyta kelionė [šaltinis](https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss)  
+- Sudano „RSF“ kovos grupės tyčiniausiai taikėsi prieš ligonines, kaip atskleidė BBC tyrimas [šaltinis](https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss)  
+- Nigerijoje užsiregistruota Ebola atvejo atveju, kai ligą susirgo Šveicarijos diplomato žmona [šaltinis](https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss)  
+- Pietų Korėja pakvietė Šiaurės Korėją į derybas dėl kariuomenės veiklos pasienyje, siekdama sumažinti įtampą [šaltinis](https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss)  
+- Serbijoje vyks skubi rinkimų kampanija, kurioje studentų protestai gali lemti premjero Aleksandro Vučičiaus atmetimą [šaltinis](https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss)
