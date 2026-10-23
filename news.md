@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-23 20:20 UTC*
+*Atnaujinta: 2026-10-23 21:22 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Masiulis, laukiantis Evanso „Žalgiryje“, kalbėjo apie lyderystę, spaudimą ir Valančiūno vaidmenį. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3091411/evanso-zalgiryje-laukiantis-masiulis-apie-lyderyste-spaudima-ir-valanciuno-vaidmeni)  
-- Lietuviai į Latviją važiuoja ieškodami pigesnių degalų ir maisto, nors latviai teigia, kad šalyje gyvenimo išlaidos yra brangios. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3091046/lietuviai-i-latvija-vyksta-pigesniu-degalu-ir-maisto-bet-latviai-sako-kad-salyje-brangu)  
-- Tik apie 40 % mokyklų turi slėptuves nuo oro atakų, tačiau daugeliui trūksta reikiamo aprūpinimo. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3091072/oro-atakos-keicia-mokyklu-gyvenima-vos-40-proc-turi-sleptuves-daznai-jos-neaprupintos)  
-- Peteris Magyaras teigė, kad Vengrija siekia tapti patikima Europos Sąjungos partnerė. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3091441/magyaras-vengrija-siekia-buti-patikima-es-partnere)  
-- Vakarų Lietuvoje vyko didžiausios komendantinės pratybos „Perkūno bastionas / Juodas vanagas“. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3091390/vakaru-lietuvoje-didziausios-komendantines-pratybos-perkuno-bastionas-juodas-vanagas)  
-- Ukrainos kariuomenė paskelbė, kad nuo antradienio Oleškų regione bus laikomos paliaubos ir vykdoma humanitarinė pagalba. [šaltinis](https://www.15min.lt/naujiena/aktualu/pasaulis/ukrainos-kariuomene-skelbia-kad-nuo-antradienio-laikysis-paliaubu-oleskuose-57-2791598?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
-- Vilniaus meras Valdas Benkunskas ketina siekti antrosios kadencijos. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091099/vilnius-mayor-valdas-benkunskas-to-seek-second-term)
+- Paryžiuje pristatyta reta Lietuvos meno kolekcija, kurioje eksponuojami dešimtmečius viešai nematyti šedevrai【[šaltinis](https://www.lrt.lt/naujienos/kultura/12/3091427/paryziuje-reta-meno-kolekcija-pristatyti-desimtmecius-viesai-nematyti-sedevrai)】.  
+- „Žalgirio“ žaidėjas Valančiūnas džiaugėsi komandos vienybe ir agresyvumu po įspūdingų rungtynių【[šaltinis](https://www.lrt.lt/naujienos/sportas/10/3091406/smagiu-zalgirio-zaidimu-pasidziauges-valanciunas-apie-komandos-vienybe-ir-agresyvuma)】.  
+- Lietuvos futbolininkas Gineitis, pakilus iš suolo, pasirodė naudingas ir prisidėjo prie „Torino“ pergalės【[šaltinis](https://www.lrt.lt/naujienos/sportas/10/3091452/nuo-suolo-pakiles-gineitis-buvo-naudingas-rezultatyvus-perdavimas-ir-torino-pergale)】.  
+- Kaune susidūrė du automobiliai, įvykio vietą greitai pasiekė medikai ir ugniagesiai【[šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/kaune-susidure-du-automobiliai-atvyko-medikai-ir-ugniagesiai-59-2791592)】.  
+- NKSC vadovas informavo, kad nebuvo gautų pranešimų apie galimus įsilaužimus dėl paveiktos programinės kalbos【[šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/nksc-vadovas-negauta-pranesimu-apie-galimus-isilauzimus-del-paveiktos-programines-kalbos-56-2791582)】.  
+- Lietuvos aplinkos apsaugos agentūra patvirtino Rheinmetall šaudmenų gamyklos projektą šalyje【[šaltinis](https://www.lrt.lt/en/news-in-english/19/3091313/lithuania-s-environment-agency-greenlights-rheinmetall-ammo-factory)】.  
+- Lietuvos oro uostai šią žiemą siūlys 74 skrydžių maršrutus, tai – šešis mažiau nei praėjusiais metais【[šaltinis](https://www.lrt.lt/en/news-in-english/19/3091230/lithuanian-airports-to-offer-74-routes-this-winter-six-fewer-than-last-year)】.
 
 ## 🌍 Pasaulyje
 
-- Netoli Paryžiaus įvykęs mirtinas šaudymas buvo paskelbtas rasistiniu teroristiniu išpuoliu, teigė Prancūzijos prezidentas Emmanuelas Macronas. [šaltinis](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)  
-- Jordanijoje šventosios laidotuvės bažnyčioje baigėsi tragedija, kai šaudikai nužudė septynis žmones. [šaltinis](https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss)  
-- Izraelio kariuomenė po dviejų savo karių nužudymo Hebrone pradėjo griūti palestiniečių pastatus ir paskelbti karantiną Vakarų Krante. [šaltinis](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)  
-- Melnė Trump, buvusi JAV pirmosios daktės, tarpininkavo laikiną ginklo nutraukimą Ukrainos mieste, kuris buvo „ant žlugimo ribos“. [šaltinis](https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss)  
-- Ukrainos gynybos pastangos apima intensyvesnius Rusijos puolimus Kyjive, dronų atakas Maskvos oro uostams ir „Starlink“ interneto paslaugų apribojimų išlaikymą. [šaltinis](https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf) [šaltinis](https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf)  
-- Laivo smūgis į tankerį sukėlė naftos nuotėkį, kuris užteršė Jungtinių Arabų Emyratų pakrantės paplūdimius. [šaltinis](https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss)  
-- Kenijoje sulūžo daugiapakopis pastatas, kurio griūtyje daugelis žmonių buvo įstrigę ir laikomi dingusiais. [šaltinis](https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss)
+- Prie Paryžiaus įvykęs mirtinas šaudymas buvo priskirtas rasistiniam teroro išpuoliui, teigė Prancūzijos prezidentas Emmanuelas Macronas. [šaltinis](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)  
+- Septyni žmonės žuvo šaudant per bažnyčios laidotuvių ceremoniją Jordanijoje. [šaltinis](https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss)  
+- Buvo atskleista, kad išlaisvintas JAV pilietis buvo kankinamas Rusijos kalėjime, apie tai pasakojo buvę Ukrainos kaliniai. [šaltinis](https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss)  
+- Izraelio pajėgos pradėjo griūti palestiniečių pastatus Hebrone po dviejų izraelitų karių nužudymo. [šaltinis](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)  
+- Baltojo rūmo pareigūnai pranešė, kad Melanija Trump mediatorių veikla paskatino vietinį susitarimą sustabdyti karinius veiksmus Ukrainos mieste, kuris buvo artimas katastrofai. [šaltinis](https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss)  
+- JT teigė, kad laikas pasibaigia bandant pasiekti Jemeno miestą Taiz, kur krizė giliai pablogėjo. [šaltinis](https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss)  
+- Ukraina bando uždaryti Maskvos oro uostus dronų atakomis, tuo tarpu Rusijos smūgiai į sostinę Kijevą intensifikuojasi. [šaltinis](https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf)
