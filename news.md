@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-24 10:19 UTC*
+*Atnaujinta: 2026-10-24 11:19 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Kauno „Žalgiris“ Eurolygoje iškovojo labai svarbią pergalę. [šaltinis](https://www.lrt.lt/naujienos/lrt-paprastai/69/3092042/kauno-zalgiris-eurolygoje-iskovojo-labai-svarbia-pergale)  
-- Liberalų partija iškėlė kandidatus į merus, įskaitant asmenis, susijusius su „čekiukų“ byla. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3092083/liberalai-iskele-kandidatus-i-merus-iskaitant-figuruojancius-cekiuku-bylose)  
-- Viktorija Čmilytė‑Nielsen teigia, kad nacionalinėje politikoje viską užgožia valdžios blaškymasis. [šaltinis](https://www.15min.lt/aktualu/lietuva/viktorija-cmilyte-nielsen-nacionalineje-politikoje-viska-uzgozia-valdanciuju-blaskymasis-56-2791720)  
-- Liberalai paskelbė, kad nesutiks kitų metų biudžeto dėl pernelyg sparčios skolos augimo. [šaltinis](https://www.15min.lt/aktualu/lietuva/liberalai-sako-nepalaikysiantys-kitu-metu-biudzeto-del-pernelyg-spartaus-skolos-augimo-56-2791712)  
-- Ekspertai perspėja, kad daugelis neišdiagnozuotų žmonių Lietuvoje kenčia nuo ADHD. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091338/many-undiagnosed-people-in-lithuania-suffer-from-adhd-experts-say)  
-- Siūloma įstatymo pataisa galėtų suteikti platformų darbuotojams daugiau teisių ir socialinės apsaugos. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090358/proposed-law-could-give-lithuanian-platform-workers-more-rights-and-social-protections)  
-- Lietuvos aplinkos agentūra patvirtino Rheinmetall šaudmenų gamyklos statybą šalyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091313/lithuania-s-environment-agency-greenlights-rheinmetall-ammo-factory)
+- Kauno „Žalgiris“ Eurolygoje iškovojo labai svarbią pergalę, stiprinantį klubo pozicijas varžybų lentelėje. [šaltinis](https://www.lrt.lt/naujienos/lrt-paprastai/69/3092042/kauno-zalgiris-eurolygoje-iskovojo-labai-svarbia-pergale)  
+- Pakaitinė hormonų terapija gali būti efektyvi gydant tam tikras hormonų trūkumo būkles, ypač kai tradicinė hormonų pakaita nepasiteisina. [šaltinis](https://www.lrt.lt/naujienos/sveikata/682/3084148/pakaitine-hormonu-terapija-kada-ji-gali-padeti)  
+- Liberalų partija iškėlė merų kandidatūras, tarp kurių – asmenys, susiję su „čekiukų“ bylomis. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3092083/liberalai-iskele-kandidatus-i-merus-iskaitant-figuruojancius-cekiuku-bylose)  
+- Klaipėdos rajono meras Bronius Markauskas paskelbė apie ketinimą siekti perrinkimo kitų metų rinkimuose. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/klaipedos-rajono-meras-bronius-markauskas-sieks-perrinkimo-56-2791754?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
+- Vilniaus Gedimino prospekto tarnybų sujudime policija rado ant grindinio kūną, kuris šiuo metu yra tiriamas. [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/gedimino-prospekte-tarnybu-sujudimas-galimai-rastas-kunas-59-2791744?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
+- Pateiktas įstatymo projektas galėtų suteikti platformų darbuotojams platesnes teises ir socialinę apsaugą, įskaitant darbo sąlygų reglamentavimą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090358/proposed-law-could-give-lithuanian-platform-workers-more-rights-and-social-protections)  
+- Lietuvos aplinkos apsaugos agentūra patvirtino Rheinmetall šaudmenų gamyklos statybos projektą šalyje, sukėlusią didelį viešąjį susirūpinimą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091313/lithuania-s-environment-agency-greenlights-rheinmetall-ammo-factory)
 
 ## 🌍 Pasaulyje
 
-- Po gaisro Vokietijos kalno „Eagle's Nest“ (Hitlerio slėptuvės) sulaikytas įtariamas užsiveržėlis. [šaltinis](https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss)  
-- Oregono mokyklos šaudymo kaltininką nužudęs tėvas aprašo skausmą dėl vaikų, kurių neįsveikino. [šaltinis](https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss)  
-- Serbijos parlamento rinkimai artėja, studentų judėjimas stumia prezidentą Vučićą į siauro varžybų finišą, o rinkėjų nuotaikos – viltis, įtampa ir nerimas. [šaltinis](https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss)  
-- Baltasis namas pašalino tarifus kai kuriems Kanados produktams, siekdamas sustiprinti savo pozicijas prieš artėjančius vidurio kadencijos rinkimus. [šaltinis](https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss)  
-- Kenijoje mirė antra pacientė nuo Ebolos, tuo tarpu Uganda pranešė, kad šalyje nėra aktyvių atvejų, nors kaimynų šalyse infekcijos išlieka. [šaltinis](https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf)  
-- Brazilijos prezidentas Luiz Inácio Lula da Silva ir buvęs prezidentas Jair Bolsonaro debatuoja politikos pasiūlymus prieš antrąją pergalės turo partijų rinkimus. [šaltinis](https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss)  
-- Ukraina intensyvina atakas prieš Kijevo miestą ir tuo pat metu bando dronų smūgiais užblokuoti Maskvos oro uostus. [šaltinis](https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf)
+- Ukraina pranešė, kad „Starlink“ interneto ryšys šalyje dabar stabilus po ankstesnių apribojimų. [šaltinis](https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss)  
+- Po gaisro, kuris apdegino Hitlerio kalno „Eagle’s Nest“ poilsio vietą, vokietų policija sulaikė įtariamąjį. [šaltinis](https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss)  
+- Serbijos rinkimuose studentų judėjimas sugriežtino konkurenciją prezidentui Vučičiui, o rinkėjų nuotaikos – tiek viltis, tiek įtampa – yra didelės. [šaltinis](https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss)  
+- 65‑metė moteris tapo antra Ebola mirėle Kenijoje, nors šalis teigia, kad aktyvių atvejų nėra. [šaltinis](https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss)  
+- Prancūzijoje įvykęs mirtinas rasistinis išpuolis sukėlė diskusijas apie neapykantos nusikaltimų didėjimą, o šalyje tuo tarpu tęsiasi masiniai protestai su aukštu saugumo lygiu. [šaltinis](https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss)  
+- Brazilijos prezidentas Luiz Inácio Lula da Silva ir buvęs prezidentas Jair Bolsonaro viešai diskutavo politikos pasiūlymus prieš antrinį prezidento rinkimų turą. [šaltinis](https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss)  
+- Ukraina atliko dronų atakas Maskvos oro uostams, siekdama laikinai juos uždaryti. [šaltinis](https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf)
