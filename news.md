@@ -1,23 +1,29 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-24 15:18 UTC*
+*Atnaujinta: 2026-10-24 16:19 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- JK premjeras per pokalbį su Donaldu Trumpu pakėlė klausimą dėl Folklando naftos projekto, pabrėždamas energetikos saugumą. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3092132/pokalbyje-su-trumpu-jk-premjeras-iskele-folklando-naftos-projekto-klausima)  
-- Vilniuje vykęs UTMA turnyras praturtino Lietuvos krepšinio sceną įdomiomis Pauliukevičiaus ir Kanišausko kovomis bei įtemptais pusfinaliais ir revanšais. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3092130/utma-vilniuje-pauliukeviciaus-ir-kanisausko-kova-intriguojantys-pusfinaliai-ir-revansai)  
-- „Gintros“ futbolininkės 25‑ą kartą užsitikrino Lietuvos moterų A lygos čempiono titulą, išlaikydamos neprilygstamą dominavimą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3092129/nesustabdomos-gintros-futbolininkes-25-a-karta-tapo-lietuvos-moteru-a-lygos-cempionemis)  
-- Vyriausybė patvirtino 2027‑ųjų Vietos bendruomenių metų minėjimo planą, siekdama stiprinti vietinių bendruomenių kultūrinį identitetą. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/vyriausybe-pritare-2027-uju-vietos-bendruomeniu-metu-minejimo-planui-56-2791830)  
-- Ekspertai teigia, kad daugelis neišdiagnozuotų žmonių Lietuvoje kenčia nuo ADHD, todėl svarbu gerinti šios ligos atpažinimą ir gydymą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091338/many-undiagnosed-people-in-lithuania-suffer-from-adhd-experts-say)  
-- Siūlomas įstatymo projektas galėtų suteikti platformų darbuotojams Lietuvoje platesnes teises ir socialinę apsaugą, reguliuodamas jų darbo sąlygas. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090358/proposed-law-could-give-lithuanian-platform-workers-more-rights-and-social-protections)  
-- Lietuvos aplinkos agentūra patvirtino Rheinmetall šaudmenų gamyklos projektą, sukeldama diskusijas dėl aplinkosaugos ir saugumo klausimų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091313/lithuania-s-environment-agency-greenlights-rheinmetall-ammo-factory)
+- Ukmergės rajone susidūrus dviem automobiliams žuvo vairuotoja. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3092145/ukmerges-rajone-susidurus-dviem-automobiliams-zuvo-moteris)  
+- Jemeno Adeno mieste įvyko sprogimai, sukėlę didelį destrukciją. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3092143/jemeno-adeno-mieste-nugriaudejo-sprogimai)  
+- „Lietkabelis“ LKL nesugebėjo pripažinti Gargždų pranašumo rungtynėse. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3092140/lietkabelis-lkl-turejo-pripazinti-ir-dar-viena-pergale-isirasiusiu-gargzdu-pranasuma)  
+- Teismas pradėjo nagrinėti „kamuolinių“ nusikaltimų bylą, ieškodamas nukentėjusiojo. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3092135/kamuoliniu-nusikaltimu-byla-teismas-ieskos-nukentejusiojo)  
+- Parlamentas svarsto įstatymą, kuriuo policijos pareigūnai turėtų kreiptis į psichiatrus dėl smurtautojų. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/parlamente-siekis-ipareigoti-policijos-pareigunus-kreiptis-i-psichiatrus-del-smurtautoju-56-2791850)  
+- Ekspertai teigia, kad Lietuvoje daugelis žmonių serga nediagnozuotu ADHD. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091338/many-undiagnosed-people-in-lithuania-suffer-from-adhd-experts-say)  
+- Siūlomas įstatymas galėtų suteikti platformų darbuotojams didesnes teises ir socialinę apsaugą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090358/proposed-law-could-give-lithuanian-platform-workers-more-rights-and-social-protections)
 
 ## 🌍 Pasaulyje
 
-- Ukraina pranešė, kad „Starlink“ ryšys tapo stabilus po ankstesnių apribojimų, nors šalyje ir Rusijoje tęsiasi karinės atakos. [šaltinis](https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss)  
-- Okupuoto Vakarų Kranto teritorijoje prasidėjo pilnas užraktas, apribojantį judėjimą ir komunikacijas. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss)  
-- Serbijos parlamento rinkimai sukėlė didžiulį įtampą: studentų protestai spaudė prezidentą Vučių, o balsavimas tapo itin artimu. [šaltinis](https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss)  
-- Rytų Afrikoje tęsiasi ebolos krizei susijęs nerimas – Kenijoje mirė antras pacientas, o Uganda teigia, kad šalyje nebelieka aktyvių infekcijų, tačiau atidžiai stebi situaciją. [šaltinis 1](https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss) | [šaltinis 2](https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf)  
-- Japonijos ir Rusijos santykiai blogėja po to, kai Rusijos valdžia įkalino Japonijos žurnalistą Maskvoje. [šaltinis](https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-world-4025-rdf)  
-- Afganistano moterims gresia vienintelės galimybės gauti aukštąjį išsilavinimą praradimas dėl griežtų režimo apribojimų. [šaltinis](https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-world-4025-rdf)  
-- Ukraina bandė sutrikdyti Maskvos oro uostų veiklą vykdydama dronų atakas, siekdama apriboti Rusijos transporto galimybes. [šaltinis](https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf)
+- Ukraina paskelbė, kad „Starlink“ ryšys vėl veikia stabiliai po ankstesnių ribojimų, nors šalyje tęsiasi kariniai išpuoliai. [šaltinis](https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss) [šaltinis](https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss)  
+
+- Izraelio pajėgos evakuavo daugiau nei 2 000 žmonių iš namų Hebrone ir įvedė viso Vakarų Krasto užimtų teritorijų blokadą, sukeldamos didelį humanitarinį krizinį padėtį. [šaltinis](https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss) [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss)  
+
+- Brazilijos apklausos rodo, kad prezidentas Luiz Inácio Lula da Silva ir buvęs prezidentas Jair Bolsonaro lygiavertiai prieš antrąją prezidento rinkimų turo rungtį. [šaltinis](https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss)  
+
+- Milane nusistovėjo masiniai protestai, dėl ko vietos saugumo pajėgos pakėlė pasirengimą ir sustiprino patruliavimą mieste. [šaltinis](https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss)  
+
+- Turkijos nauja sutartis su Libija dėl Viduržemio jūros jūrų ribų sustiprina įtampą su Graikija ir Europos Sąjunga, keliančią naujus geopolitinius iššūkius. [šaltinis](https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf)  
+
+- Japonijos ir Rusijos santykiai blogėja po to, kai japoniškas žurnalistas buvo įkalintas Maskvoje kalėjime, sukeldamas diplomatinių įtampų bangą. [šaltinis](https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-world-4025-rdf)  
+
+- Afganistane moterų galimybės gauti aukštąjį išsilavinimą gali būti prarastos dėl griežtų apribojimų, keliančių rimtą grėsmę švietimo ateičiai. [šaltinis](https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-world-4025-rdf)
