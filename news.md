@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-24 04:20 UTC*
+*Atnaujinta: 2026-10-24 05:20 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Buvo pristatyta Liberalų partijos savivaldos rinkimų programa ir jų kandidatų sąrašas į merus. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3092007/liberalai-pristatys-savivaldos-rinkimu-programa-ir-kandidatus-i-merus)  
-- Prie Vyriausybės organizuojama protesto akcija, skirta kelti dėmesį į klimato grėsmes Lietuvoje. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3092008/prie-vyriausybes-rengiama-protesto-akcija-del-klimato-gresmiu)  
-- Sportininkė Juškevičiūtė, persikėlusi iš biuro darbo į sporto batų pasaulį, savo atostogų laiką skiria varžyboms. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3089062/is-darbo-i-sporto-batus-su-meile-sokinejanti-juskeviciute-atostogas-isnaudoju-varzyboms)  
-- Dubysos slėnyje įgyvendinta menininko svajonė – pastatytas namas be jokio tiesaus kampo. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3069295/dubysos-slenyje-issipildziusi-menininko-svajone-iskilo-ne-vieno-kampo-neturintis-namas)  
-- Vėlinių laikotarpiu Vilniuje įvesti eismo ribojimai šalia kapinių siekiant pagerinti saugumą. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3092006/veliniu-laikotarpiu-vilniuje-ivedami-eismo-ribojimai-prie-kapiniu)  
-- Lietuvos oro uostai šiemet siūlo 74 maršrutus žiemos sezono metu, tai – šešis mažiau nei praėjusius metus. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091230/lithuanian-airports-to-offer-74-routes-this-winter-six-fewer-than-last-year)  
-- Lietuvos įmonės pradėjo gaminti anti‑drono tinklus, skirti apsaugoti strateginius objektus nuo bepiločių skrydžių. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091125/lithuanian-firms-produce-anti-drone-netting-to-shield-strategic-objects-media)
+- Nuo šios savaitės dešimtyje Lietuvos savivaldybių prasidės kariuomenės ir NATO sąjungininkų pratybos „Budri pelėda“, skirtos stiprinti šalies gynybą. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3092022/desimtyje-savivaldybiu-prasides-kariuomenes-ir-nato-sajungininku-pratybos-budri-peleda)  
+- Šeštadienį prognozuojamas saulėtas oras su maksimalia temperatūra iki 14 °C visoje šalyje. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3092011/sinoptikas-sestadienis-bus-sauletas-sils-iki-14-laipsniu)  
+- Pasienyje su Baltarusija nepriklausomų kontrolės patikrinimų metu nebuvo nustatyta neteisėtų migrantų. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/pasienyje-su-baltarusija-nefiksuota-neteisetu-migrantu-56-2791628)  
+- Dėl remonto darbų devynioms valandoms bus uždarytas eismas per Nemuno gatvės tiltą Panevėžyje. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/panevezyje-del-remonto-darbu-devynioms-valandoms-bus-uzdarytas-eismas-nemuno-gatves-tiltu-56-2791626)  
+- Lietuvos žaliųjų partija kartu su Vyriausybe planuoja protesto akciją, skirtą kviesti imtis skubių priemonių dėl klimato kaitos. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/lietuvos-zaliuju-partija-prie-vyriausybes-rengs-protesto-akcija-del-klimato-kaitos-56-2791622)  
+- Liberalų partija pristatys savivaldos rinkimų programą ir savo kandidatų į merus sąrašą, siekdama įgyti daugiau vietinių savivaldybių postų. [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/liberalai-pristatys-savivaldos-rinkimu-programa-ir-kandidatus-i-merus-56-2791610)  
+- Parengiamas įstatymas suteiks Lietuvos platformų darbuotojams platesnes teises ir socialinę apsaugą, įskaitant darbo sutarties apribojimus ir pensijų kaupimą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090358/proposed-law-could-give-lithuanian-platform-workers-more-rights-and-social-protections)
 
 ## 🌍 Pasaulyje
 
-- Prancūzijos prezidentas Emmanuelas Macronas pabrėžė, kad netoli Paryžiaus įvykęs mirtinas šaudymas buvo rasistinis teroro išpuolis. [šaltinis](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)  
-- Jordanijoje per bažnyčios laidotuves šaudikai nužudė septynis žmones. [šaltinis](https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss)  
-- Izraelio pajėgos Hebrone pradėjo griovimo darbus palestiniečių pastatuose po to, kai du Izraelio kariai buvo nužudyti. [šaltinis](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)  
-- Ukraina bandė uždaryti Maskvos oro uostus, vykdydama dronų atakas Rusijos teritorijoje. [šaltinis](https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf)  
-- Pentagonas paskelbė, kad Konfucijaus institutus laikomi nacionalinio saugumo grėsme. [šaltinis](https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss)  
-- Afganistano moterys gali prarasti vieną iš paskutinių galimybių siekti aukštojo išsilavinimo dėl ribojimų. [šaltinis](https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-world-4025-rdf)  
-- Uganda teigia, kad šiuo metu neturi aktyvių ebolos atvejų, nors susirūpinimą kelia infekcijos Kenijoje ir Nigerijoje. [šaltinis](https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf)
+- Prancūzija ruošiasi protestams savaitę po visos šalies sukilimų, planuodama didelę demonstraciją. [šaltinis](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)  
+- Kenijoje mirė 65‑metė moteris – antra Ebola pacientė, o Ugandos sveikatos institucijos teigia, kad šalyje nėra aktyvių atvejų, tačiau šaliai kelia nerimą infekcijos Kenijoje ir Nigerijoje. [šaltinis](https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss)  
+- Serbijoje vyksta itin artima rinkimų kampanija: studentų judėjimas kritikuoja prezidentą Vučićą, o rinkėjai susiduria su dideliu nerimu ir įtampa dėl naujo parlamento sudėties. [šaltinis](https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-world-4025-rdf)  
+- Jordanijoje bažnyčios laidotuose šaudė 7 žmones, sukeldami plačiai pasmerkimą ir saugumo nerimą šalyje. [šaltinis](https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss)  
+- Po kelių savaičių nuo laivo avarijos prie JAE pakrantės pastebėta milžiniška naftos dėmė, keliančia grėsmes vietinei aplinkai. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss)  
+- Izraelio pajėgos atliko plačius reidus užimtuose Vakarų Krante, sulaikydamos dešimtis palestiniečių. [šaltinis](https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss)  
+- JAV gynybos ministerija pripažino Kinijos „Konfucijaus institutus“ kaip nacionalinio saugumo grėsmę. [šaltinis](https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss)
