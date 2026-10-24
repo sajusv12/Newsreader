@@ -1,23 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-24 20:14 UTC*
+*Atnaujinta: 2026-10-24 21:17 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Lietuvoje tėvų ir vaiko priežiūros atostogos naudojamos labai retai dėl nepakankamos informacijos ir socialinių iššūkių. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3092125/teciai-ir-vaiko-prieziuros-atostogos-kodel-lietuvoje-vangiai-naudojamasi)  
-- Nepaisant ES investicijų, trūksta specialistų ir regionų atskirtis išlieka, nes lėšos nepakankamai paskirstomos. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3092089/truksta-specialistu-es-investicijos-keicia-miestus-bet-regionu-atskirtis-islieka)  
-- Siūlomas įstatymas galėtų suteikti platformų darbuotojams Lietuvoje daugiau darbo teisių ir socialinės apsaugos. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090358/proposed-law-could-give-lithuanian-platform-workers-more-rights-and-social-protections)  
-- Lietuvos aplinkos tarnyba patvirtino Rheinmetall amunicijos gamyklos statybą, kas kelia diskusijas dėl aplinkosaugos. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091313/lithuania-s-environment-agency-greenlights-rheinmetall-ammo-factory)  
-- Šiandien žiemos sezonui Lietuvos oro uostai siūlo 74 skrydžių maršrutus, tai – šešių maršrutų mažiau nei praėjusius metus. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091230/lithuanian-airports-to-offer-74-routes-this-winter-six-fewer-than-last-year)  
-- Ekspertai teigia, kad daug nepakankamai diagnozuotų žmonių Lietuvoje kenčia nuo ADHD. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091338/many-undiagnosed-people-in-lithuania-suffer-from-adhd-experts-say)  
-- Lietuvos rinkodaros specialistas buvo priteistas mokėti aktoriui Clintui Eastwoodui 200 000 eurų dėl autorių teisių pažeidimo. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091226/lithuanian-marketer-ordered-to-pay-clint-eastwood-eur200-000)
+- Dėl kontrabandinėmis balionais keliamų grėsmių virš Kauno oro uosto įvesti oro erdvės ribojimai, kurie laikinai sustabdė skrydžius. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3092184/del-kontrabandiniu-balionu-ivesti-oro-erdves-ribojimai-virs-kauno-oro-uosto)  
+- Kūčiukai jau parduodami per ankstyvą gruodžio pradžią, o pirkėjų nuomonės dėl šios praktikos skiriasi – kai kurie džiaugiasi, kiti kritikuoja. [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3092160/kuciukai-jau-parduodami-pirkeju-nuomones-del-ankstyvos-prekybos-skirtingos)  
+- Klaipėdos „Dragūno“ rankininkai, užtikrintą pergale, pradėjo Europos taurės turnyrą. [šaltinis](https://www.lrt.lt/naujienos/sportas/10/3092183/klaipedos-draguno-rankininkai-uztikrinta-pergale-pradejo-europos-taures-turnyra)  
+- Lietuvoje tėvų ir vaiko priežiūros atostogos naudojamos labai retai, dėl nepakankamos informacijos ir kultūrinių įpročių. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3092125/teciai-ir-vaiko-prieziuros-atostogos-kodel-lietuvoje-tuo-vangiai-naudojamasi)  
+- Ekspertai teigia, kad daugelis neišdiagnozuotų žmonių Lietuvoje kenčia nuo ADHD, todėl būtina gerinti diagnostikos ir gydymo prieinamumą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091338/many-undiagnosed-people-in-lithuania-suffer-from-adhd-experts-say)  
+- Siūlomas įstatymas galėtų suteikti Lietuvos platformų darbuotojams didesnes darbo teises ir socialinę apsaugą. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090358/proposed-law-could-give-lithuanian-platform-workers-more-rights-and-social-protections)  
+- Lietuvos aplinkos apsaugos agentūra patvirtino Rheinmetall šaudmenų gamyklos statybą šalyje, kas sulaukė tiek teigiamų, tiek kritiškų reakcijų. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091313/lithuania-s-environment-agency-greenlights-rheinmetall-ammo-factory)
 
 ## 🌍 Pasaulyje
 
-- Ukraina pranešė, kad „Starlink“ ryšys dabar stabilus po ankstesnių tinklo apribojimų. [šaltinis](https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss)  
-- Dronų atakomis Ukraina bando uždaryti Maskvos oro uostus, siekdama apriboti Rusijos karines operacijas. [šaltinis](https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf)  
-- Rusijos smūgiai Kijevo mieste intensifikuojasi, o gyventojai patiria nuolatinį baimės ir smurto spaudimą. [šaltinis](https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf)  
-- Palestiniečių šeimos buvo iškeldintos iš Hebrono, kai Izraelio pajėgos nugriovė jų namus. [šaltinis](https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss)  
-- Tūkstančiai izraeliečių susirinko į protestus prieš Naftalio Netanjauo vyriausybę kelias dienas prieš rinkimus. [šaltinis](https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss)  
-- Paryžiaus gatvėse tūkstančiai demonstrantų dalyvavo protestuose, kai pareigūnai bandė nuslopinti tvarkos sutrikimus. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss)  
-- Turkija pasirašė naują susitarimą su Libija dėl Viduržemio jūros jūrinių ribų, kuris sustiprina įtampą su Graikija ir ES. [šaltinis](https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf)
+- Prieš Prancūzijos protestų kulminaciją buvo sulaikytas beveik 1000 demonstrantų po masinių gatvių susirėmimų. [šaltinis](https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss)  
+- Ukrainos vyriausybė pranešė, kad „Starlink“ ryšys dabar yra stabilus, po to kai buvo įvesti tinklo apribojimai. [šaltinis](https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss)  
+- Gazos gyventojai susiduria su sunkiu bado pavojumi, kadangi miestų kepyklos buvo uždarytos. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss)  
+- Tūkstančiai izraelitai susirinko prieš Netanyahu vyriausybę kelias dienas prieš rinkimus, o kai kurie analitikai teigia, kad karinis griežtinimas gali paveikti rinkimų rezultatą. [šaltinis](https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss)  
+- Turkija sudarė naują jūrų sienų susitarimą su Libija Viduržemio jūroje, kuris sustiprina įtampą su Graikija ir ES. [šaltinis](https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf)  
+- Rusija sulaikė japonišką žurnalistą, kas tampa dar viena ženklu besiblogstančių Rusijos ir Japonijos santykių. [šaltinis](https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-world-4025-rdf)  
+- Ukraina bandė pašalinti Rusijos oro uostus Maskvoje naudodama dronus, siekdama sustabdyti Maskvos skrydžių operacijas. [šaltinis](https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf)
