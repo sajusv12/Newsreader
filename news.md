@@ -1,29 +1,23 @@
 # Kas naujo
 
-*Atnaujinta: 2026-10-24 06:23 UTC*
+*Atnaujinta: 2026-10-24 07:29 UTC*
 
 ## 🇱🇹 Lietuvoje
 
-- Į eismo įvykius patyrė policininkas ir karys, abu įsivėlė į avarijas kelių eismo metu. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3092041/i-eismo-ivykius-pateko-policininkai-karys)  
-- JAV politikas Marco Rubio ragina kubiečius bendradarbiauti su Centrinės žvalgybos agentūra, bet įspėja juos elgtis atsargiai. [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3092040/marco-rubio-ragina-kubiecius-bendradarbiauti-su-cza-taciau-ispeja-elgtis-atsargiai)  
-- Panevėžyje dėl remonto darbų devynias valandas bus uždarytas Nemuno gatvės tiltas, apribojant eismo srautą. [šaltinis](https://www.lrt.lt/naujienos/eismas/7/3092039/panevezyje-del-remonto-darbu-devynioms-valandoms-bus-uzdarytas-eismas-nemuno-gatves-tiltu)  
-- Naktį Lietuvoje bus įvedamas žiemos laikas, laikas persikelia viena valanda į priekį. [šaltinis](https://www.lrt.lt/naujienos/lietuvoje/2/3092036/nakti-bus-ivedamas-ziemos-laikas)  
-- Vilniaus mieste ir rajone įvyko buitiniai konfliktai, kai neblaivūs žmonės su peiliais puolė kitus gyventojus. [šaltinis](https://www.15min.lt/naujiena/aktualu/nusikaltimaiirnelaimes/vilniaus-mieste-ir-rajone-neblaiviu-zmoniu-buitiniai-konfliktai-su-peiliais-59-2791658)  
-- Parlamentas svarsto įstatymą, kuris suteiktų platformų darbuotojams daugiau teisių ir socialinės apsaugos. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090358/proposed-law-could-give-lithuanian-platform-workers-more-rights-and-social-protections)  
-- Lietuvos aplinkos apsaugos agentūra patvirtino Rheinmetall šaudmenų gamyklos projektą šalyje. [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091313/lithuania-s-environment-agency-greenlights-rheinmetall-ammo-factory)
+- Adolfo Hitlerio kalnų rezidencijoje kilo gaisras, o įtariamasis sulaikytas [šaltinis](https://www.lrt.lt/naujienos/pasaulyje/6/3092054/adolfo-hitlerio-kalnu-rezidencijoje-kilo-gaisras-sulaikytas-itariamasis)  
+- „Fitch Ratings“ patvirtino, kad Lietuvos kredito reitingas išlieka A+ lygyje [šaltinis](https://www.lrt.lt/naujienos/verslas/4/3092050/fitch-ratings-patvirtino-dabartini-aplus-lietuvos-kredito-reitinga)  
+- Dūkštos upelio išmelioravimas sukėlė skandalą ir buvo pradėti skubių patikrinimų [šaltinis](https://www.15min.lt/naujiena/aktualu/lietuva/dukstos-upelio-ismelioravimas-sukele-skandala-pradeti-skubus-patikrinimai-56-2791494?utm_source=rssfeed_default&utm_medium=rss&utm_campaign=rssfeed)  
+- Ekspertai teigia, kad Lietuvoje daug neišdiagnozuotų žmonių kenčia nuo ADHD [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091338/many-undiagnosed-people-in-lithuania-suffer-from-adhd-experts-say)  
+- Siūlomas įstatymas galėtų suteikti platformų darbuotojams daugiau teisių ir socialinės apsaugos [šaltinis](https://www.lrt.lt/en/news-in-english/19/3090358/proposed-law-could-give-lithuanian-platform-workers-more-rights-and-social-protections)  
+- Lietuvos aplinkos apsaugos agentūra patvirtino Rheinmetall amunicijos gamyklos statybą šalyje [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091313/lithuania-s-environment-agency-greenlights-rheinmetall-ammo-factory)  
+- Lietuvos oro uostai žiemos sezonui siūlo 74 skrydžių maršrutus, tai šešis mažiau nei praėjusiais metais [šaltinis](https://www.lrt.lt/en/news-in-english/19/3091230/lithuanian-airports-to-offer-74-routes-this-winter-six-fewer-than-last-year)
 
 ## 🌍 Pasaulyje
 
-Prancūzija ruošiasi didelės protesto dienos organizavimui savaitę po visos šalies mastu išsiveržusių riotų. [šaltinis](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)  
-
-Rytų Afrikoje išlieka Ebola grėsmė: 65‑metė moteris tapo antrąja mirusia pacientė Kenijoje, o Uganda teigia, kad šalyje nėra aktyvių atvejų, tačiau situacija kelia susirūpinimą. [šaltinis BBC](https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss) [šaltinis DW](https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf)  
-
-Serbijos studentų judėjimas sukėlė įtampą, kai artimiausiuose rinkimuose prezidentas Vučić susidūrė su itin artima varžyba dėl naujo parlamento. [šaltinis](https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss)  
-
-Jorde įvyko tragiška šaudymo įvykis – septyni žmonės buvo nužudyti šventojo pamaldos ceremonijos metu. [šaltinis](https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss)  
-
-Jemeno miestelyje Taiz veikianti ligoninė perspėjo, kad dėl Houthi apgulties ji gali suskriūti per kelias dienas. [šaltinis](https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss)  
-
-Po tankerio, susidūrusio su pakrante JAE vandenyne, jau kelias savaites matomas milžiniškas naftos nuotėkis. [šaltinis](https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss)  
-
-Ukraina pradėjo dronų puolimus, siekdama užblokuoti Maskvos oro uostus ir sutrikdyti Rusijos oro eismo operacijas. [šaltinis](https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf)
+- Prancūzija ruošia protestų dieną likus savaitei po visos šalyje vykusių sukilimų. [šaltinis](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)  
+- Po gaisro Hitlerio „Eagles' Nest“ poilsio vietoje buvo sulaikytas įtariamas asmuo. [šaltinis](https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss)  
+- Serbijoje artėja įtempti parlamentiniai rinkimai, kur studentų judėjimas iškelia prezidentą Vučių į finišą, o rinkėjai susiduria su dideliu įtampų lygiu. [šaltinis](https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss)  
+- Kenijoje mirė 65‑metė moteris – antra Ebola mirčiai šalyje, tuo tarpu Ugandos sveikatos tarnyba teigia, kad šalyje šiuo metu nėra aktyvių infekcijų. [šaltinis BBC](https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss) ir [šaltinis DW](https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf)  
+- Jungtinės Tautos sumažino maisto pagalbą, dėl ko Vakarų Krante pabėgę palestiniečiai patiria augantį alkį. [šaltinis](https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss)  
+- Šiaurės Korėjos lyderis Kimas Džong Unas atvyko į Kiniją, o tai kelia tarptautinių santykių įtampą. [šaltinis](https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss)  
+- Ukrainos pajėgos pradėjo dronų atakas Maskvos oro uostams, bandydamos sustabdyti Rusijos intensyvuojamą spaudimą Kijevui. [šaltinis](https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-world-4025-rdf)
